@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Drama> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/South_Korea> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/2000/01/rdf-schema#label> "Drama City"@en .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ku_Hye-sun> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lee_Min-ki> .

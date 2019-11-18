@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Tockus> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Hornbill> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/2000/01/rdf-schema#label> "African grey hornbill"@en .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Bird> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_South_Africa> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_Africa> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Birds_of_Asia> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Bucerotiformes> .

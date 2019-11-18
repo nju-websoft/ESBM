@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/2000/01/rdf-schema#label> "Wehlaberg"@en .
+<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/HillsOfBrandenburg> .
+<http://dbpedia.org/resource/Wehlaberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Mountain> .
+<http://dbpedia.org/resource/Wehlaberg> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Brandenburg> .
+<http://dbpedia.org/resource/Wehlaberg> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Germany> .

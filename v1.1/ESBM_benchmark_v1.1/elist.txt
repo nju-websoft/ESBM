@@ -1,0 +1,176 @@
+eid	dataset	class	euri	elabel	tripleNum
+1	dbpedia	Agent	http://dbpedia.org/resource/3WAY_FM	3WAY FM	23
+2	dbpedia	Agent	http://dbpedia.org/resource/Adrian_Griffin	Adrian Griffin	103
+3	dbpedia	Agent	http://dbpedia.org/resource/Andrew_Kippis	Andrew Kippis	57
+4	dbpedia	Agent	http://dbpedia.org/resource/Anthony_Beaumont-Dark	Anthony Beaumont-Dark	40
+5	dbpedia	Agent	http://dbpedia.org/resource/Dallas_Keuchel	Dallas Keuchel	40
+6	dbpedia	Agent	http://dbpedia.org/resource/E._K._Mawlong	E. K. Mawlong	32
+7	dbpedia	Agent	http://dbpedia.org/resource/Finn_Schiander	Finn Schiander	47
+8	dbpedia	Agent	http://dbpedia.org/resource/Hagar_Wilde	Hagar Wilde	58
+9	dbpedia	Agent	http://dbpedia.org/resource/Ludwigsburg_University	Ludwigsburg University	31
+10	dbpedia	Agent	http://dbpedia.org/resource/Roderick_Carr	Roderick Carr	90
+11	dbpedia	Event	http://dbpedia.org/resource/2009–10_Swiss_Cup	2009–10 Swiss Cup	23
+12	dbpedia	Event	http://dbpedia.org/resource/2011_Kor_Royal_Cup	2011 Kor Royal Cup	22
+13	dbpedia	Event	http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final	2011 League of Ireland Cup Final	23
+14	dbpedia	Event	http://dbpedia.org/resource/2011_Sparta_Prague_Open	2011 Sparta Prague Open	24
+15	dbpedia	Event	http://dbpedia.org/resource/2012–13_UEFA_Champions_League	2012–13 UEFA Champions League	20
+16	dbpedia	Event	http://dbpedia.org/resource/Battle_of_Bregalnica	Battle of Bregalnica	51
+17	dbpedia	Event	http://dbpedia.org/resource/Battle_of_Rottofreddo	Battle of Rottofreddo	35
+18	dbpedia	Event	http://dbpedia.org/resource/Burgery_ambush	Burgery ambush	28
+19	dbpedia	Event	http://dbpedia.org/resource/Massacre_on_34th_Street	Massacre on 34th Street	25
+20	dbpedia	Event	http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's	Triathlon at the 2000 Summer Olympics – Men's	22
+21	dbpedia	Location	http://dbpedia.org/resource/Akalwadi	Akalwadi	31
+22	dbpedia	Location	http://dbpedia.org/resource/Chitita	Chitita	28
+23	dbpedia	Location	http://dbpedia.org/resource/Kuleh_Bayan	Kuleh Bayan	26
+24	dbpedia	Location	http://dbpedia.org/resource/Phong_Thạnh_Tây	Phong Thạnh Tây	34
+25	dbpedia	Location	http://dbpedia.org/resource/Reamer_Barn	Reamer Barn	28
+26	dbpedia	Location	http://dbpedia.org/resource/Richmond–Petersburg_Turnpike	Richmond–Petersburg Turnpike	34
+27	dbpedia	Location	http://dbpedia.org/resource/Uelsby	Uelsby	40
+28	dbpedia	Location	http://dbpedia.org/resource/Wehlaberg	Wehlaberg	22
+29	dbpedia	Location	http://dbpedia.org/resource/Wernshausen	Wernshausen	26
+30	dbpedia	Location	http://dbpedia.org/resource/Yayoidai_Station	Yayoidai Station	24
+31	dbpedia	Species	http://dbpedia.org/resource/African_grey_hornbill	African grey hornbill	33
+32	dbpedia	Species	http://dbpedia.org/resource/Bornean_mountain_ground_squirrel	Bornean mountain ground squirrel	24
+33	dbpedia	Species	http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros	Eastern Sumatran rhinoceros	29
+34	dbpedia	Species	http://dbpedia.org/resource/Enallagma_truncatum	Enallagma truncatum	22
+35	dbpedia	Species	http://dbpedia.org/resource/Lepiota_helveola	Lepiota helveola	28
+36	dbpedia	Species	http://dbpedia.org/resource/Lygodium_microphyllum	Lygodium microphyllum	57
+37	dbpedia	Species	http://dbpedia.org/resource/Ovophis	Ovophis	23
+38	dbpedia	Species	http://dbpedia.org/resource/Rubus_arizonensis	Rubus arizonensis	20
+39	dbpedia	Species	http://dbpedia.org/resource/Siamese_mud_carp	Siamese mud carp	27
+40	dbpedia	Species	http://dbpedia.org/resource/Trachelipus_dimorphus	Trachelipus dimorphus	22
+41	dbpedia	Work	http://dbpedia.org/resource/Foppt_den_Dämon!	Foppt den Dämon!	23
+42	dbpedia	Work	http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)	Hey Boy (Teddybears song)	46
+43	dbpedia	Work	http://dbpedia.org/resource/King_of_the_Mountain_(film)	King of the Mountain (film)	44
+44	dbpedia	Work	http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)	Our Leading Citizen (1939 film)	26
+45	dbpedia	Work	http://dbpedia.org/resource/Simon_(2004_film)	Simon (2004 film)	22
+46	dbpedia	Work	http://dbpedia.org/resource/Sketchy_EP_1	Sketchy EP 1	21
+47	dbpedia	Work	http://dbpedia.org/resource/Sky_(Faye_Wong_album)	Sky (Faye Wong album)	38
+48	dbpedia	Work	http://dbpedia.org/resource/Sting_Me	Sting Me	36
+49	dbpedia	Work	http://dbpedia.org/resource/The_Crowd_Snores	The Crowd Snores	22
+50	dbpedia	Work	http://dbpedia.org/resource/Touch_of_Death_(1961_film)	Touch of Death (1961 film)	20
+51	dbpedia	Agent	http://dbpedia.org/resource/Ashot_I_of_Iberia	Ashot I of Iberia	68
+52	dbpedia	Agent	http://dbpedia.org/resource/Cindy_Mackey	Cindy Mackey	50
+53	dbpedia	Agent	http://dbpedia.org/resource/Edmund_Smith_Conklin	Edmund Smith Conklin	29
+54	dbpedia	Agent	http://dbpedia.org/resource/Fabrice_Gautrat	Fabrice Gautrat	49
+55	dbpedia	Agent	http://dbpedia.org/resource/Hiroshi_Mori_(writer)	Hiroshi Mori (writer)	57
+56	dbpedia	Agent	http://dbpedia.org/resource/Momchil_Tsvetanov	Momchil Tsvetanov	75
+57	dbpedia	Agent	http://dbpedia.org/resource/Najmadin_Shukr_Rauf	Najmadin Shukr Rauf	48
+58	dbpedia	Agent	http://dbpedia.org/resource/Storme_Warren	Storme Warren	38
+59	dbpedia	Agent	http://dbpedia.org/resource/Svyatoslav_Tanasov	Svyatoslav Tanasov	45
+60	dbpedia	Agent	http://dbpedia.org/resource/William_Anthony_Hughes	William Anthony Hughes	55
+61	dbpedia	Event	http://dbpedia.org/resource/1960_Glover_Trophy	1960 Glover Trophy	31
+62	dbpedia	Event	http://dbpedia.org/resource/1967_Italian_Grand_Prix	1967 Italian Grand Prix	37
+63	dbpedia	Event	http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal	2008 Copa América – FIFA Futsal	27
+64	dbpedia	Event	http://dbpedia.org/resource/2008_Copa_del_Rey_Final	2008 Copa del Rey Final	26
+65	dbpedia	Event	http://dbpedia.org/resource/2010_Belgian_Super_Cup	2010 Belgian Super Cup	25
+66	dbpedia	Event	http://dbpedia.org/resource/2013_Slovak_Cup_Final	2013 Slovak Cup Final	24
+67	dbpedia	Event	http://dbpedia.org/resource/Battle_of_Calicut_(1502)	Battle of Calicut (1502)	29
+68	dbpedia	Event	http://dbpedia.org/resource/Battle_of_Cepeda_(1820)	Battle of Cepeda (1820)	25
+69	dbpedia	Event	http://dbpedia.org/resource/Battle_on_the_Elster	Battle on the Elster	36
+70	dbpedia	Event	http://dbpedia.org/resource/Operation_Hump	Operation Hump	54
+71	dbpedia	Location	http://dbpedia.org/resource/Darreh_Dang	Darreh Dang	39
+72	dbpedia	Location	http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa	Jalalia, Khyber Pakhtunkhwa	33
+73	dbpedia	Location	http://dbpedia.org/resource/Kings_Ripton	Kings Ripton	37
+74	dbpedia	Location	http://dbpedia.org/resource/Kotumachagi	Kotumachagi	37
+75	dbpedia	Location	http://dbpedia.org/resource/Muławki	Muławki	35
+76	dbpedia	Location	http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)	Pinnacle Mountain (South Carolina)	36
+77	dbpedia	Location	http://dbpedia.org/resource/Saint-Raphaël,_Var	Saint-Raphaël, Var	67
+78	dbpedia	Location	http://dbpedia.org/resource/Sauxillanges	Sauxillanges	35
+79	dbpedia	Location	http://dbpedia.org/resource/Stara_Bučka	Stara Bučka	36
+80	dbpedia	Location	http://dbpedia.org/resource/Zarudcze	Zarudcze	34
+81	dbpedia	Species	http://dbpedia.org/resource/Amphisbaena_ridleyi	Amphisbaena ridleyi	35
+82	dbpedia	Species	http://dbpedia.org/resource/Balanites	Balanites	21
+83	dbpedia	Species	http://dbpedia.org/resource/Bryotropha_plantariella	Bryotropha plantariella	23
+84	dbpedia	Species	http://dbpedia.org/resource/Hilarographa_excellens	Hilarographa excellens	22
+85	dbpedia	Species	http://dbpedia.org/resource/Inverted_repeat-lacking_clade	Inverted repeat-lacking clade	23
+86	dbpedia	Species	http://dbpedia.org/resource/Melaleuca_sheathiana	Melaleuca sheathiana	20
+87	dbpedia	Species	http://dbpedia.org/resource/Pseudanos_trimaculatus	Pseudanos trimaculatus	23
+88	dbpedia	Species	http://dbpedia.org/resource/Stemonoporus_laevifolius	Stemonoporus laevifolius	27
+89	dbpedia	Species	http://dbpedia.org/resource/Thaia_saprophytica	Thaia saprophytica	21
+90	dbpedia	Species	http://dbpedia.org/resource/Trichoscypha_cavalliensis	Trichoscypha cavalliensis	25
+91	dbpedia	Work	http://dbpedia.org/resource/392_(album)	392 (album)	23
+92	dbpedia	Work	http://dbpedia.org/resource/Drama_City	Drama City	31
+93	dbpedia	Work	http://dbpedia.org/resource/If_(Glasvegas_song)	If (Glasvegas song)	25
+94	dbpedia	Work	http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)	Intensive Care Medicine (journal)	29
+95	dbpedia	Work	http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me	It's Still Rock and Roll to Me	34
+96	dbpedia	Work	http://dbpedia.org/resource/Politiken	Politiken	43
+97	dbpedia	Work	http://dbpedia.org/resource/Rebel_Love_Song	Rebel Love Song	33
+98	dbpedia	Work	http://dbpedia.org/resource/Terrorist_Threats	Terrorist Threats	51
+99	dbpedia	Work	http://dbpedia.org/resource/Time_(Dave_Clark_album)	Time (Dave Clark album)	31
+100	dbpedia	Work	http://dbpedia.org/resource/Wide_Awake_Drunk	Wide Awake Drunk	31
+141	dbpedia	Agent	http://dbpedia.org/resource/A._Scott_Sloan	A. Scott Sloan	72
+142	dbpedia	Agent	http://dbpedia.org/resource/Juhan_Muks	Juhan Muks	38
+143	dbpedia	Agent	http://dbpedia.org/resource/Lucy_Ward_(musician)	Lucy Ward (musician)	73
+144	dbpedia	Agent	http://dbpedia.org/resource/Pe_Maung_Tin	Pe Maung Tin	64
+145	dbpedia	Agent	http://dbpedia.org/resource/Roque_Ceruti	Roque Ceruti	29
+146	dbpedia	Event	http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations	2013 Gulf Cup of Nations	32
+147	dbpedia	Event	http://dbpedia.org/resource/Battle_of_Sampur	Battle of Sampur	33
+148	dbpedia	Event	http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)	Battle of Zacatecas (1914)	22
+149	dbpedia	Event	http://dbpedia.org/resource/Convoy_HX_156	Convoy HX 156	20
+150	dbpedia	Event	http://dbpedia.org/resource/Raid_on_Griessie	Raid on Griessie	50
+151	dbpedia	Location	http://dbpedia.org/resource/Ayrovo	Ayrovo	20
+152	dbpedia	Location	http://dbpedia.org/resource/Fleckistock	Fleckistock	39
+153	dbpedia	Location	http://dbpedia.org/resource/Henlow	Henlow	36
+154	dbpedia	Location	http://dbpedia.org/resource/North_Haledon,_New_Jersey	North Haledon, New Jersey	70
+155	dbpedia	Location	http://dbpedia.org/resource/Tchonoro	Tchonoro	32
+156	dbpedia	Species	http://dbpedia.org/resource/Gerbil_mouse	Gerbil mouse	20
+157	dbpedia	Species	http://dbpedia.org/resource/Gonyosoma_hodgsoni	Gonyosoma hodgsoni	31
+158	dbpedia	Species	http://dbpedia.org/resource/Lineatriton_orchimelas	Lineatriton orchimelas	27
+159	dbpedia	Species	http://dbpedia.org/resource/Nemapogon_nigralbella	Nemapogon nigralbella	21
+160	dbpedia	Species	http://dbpedia.org/resource/Schistura_jarutanini	Schistura jarutanini	23
+161	dbpedia	Work	http://dbpedia.org/resource/Can_U_Get_wit_It	Can U Get wit It	41
+162	dbpedia	Work	http://dbpedia.org/resource/Kaalpurush	Kaalpurush	43
+163	dbpedia	Work	http://dbpedia.org/resource/Silence_Is_Easy_(song)	Silence Is Easy (song)	38
+164	dbpedia	Work	http://dbpedia.org/resource/The_Honolulu_Advertiser	The Honolulu Advertiser	43
+165	dbpedia	Work	http://dbpedia.org/resource/You_Better_Run	You Better Run	61
+101	lmdb	film	http://data.linkedmdb.org/resource/film/12398	Men in White	42
+102	lmdb	film	http://data.linkedmdb.org/resource/film/12710	Megaville	29
+103	lmdb	film	http://data.linkedmdb.org/resource/film/14299	Briana Loves Jenna	26
+104	lmdb	film	http://data.linkedmdb.org/resource/film/14438	Now You See Him, Now You Don't	40
+105	lmdb	film	http://data.linkedmdb.org/resource/film/2108	Dumb & Dumberer	40
+106	lmdb	film	http://data.linkedmdb.org/resource/film/2381	What's New Pussycat?	48
+107	lmdb	film	http://data.linkedmdb.org/resource/film/2572	Biggie & Tupac	35
+108	lmdb	film	http://data.linkedmdb.org/resource/film/4053	A Man, a Real One	39
+109	lmdb	film	http://data.linkedmdb.org/resource/film/41006	The Incredibly True Adventure of Two Girls in Love	22
+110	lmdb	film	http://data.linkedmdb.org/resource/film/41408	The Spiral Staircase	24
+111	lmdb	film	http://data.linkedmdb.org/resource/film/41573	Broken Lance	27
+112	lmdb	film	http://data.linkedmdb.org/resource/film/4501	Super-Warrior Defeat!! I'm the One who'll Win	38
+113	lmdb	film	http://data.linkedmdb.org/resource/film/5232	The Mummy's Tomb	39
+114	lmdb	film	http://data.linkedmdb.org/resource/film/6191	Satomi Hakkenden	32
+115	lmdb	film	http://data.linkedmdb.org/resource/film/6213	The Handmaid's Tale	47
+116	lmdb	film	http://data.linkedmdb.org/resource/film/6468	Magnum, P.I.	25
+117	lmdb	film	http://data.linkedmdb.org/resource/film/70866	Routine Check Ups 4	25
+118	lmdb	film	http://data.linkedmdb.org/resource/film/7348	Bill: On His Own	34
+119	lmdb	film	http://data.linkedmdb.org/resource/film/7963	The Aftermath	30
+120	lmdb	film	http://data.linkedmdb.org/resource/film/8446	Mighty Joe Young	35
+121	lmdb	Person	http://data.linkedmdb.org/resource/director/10100	Abel Ferrara (Director)	46
+122	lmdb	Person	http://data.linkedmdb.org/resource/director/10846	Paul Morris (Director)	48
+123	lmdb	Person	http://data.linkedmdb.org/resource/actor/29369	Arnold Schwarzenegger (Actor)	77
+124	lmdb	Person	http://data.linkedmdb.org/resource/actor/30569	Elsa Lanchester (Actor)	50
+125	lmdb	Person	http://data.linkedmdb.org/resource/actor/30598	Tom Courtenay (Actor)	50
+126	lmdb	Person	http://data.linkedmdb.org/resource/actor/31707	Margaret Colin (Actor)	34
+127	lmdb	Person	http://data.linkedmdb.org/resource/actor/32500	Byron Long (Actor)	52
+128	lmdb	Person	http://data.linkedmdb.org/resource/actor/32648	Tomokazu Seki (Actor)	35
+129	lmdb	Person	http://data.linkedmdb.org/resource/actor/33137	Maurice LaMarche (Actor)	60
+130	lmdb	Person	http://data.linkedmdb.org/resource/actor/34577	James Naughton (Actor)	34
+131	lmdb	Person	http://data.linkedmdb.org/resource/actor/36141	Francis Ng (Actor)	52
+132	lmdb	Person	http://data.linkedmdb.org/resource/actor/38225	Dante Basco (Actor)	37
+133	lmdb	Person	http://data.linkedmdb.org/resource/actor/38875	James Hong (Actor)	51
+134	lmdb	Person	http://data.linkedmdb.org/resource/actor/39725	Tom Hollander (Actor)	40
+135	lmdb	Person	http://data.linkedmdb.org/resource/director/416	Fred C. Newmeyer (Director)	52
+136	lmdb	Person	http://data.linkedmdb.org/resource/actor/43265	Prakash Raj (Actor)	208
+137	lmdb	Person	http://data.linkedmdb.org/resource/actor/52869	Sara Berner (Actor)	32
+138	lmdb	Person	http://data.linkedmdb.org/resource/actor/62725	Rod Daily (Actor)	42
+139	lmdb	Person	http://data.linkedmdb.org/resource/actor/67878	Devyn Foster (Actor)	44
+140	lmdb	Person	http://data.linkedmdb.org/resource/director/8669	Ringo Lam (Director)	36
+166	lmdb	film	http://data.linkedmdb.org/resource/film/1338	Soldier	46
+167	lmdb	film	http://data.linkedmdb.org/resource/film/16986	Anything Goes	39
+168	lmdb	film	http://data.linkedmdb.org/resource/film/44555	LOC Kargil	63
+169	lmdb	film	http://data.linkedmdb.org/resource/film/49	Chang	25
+170	lmdb	film	http://data.linkedmdb.org/resource/film/5089	The Overlanders	38
+171	lmdb	Person	http://data.linkedmdb.org/resource/director/14418	Mack V. Wright (Director)	36
+172	lmdb	Person	http://data.linkedmdb.org/resource/actor/30423	Rowan Atkinson (Actor)	44
+173	lmdb	Person	http://data.linkedmdb.org/resource/actor/47032	Columbus Short (Actor)	32
+174	lmdb	Person	http://data.linkedmdb.org/resource/actor/47469	Alice Braga (Actor)	32
+175	lmdb	Person	http://data.linkedmdb.org/resource/director/8424	James Cameron (Director)	36

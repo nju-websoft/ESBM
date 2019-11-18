@@ -1,0 +1,35 @@
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Event100029378> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ConflictsIn1746> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Battle100953559> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PsychologicalFeature100023100> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingAustria> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Act100030358> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Conflict100958896> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MilitaryAction100952963> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GroupAction101080366> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingFrance> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/War_of_the_Austrian_Succession> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/result> "French victory" .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Rottofreddo"@en .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Antoniotto_Botta_Adorno> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/date> "1746-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1746_in_Austria> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_France> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1746_in_Italy> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1746_in_France> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1746> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Austria> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://xmlns.com/foaf/0.1/name> "Battle of Rottofreddo"@en .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Province_of_Piacenza> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Italy> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Rottofreno> .

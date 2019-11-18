@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/62725> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000b91415f> .
+<http://data.linkedmdb.org/resource/actor/62725> <http://data.linkedmdb.org/resource/movie/actor_name> "Rod Daily" .
+<http://data.linkedmdb.org/resource/film/83479> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/62725> .
+<http://data.linkedmdb.org/resource/film/83452> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/62725> .
+<http://data.linkedmdb.org/resource/film/78626> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/62725> .
+<http://data.linkedmdb.org/resource/actor/62725> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/158778> .
+<http://data.linkedmdb.org/resource/actor/62725> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/171445> .
+<http://data.linkedmdb.org/resource/actor/62725> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/158783> .
+<http://data.linkedmdb.org/resource/actor/62725> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/161551> .
+<http://data.linkedmdb.org/resource/actor/62725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .

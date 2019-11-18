@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://xmlns.com/foaf/0.1/name> "Foppt den Dämon!"@en .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_metal> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Subway_to_Sally> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1996_albums> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Red_Rooster_Records> .

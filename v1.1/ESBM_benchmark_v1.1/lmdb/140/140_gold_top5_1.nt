@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/director/8669> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/45707> .
+<http://data.linkedmdb.org/resource/director/8669> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2661> .
+<http://data.linkedmdb.org/resource/director/8669> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/64450> .
+<http://data.linkedmdb.org/resource/director/8669> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/39853> .
+<http://data.linkedmdb.org/resource/director/8669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .

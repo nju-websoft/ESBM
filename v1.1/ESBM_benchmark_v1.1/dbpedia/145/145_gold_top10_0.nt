@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Roque_Ceruti> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Musicians_from_Milan> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Italian_male_classical_composers> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:18th-century_classical_composers> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Peruvian_composers> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Baroque_composers> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://dbpedia.org/ontology/birthDate> "1683"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://dbpedia.org/ontology/deathYear> "1760"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://xmlns.com/foaf/0.1/name> "Roque Ceruti"@en .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://dbpedia.org/ontology/deathDate> "1760"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://dbpedia.org/ontology/birthYear> "1683"^^<http://www.w3.org/2001/XMLSchema#gYear> .

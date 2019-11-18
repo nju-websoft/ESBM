@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/World_War_II> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/date> "1941-10-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Admiral> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Atlantic_Ocean> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .

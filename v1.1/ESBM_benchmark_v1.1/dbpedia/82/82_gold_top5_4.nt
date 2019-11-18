@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Balanites> <http://www.w3.org/2000/01/rdf-schema#label> "Balanites"@en .
+<http://dbpedia.org/resource/Balanites> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Balanites> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Rosids> .
+<http://dbpedia.org/resource/Balanites_aegyptiaca> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Balanites> .
+<http://dbpedia.org/resource/Balanites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .

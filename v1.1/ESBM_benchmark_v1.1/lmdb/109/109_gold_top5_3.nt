@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/7390> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/41006> .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/377> .
+<http://data.linkedmdb.org/resource/film/41006> <http://purl.org/dc/terms/date> "1995" .
+<http://data.linkedmdb.org/resource/film/41006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13110> .

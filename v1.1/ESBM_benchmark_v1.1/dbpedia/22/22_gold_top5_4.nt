@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Chitita> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Arica_y_Parinacota_Region> .
+<http://dbpedia.org/resource/Chitita> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Village> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Chitita> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Chile> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/2000/01/rdf-schema#label> "Chitita"@en .

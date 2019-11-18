@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Epic_Records> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hip_hop_music> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Wid_Out_Ya> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/runtime> "221.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Cobrastyle> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2004_singles> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q134556> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://xmlns.com/foaf/0.1/name> "Hey Boy"@en .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Teddybears> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Fresh_(Teddybears_album)> .

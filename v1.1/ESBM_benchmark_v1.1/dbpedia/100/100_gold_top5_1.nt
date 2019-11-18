@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Indie_folk> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Greg_Connors> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Stan_Satin> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/New_York> .

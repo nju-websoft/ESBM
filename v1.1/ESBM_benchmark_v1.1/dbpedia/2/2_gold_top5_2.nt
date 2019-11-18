@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/2000/01/rdf-schema#label> "Adrian Griffin"@en .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BasketballPlayer109842047> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/elements/1.1/description> "American basketball player-coach"@en .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/height> "1.9558"^^<http://www.w3.org/2001/XMLSchema#double> .

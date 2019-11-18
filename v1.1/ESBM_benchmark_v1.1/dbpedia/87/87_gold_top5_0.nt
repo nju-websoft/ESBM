@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Actinopterygii> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .

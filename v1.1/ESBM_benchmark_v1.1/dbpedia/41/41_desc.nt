@@ -1,0 +1,23 @@
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q482994> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/MCMXCV_(album)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Foppt_den_Dämon!> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://xmlns.com/foaf/0.1/name> "Foppt den Dämon!"@en .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Album> .
+<http://dbpedia.org/resource/Bannkreis> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Foppt_den_Dämon!> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/2000/01/rdf-schema#label> "Foppt den Dämon!"@en .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_metal> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_folk_rock> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/runtime> "2528.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Bannkreis> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/MCMXCV_(album)> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Subway_to_Sally> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Subway_to_Sally_albums> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1996_albums> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Red_Rooster_Records> .

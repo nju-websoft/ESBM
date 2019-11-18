@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/William_Vincent_Fitzgerald> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://xmlns.com/foaf/0.1/name> "Silver Cajuput"@en .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Myrtales_of_Australia> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Western_Australia> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Plants_described_in_1902> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Melaleuca> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Myrtaceae> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Myrtales> .

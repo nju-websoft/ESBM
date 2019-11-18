@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/16986> <http://purl.org/dc/terms/title> "Anything Goes" .
+<http://data.linkedmdb.org/resource/film/16986> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Anything_Goes_(film)> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/film_art_director> <http://data.linkedmdb.org/resource/film_art_director/4> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/16079> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/14754> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/14938> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8590> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/3033> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/9> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5826> .

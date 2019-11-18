@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q8502> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/nationalTopographicSystemMapNumber> "USGSTable Rock" .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/mountainRange> <http://dbpedia.org/resource/Blue_Ridge_Mountains> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.georss.org/georss/point> "35.033611111111114 -82.74138888888889" .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Landforms_of_Pickens_County,_South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://xmlns.com/foaf/0.1/name> "Pinnacle Mountain"@en .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/prominence> "214.884"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "35.03361"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/2000/01/rdf-schema#label> "Pinnacle Mountain (South Carolina)"@en .

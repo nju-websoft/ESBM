@@ -1,0 +1,25 @@
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/filmid> "6468"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/17242> .
+<http://data.linkedmdb.org/resource/film/6468> <http://purl.org/dc/terms/date> "2007" .
+<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/73576> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/43526> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/55985> .
+<http://data.linkedmdb.org/resource/film/6468> <http://purl.org/dc/terms/title> "Magnum, P.I." .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2007" .
+<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/2000/01/rdf-schema#label> "Magnum, P.I." .
+<http://data.linkedmdb.org/resource/film/6468> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0756681> .
+<http://data.linkedmdb.org/resource/film/6468> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000b3087f> .
+<http://data.linkedmdb.org/resource/film/6468> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0756681> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/11092> .
+<http://data.linkedmdb.org/resource/director/11328> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6468> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32753> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/35595> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/49301> .
+<http://data.linkedmdb.org/resource/interlink/21528> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6468> .
+<http://data.linkedmdb.org/resource/interlink/139511> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6468> .
+<http://data.linkedmdb.org/resource/interlink/2995> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6468> .
+<http://data.linkedmdb.org/resource/interlink/40061> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6468> .
+<http://data.linkedmdb.org/resource/film/6468> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Magnum,_P.I.> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11328> .

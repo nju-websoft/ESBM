@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/2000/01/rdf-schema#label> "Silence Is Easy (song)"@en .
+<http://dbpedia.org/resource/Poor_Misguided_Fool> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Silence_Is_Easy_(song)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Poor_Misguided_Fool> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Born_Again_(Starsailor_song)> .
+<http://dbpedia.org/resource/Born_Again_(Starsailor_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Silence_Is_Easy_(song)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://xmlns.com/foaf/0.1/name> "Silence Is Easy"@en .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Silence_Is_Easy> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Starsailor_(band)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_James_Walsh_(musician)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Barry_Westhead> .

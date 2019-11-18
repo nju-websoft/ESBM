@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Reamer_Barn> <http://xmlns.com/foaf/0.1/name> "Reamer Barn"@en .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Ohio_State_Route_511> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/nrhpReferenceNumber> "79001889" .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.georss.org/georss/point> "41.29388888888889 -82.245" .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/2000/01/rdf-schema#label> "Reamer Barn"@en .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/filmid> "49"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/49> <http://purl.org/dc/terms/title> "Chang" .
+<http://data.linkedmdb.org/resource/film/49> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0017743> .
+<http://data.linkedmdb.org/resource/film/49> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000000560b5> .
+<http://data.linkedmdb.org/resource/film/49> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0017743> .

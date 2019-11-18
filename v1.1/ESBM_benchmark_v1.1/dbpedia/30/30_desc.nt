@@ -1,0 +1,24 @@
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/openingYear> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/servingRailwayLine> <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Yayoidai Station"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Sagami-railway-izumino-line-Yayoidai-station-south-entrance.jpg?width=300> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "5-2 Yayoidai"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "神奈川県 横浜市泉区弥生台５－２"@ja .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Station> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q719456> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q55488> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchitecturalStructure> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RailwayStation> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Railway_stations_in_Yokohama> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/operatedBy> <http://dbpedia.org/resource/Sagami_Railway> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/passengersPerDay> "16032"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://xmlns.com/foaf/0.1/name> "弥生台"@ja .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://xmlns.com/foaf/0.1/name> "Yayoidai"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Sagami-railway-izumino-line-Yayoidai-station-south-entrance.jpg> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/postalCode> "245-0008" .

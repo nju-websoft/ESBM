@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Vasco_da_Gama> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1503_in_India> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/result> "Portuguesevictory" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "6 caravels" .

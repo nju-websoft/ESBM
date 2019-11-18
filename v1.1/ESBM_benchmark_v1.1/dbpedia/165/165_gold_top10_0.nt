@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Pat_Benatar> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/The_Rascals> .
+<http://dbpedia.org/resource/You_Better_Run> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Chrysalis_Records_singles> .
+<http://dbpedia.org/resource/You_Better_Run> <http://xmlns.com/foaf/0.1/name> "You Better Run"@en .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Felix_Cavaliere> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Eddie_Brigati> .
+<http://dbpedia.org/resource/You_Better_Run> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/You_Better_Run> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/TheRascalsSongs> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/The_Rascals> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Pat_Benatar> .

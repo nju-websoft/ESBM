@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/department> <http://dbpedia.org/resource/Puy-de-Dôme> .
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Auvergne_(region)> .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/populationTotal> "1151"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

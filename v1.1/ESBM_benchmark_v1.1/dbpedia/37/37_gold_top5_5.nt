@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Viperidae> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Reptile> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/synonym> "In Romano-Hoge, 1981" .

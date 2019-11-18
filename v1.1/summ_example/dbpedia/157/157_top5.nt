@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/2000/01/rdf-schema#label> "Gonyosoma hodgsoni"@en .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://xmlns.com/foaf/0.1/name> "Gonyosoma hodgsoni"@en .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/synonym> "Elaphe hodgsoni" .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Gonyosoma> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Colubrids> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Mawmih> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/East_Khasi_Hills_district> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/2000/01/rdf-schema#label> "E. K. Mawlong"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/surname> "Mawlong"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/name> "E.K. Mawlong"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthDate> "1946-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathDate> "2008-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_East_Khasi_Hills_district> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Chief_Ministers_of_Meghalaya> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/name> "E.K. Mawlong"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/392_(album)> <http://dbpedia.org/ontology/runtime> "2594.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/392_(album)> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Japanese_language> .
+<http://dbpedia.org/resource/392_(album)> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/CNBLUE> .
+<http://dbpedia.org/resource/392_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/392_(album)> <http://dbpedia.org/ontology/releaseDate> "2011-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://xmlns.com/foaf/0.1/givenName> "Najmadin Shukr"@en .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Kirkuk_Governorate> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://xmlns.com/foaf/0.1/name> "Rauf, Najmadin Shukr"@en .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://xmlns.com/foaf/0.1/name> "Najmadin Shukr Rauf"@en .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Kirkuk_Province> .

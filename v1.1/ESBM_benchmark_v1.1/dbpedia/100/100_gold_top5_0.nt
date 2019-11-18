@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2009_albums> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Indie_folk> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Stan_Satin> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/runtime> "3259.0"^^<http://www.w3.org/2001/XMLSchema#double> .

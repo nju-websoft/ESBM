@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/filmid> "16986"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/16986> <http://purl.org/dc/terms/title> "Anything Goes" .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/film_art_director> <http://data.linkedmdb.org/resource/film_art_director/4> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/16079> .
+<http://data.linkedmdb.org/resource/film/16986> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0048954/> .

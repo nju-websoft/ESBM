@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/conservationStatus> "LC" .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Nesomyid_rodents> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://xmlns.com/foaf/0.1/name> "Gerbil mouse"@en .
+<http://dbpedia.org/resource/Gerbil_mouse> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Rodent> .

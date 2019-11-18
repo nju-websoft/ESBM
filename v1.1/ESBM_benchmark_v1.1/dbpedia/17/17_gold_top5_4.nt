@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/War_of_the_Austrian_Succession> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/date> "1746-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://xmlns.com/foaf/0.1/name> "Battle of Rottofreddo"@en .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Italy> .

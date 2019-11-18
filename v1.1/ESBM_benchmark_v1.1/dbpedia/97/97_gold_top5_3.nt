@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/runtime> "237.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hard_rock> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Black_Veil_Brides> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Set_the_World_on_Fire_(Black_Veil_Brides_album)> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/2000/01/rdf-schema#label> "Silence Is Easy (song)"@en .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q134556> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_James_Walsh_(musician)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Barry_Westhead> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_James_Stelfox> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Song_recordings_produced_by_Phil_Spector> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/releaseDate> "2003-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Alternative_rock> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Starsailor_(band)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Silence_Is_Easy> .

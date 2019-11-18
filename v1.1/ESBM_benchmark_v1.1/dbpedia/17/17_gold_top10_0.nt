@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/result> "French victory" .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Rottofreddo"@en .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Antoniotto_Botta_Adorno> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/date> "1746-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1746_in_Italy> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1746> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Province_of_Piacenza> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Italy> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Rottofreno> .

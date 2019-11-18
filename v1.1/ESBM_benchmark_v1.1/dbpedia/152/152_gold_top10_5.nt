@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Switzerland> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Canton_of_Uri> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/otherName> "Rot Stock"@en .
+<http://dbpedia.org/resource/Fleckistock> <http://www.georss.org/georss/point> "46.70736111111111 8.497666666666667" .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/mountainRange> <http://dbpedia.org/resource/Uri_Alps> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/elevation> "3417.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MountainsOfTheAlps> .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> .
+<http://dbpedia.org/resource/Fleckistock> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mountains_of_the_canton_of_Uri> .

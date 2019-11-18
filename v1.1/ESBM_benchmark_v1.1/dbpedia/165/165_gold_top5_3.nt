@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/The_Rascals> .
+<http://dbpedia.org/resource/You_Better_Run> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1966_singles> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Groovin'_(The_Young_Rascals_album)> .
+<http://dbpedia.org/resource/You_Better_Run> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Chrysalis_Records> .
+<http://dbpedia.org/resource/You_Better_Run> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Song107048000> .

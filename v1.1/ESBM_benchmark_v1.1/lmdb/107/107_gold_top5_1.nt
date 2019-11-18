@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/9690> .
+<http://data.linkedmdb.org/resource/film/2572> <http://purl.org/dc/terms/date> "2002-01-11" .
+<http://data.linkedmdb.org/resource/film/2572> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34874> .
+<http://data.linkedmdb.org/resource/film/2572> <http://www.w3.org/2000/01/rdf-schema#label> "Biggie & Tupac" .
+<http://data.linkedmdb.org/resource/film/2572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

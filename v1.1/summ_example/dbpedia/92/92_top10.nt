@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Drama_City> <http://xmlns.com/foaf/0.1/name> "Drama City"@en .
+<http://dbpedia.org/resource/Drama_City> <http://xmlns.com/foaf/0.1/homepage> <http://www.kbs.co.kr/drama/dramacity/> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/2000/01/rdf-schema#label> "Drama City"@en .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Kim_Ji-woo> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/completionDate> "2008-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lee_Pil-mo> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Kim_Jeong-hoon> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/releaseDate> "1984-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ku_Hye-sun> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Lee_Min-ki> .

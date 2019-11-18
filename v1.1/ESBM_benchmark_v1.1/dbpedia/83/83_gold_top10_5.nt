@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Gelechia cinerosella (Tengström, 1848)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://xmlns.com/foaf/0.1/name> "Bryotropha plantariella"@en .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Insect> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Gelechiidae> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1848> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/2000/01/rdf-schema#label> "Bryotropha plantariella"@en .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Bryotropha> .

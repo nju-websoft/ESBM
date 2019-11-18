@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/2000/01/rdf-schema#label> "King of the Mountain (film)"@en .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/H.R._Christian> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Jack_Frost_Sanders> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://xmlns.com/foaf/0.1/name> "King of the Mountain"@en .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Deborah_Van_Valkenburgh> .

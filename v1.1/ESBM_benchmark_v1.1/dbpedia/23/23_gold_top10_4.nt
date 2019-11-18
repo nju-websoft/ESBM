@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "47.22167"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kurdestan_Province> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Dehgolan_County> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Central_District_(Dehgolan_County)> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Quri_Chay_Rural_District> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://www.w3.org/2000/01/rdf-schema#label> "Kuleh Bayan"@en .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Iran> .
+<http://dbpedia.org/resource/Kuleh_Bayan> <http://xmlns.com/foaf/0.1/name> "كوله بيان"@en .

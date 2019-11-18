@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Basidiomycota> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Agaricales> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Agaricaceae> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Giacomo_Bresadola> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Fungus> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Bregalnica> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/date> "1913-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://xmlns.com/foaf/0.1/name> "Battle of Bregalnica"@en .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/result> "Serbian victory" .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Živojin_Mišić> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Vicho_Dikov> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Janko_Vukotić> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Alexander_I_of_Yugoslavia> .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/strength> "Montenegrin division ca. 13,000 men, 6 guns and 24 machine guns" .
+<http://dbpedia.org/resource/Battle_of_Bregalnica> <http://dbpedia.org/ontology/causalties> "20,000" .

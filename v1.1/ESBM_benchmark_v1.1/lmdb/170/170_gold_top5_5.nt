@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://purl.org/dc/terms/date> "1946" .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/465> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/10678> .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

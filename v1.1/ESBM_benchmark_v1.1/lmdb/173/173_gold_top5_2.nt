@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/95572> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47032> .
+<http://data.linkedmdb.org/resource/film/13716> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47032> .
+<http://data.linkedmdb.org/resource/film/17222> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47032> .
+<http://data.linkedmdb.org/resource/actor/47032> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000d56ae3> .
+<http://data.linkedmdb.org/resource/actor/47032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .

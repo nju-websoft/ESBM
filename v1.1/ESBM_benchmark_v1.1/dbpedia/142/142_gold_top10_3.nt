@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Juhan_Muks> <http://xmlns.com/foaf/0.1/surname> "Muks"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://xmlns.com/foaf/0.1/givenName> "Juhan"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/deathDate> "1983-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/deathYear> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Painter110391653> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artist109812338> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://xmlns.com/foaf/0.1/name> "Juhan Muks"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_Estonian_painters> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Estonian_painters> .

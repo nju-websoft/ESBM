@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Netherlands> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Films_set_in_the_Netherlands> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Marcel_Hensema> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Cees_Geel> .

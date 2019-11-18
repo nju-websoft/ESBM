@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/conservationStatus> "EN" .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Lungless_salamander> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/2000/01/rdf-schema#label> "Lineatriton orchimelas"@en .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Lineatriton> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AnimalsDescribedIn2002> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Amphibian> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Caudata> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Amphibian> .

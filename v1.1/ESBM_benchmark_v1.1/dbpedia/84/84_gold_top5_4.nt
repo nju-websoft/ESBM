@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Insect> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://www.w3.org/2000/01/rdf-schema#label> "Hilarographa excellens"@en .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Tortricidae> .

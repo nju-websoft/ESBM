@@ -1,0 +1,46 @@
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/releaseDate> "2006-01-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/releaseDate> "2006-04-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Wid_Out_Ya> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Kontor_Rec> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Epic_Records> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_music> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hip_hop_music> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Electronica> .
+<http://dbpedia.org/resource/Uh_La_La_La> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> .
+<http://dbpedia.org/resource/Cobrastyle> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Blog_27> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Teddybears> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Wid_Out_Ya> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/runtime> "221.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/2000/01/rdf-schema#label> "Hey Boy (Teddybears song)"@en .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Cobrastyle> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Uh_La_La_La> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Teddybears_songs> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Klas_Åhlund> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2004_singles> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2006_singles> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Blog_27_songs> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Epic_Records_singles> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2004_songs> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artifact100021939> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q134556> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/2004Singles> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q2188189> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Instrumentality103575240> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Medium106254669> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://xmlns.com/foaf/0.1/name> "Hey Boy (Get Your Ass Up)"@en .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://xmlns.com/foaf/0.1/name> "Hey Boy"@en .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Blog_27> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Teddybears> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/bSide> "\"Turn You On to Music\"" .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/LOL_(Blog_27_album)> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Fresh_(Teddybears_album)> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2338> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30598> .
+<http://data.linkedmdb.org/resource/film/53197> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30598> .
+<http://data.linkedmdb.org/resource/actor/30598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/30598> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000012d8fa> .
+<http://data.linkedmdb.org/resource/actor/30598> <http://data.linkedmdb.org/resource/movie/actor_name> "Tom Courtenay" .

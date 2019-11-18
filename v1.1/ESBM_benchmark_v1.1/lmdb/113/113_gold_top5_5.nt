@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1942-10-23" .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000009746be> .
+<http://data.linkedmdb.org/resource/film/5232> <http://purl.org/dc/terms/title> "The Mummy's Tomb" .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/5326> .

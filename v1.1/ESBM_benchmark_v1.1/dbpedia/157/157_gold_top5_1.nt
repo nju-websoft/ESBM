@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Gonyosoma> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Snake101726692> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Colubridae> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Reptile> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/2000/01/rdf-schema#label> "Gonyosoma hodgsoni"@en .

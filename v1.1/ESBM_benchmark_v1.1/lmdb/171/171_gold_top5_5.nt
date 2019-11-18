@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/director/14418> <http://data.linkedmdb.org/resource/movie/director_name> "Mack V. Wright" .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/45182> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/24459> .
+<http://data.linkedmdb.org/resource/director/14418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
+<http://data.linkedmdb.org/resource/director/14418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .

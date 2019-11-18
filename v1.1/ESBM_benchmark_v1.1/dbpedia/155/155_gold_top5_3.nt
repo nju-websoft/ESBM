@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Tchonoro> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Coordinated_Universal_Time> .
+<http://dbpedia.org/resource/Tchonoro> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Togo> .
+<http://dbpedia.org/resource/Tchonoro> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kachin_State> .

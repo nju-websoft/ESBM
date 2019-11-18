@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henlow_Camp_railway_station> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Henlow> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/postalCode> "SG16" .
+<http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Henlow> .
+<http://dbpedia.org/resource/Jim_Watts> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Henlow> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/populationTotal> "3084"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/runtime> "108" .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13288> .
+<http://data.linkedmdb.org/resource/film/2381> <http://purl.org/dc/terms/date> "1965" .
+<http://data.linkedmdb.org/resource/film/2381> <http://purl.org/dc/terms/title> "What's New Pussycat?" .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/375> .

@@ -1,0 +1,20 @@
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Lance_Comfort> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q386724> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q11424> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/William_Lucas_(actor)> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/runtime> "3480.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:British_crime_films> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1960s_crime_films> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1961_films> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:British_films> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Black-and-white_films> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Films_directed_by_Lance_Comfort> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/2000/01/rdf-schema#label> "Touch of Death (1961 film)"@en .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://xmlns.com/foaf/0.1/name> "Touch of Death"@en .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Johnny_Douglas_(conductor)> .

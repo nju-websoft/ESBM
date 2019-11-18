@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/12710> <http://www.w3.org/2000/01/rdf-schema#label> "Megaville" .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/18945> .
+<http://data.linkedmdb.org/resource/interlink/24033> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12710> .
+<http://data.linkedmdb.org/resource/interlink/144038> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12710> .
+<http://data.linkedmdb.org/resource/interlink/74410> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/12710> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Nemapogon> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Nemapogoninae> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://www.w3.org/2000/01/rdf-schema#label> "Nemapogon nigralbella"@en .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Insect> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Lepidoptera> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Tineidae> .

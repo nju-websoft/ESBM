@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/2000/01/rdf-schema#label> "E. K. Mawlong"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthDate> "1946-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathDate> "2008-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/elements/1.1/description> "Indian politician" .

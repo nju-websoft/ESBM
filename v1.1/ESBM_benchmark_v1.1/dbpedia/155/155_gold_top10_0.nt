@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Tchonoro> <http://xmlns.com/foaf/0.1/name> "Tchonoro"@en .
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Tract108673395> .
+<http://dbpedia.org/resource/Tchonoro> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Coordinated_Universal_Time> .
+<http://dbpedia.org/resource/Tchonoro> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Togo.svg> .
+<http://dbpedia.org/resource/Tchonoro> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Togo> .
+<http://dbpedia.org/resource/Tchonoro> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Assoli_Prefecture> .
+<http://dbpedia.org/resource/Tchonoro> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kachin_State> .
+<http://dbpedia.org/resource/Tchonoro> <http://www.georss.org/georss/point> "9.35 1.2666666666666666" .
+<http://dbpedia.org/resource/Tchonoro> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Populated_places_in_Kara_Region> .
+<http://dbpedia.org/resource/Tchonoro> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Assoli> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/17242> .
+<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/6468> <http://purl.org/dc/terms/title> "Magnum, P.I." .
+<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/2000/01/rdf-schema#label> "Magnum, P.I." .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11328> .

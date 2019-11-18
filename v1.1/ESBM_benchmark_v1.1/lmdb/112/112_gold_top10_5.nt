@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/4501> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13022> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/881> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/filmid> "4501"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/3887> .
+<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/4501> .
+<http://data.linkedmdb.org/resource/film/4501> <http://purl.org/dc/terms/title> "Super-Warrior Defeat!! I'm the One who'll Win" .
+<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

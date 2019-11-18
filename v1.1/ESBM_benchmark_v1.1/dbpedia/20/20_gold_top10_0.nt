@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/goldMedalist> <http://dbpedia.org/resource/Simon_Whitfield> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/nextEvent> <http://dbpedia.org/resource/Triathlon_at_the_2004_Summer_Olympics_–_Men's> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/bronzeMedalist> <http://dbpedia.org/resource/Jan_Řehula> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://xmlns.com/foaf/0.1/homepage> <http://www.la84foundation.org/5va/reports_frmst.htm> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/silverMedalist> <http://dbpedia.org/resource/Stephan_Vuckovic> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2000_in_triathlon> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/games> "2000 Summer" .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OlympicEvent> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://www.w3.org/2000/01/rdf-schema#label> "Triathlon at the 2000 Summer Olympics – Men's"@en .

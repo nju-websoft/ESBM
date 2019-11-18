@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2009–10_in_Belgian_football> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Anderlecht> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/date> "2010-07-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/R.S.C._Anderlecht> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/K.A.A._Gent> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/time> "20:45CET" .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://xmlns.com/foaf/0.1/name> "2010 Belgian Super Cup"@en .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Constant_Vanden_Stock_Stadium> .

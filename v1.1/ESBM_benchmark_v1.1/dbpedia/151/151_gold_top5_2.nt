@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Bulgaria> .
+<http://dbpedia.org/resource/Ayrovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Ayrovo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_in_Kardzhali_Province> .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kardzhali_Province> .

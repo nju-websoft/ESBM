@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/activeYearsEndYear> "0830"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://xmlns.com/foaf/0.1/name> "Ashot 01 Of Iberia"@en .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Adarnase_I_of_Tao-Klarjeti> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/title> "Prince of Iberia"@en .

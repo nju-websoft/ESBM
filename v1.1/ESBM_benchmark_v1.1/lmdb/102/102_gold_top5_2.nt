@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31700> .
+<http://data.linkedmdb.org/resource/film/12710> <http://www.w3.org/2000/01/rdf-schema#label> "Megaville" .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/18945> .
+<http://data.linkedmdb.org/resource/film/12710> <http://data.linkedmdb.org/resource/movie/film_story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/255> .
+<http://data.linkedmdb.org/resource/film/12710> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Megaville> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/William_Vincent_Fitzgerald> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Melaleuca> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Myrtales> .

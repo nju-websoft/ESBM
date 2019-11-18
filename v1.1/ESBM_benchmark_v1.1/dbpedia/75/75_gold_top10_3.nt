@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Muławki> <http://www.georss.org/georss/point> "54.051944444444445 21.336388888888887" .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "21.33639"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Muławki> <http://dbpedia.org/ontology/populationTotal> "113"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Muławki> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Village> .
+<http://dbpedia.org/resource/Muławki> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Poland> .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/2000/01/rdf-schema#label> "Muławki"@en .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "54.051945"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q532> .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Muławki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .

@@ -1,0 +1,22 @@
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://xmlns.com/foaf/0.1/name> "Battle of Zacatecas"@en .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Mexican_Revolution> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1914_in_Mexico> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Zacatecas> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Zacatecas (1914)"@en .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Pancho_Villa> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Luís_Medina_Barrón> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/result> "Decisive rebel victory" .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/strength> "7,000-15,000 (most likely 12,000)" .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/strength> "over 20,000 (estimate)" .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/causalties> "1,000 (estimate)" .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/date> "1914-06-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Mexican_Revolution> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/combatant> "Villistas (followers ofPancho Villa)" .

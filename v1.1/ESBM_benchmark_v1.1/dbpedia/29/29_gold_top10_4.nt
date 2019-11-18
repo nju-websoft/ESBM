@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/populationTotal> "3073"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/elevation> "257.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Schmalkalden-Meiningen> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/2000/01/rdf-schema#label> "Wernshausen"@en .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Schmalkalden> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.georss.org/georss/point> "50.71666666666667 10.35" .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/postalCode> "98590" .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/areaTotal> "2.629E7"^^<http://www.w3.org/2001/XMLSchema#double> .

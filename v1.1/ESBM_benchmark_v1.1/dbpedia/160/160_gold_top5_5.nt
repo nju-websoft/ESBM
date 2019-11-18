@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://xmlns.com/foaf/0.1/name> "Schistura jarutanini"@en .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Cave_fish> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Thailand> .

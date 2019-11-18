@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://xmlns.com/foaf/0.1/name> "Foppt den Dämon!"@en .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Medieval_folk_rock> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/runtime> "2528.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Subway_to_Sally> .

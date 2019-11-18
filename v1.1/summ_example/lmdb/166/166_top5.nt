@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/5782> .
+<http://data.linkedmdb.org/resource/interlink/70819> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1338> .
+<http://data.linkedmdb.org/resource/interlink/135199> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1338> .
+<http://data.linkedmdb.org/resource/interlink/37782> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1338> .
+<http://data.linkedmdb.org/resource/interlink/19249> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/1338> .

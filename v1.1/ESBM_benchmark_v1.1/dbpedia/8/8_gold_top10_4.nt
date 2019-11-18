@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/birthDate> "1905-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/2000/01/rdf-schema#label> "Hagar Wilde"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/elements/1.1/description> "American writer"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_women_screenwriters> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_women_short_story_writers> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/deathDate> "1971-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AmericanShortStoryWriters> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://xmlns.com/foaf/0.1/name> "Enallagma truncatum"@en .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/2000/01/rdf-schema#label> "Enallagma truncatum"@en .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Insects_of_Cuba> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Enallagma> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Insects_described_in_1888> .

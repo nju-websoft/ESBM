@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://xmlns.com/foaf/0.1/name> "Pseudanos trimaculatus"@en .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q152> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Actinopterygii> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Characiformes> .

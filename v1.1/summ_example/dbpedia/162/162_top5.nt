@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kaalpurush> <http://xmlns.com/foaf/0.1/name> "Kaalpurush"@en .
+<http://dbpedia.org/resource/Kaalpurush> <http://xmlns.com/foaf/0.1/homepage> <http://www.kaalpurushmovie.com/> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/2000/01/rdf-schema#label> "Kaalpurush"@en .
+<http://dbpedia.org/resource/Kaalpurush> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Biswadep_Dasgupta> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/FilmsDirectedByBuddhadevDasgupta> .

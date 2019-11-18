@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/104> .
+<http://data.linkedmdb.org/resource/film/14438> <http://purl.org/dc/terms/date> "1972" .
+<http://data.linkedmdb.org/resource/director/10044> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/14438> .
+<http://data.linkedmdb.org/resource/film/14438> <http://purl.org/dc/terms/title> "Now You See Him, Now You Don't" .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34407> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31243> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/527> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31101> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10044> .
+<http://data.linkedmdb.org/resource/film/14438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

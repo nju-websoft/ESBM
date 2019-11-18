@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Taganrog> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/birthYear> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://purl.org/dc/elements/1.1/description> "Russian footballer"@en .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/birthDate> "1989-08-02"^^<http://www.w3.org/2001/XMLSchema#date> .

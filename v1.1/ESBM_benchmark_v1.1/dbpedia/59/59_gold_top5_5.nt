@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/height> "1.78"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Taganrog> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Russian_footballers> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Defender_(association_football)> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/birthDate> "1989-08-02"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7963> <http://purl.org/dc/terms/title> "The Aftermath" .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11682> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36466> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/997> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .

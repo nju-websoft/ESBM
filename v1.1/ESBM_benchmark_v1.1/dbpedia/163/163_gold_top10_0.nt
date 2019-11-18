@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Starsailor_(band)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Poor_Misguided_Fool> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/releaseDate> "2003-09-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Alternative_rock> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Born_Again_(Starsailor_song)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Starsailor_(band)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://xmlns.com/foaf/0.1/name> "Silence Is Easy"@en .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Silence_Is_Easy> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Storme_Warren> <http://xmlns.com/foaf/0.1/name> "Warren, Storme"@en .
+<http://dbpedia.org/resource/Storme_Warren> <http://xmlns.com/foaf/0.1/name> "Storme Warren"@en .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/birthName> "Storme Warren"@en .
+<http://dbpedia.org/resource/Storme_Warren> <http://dbpedia.org/ontology/imdbId> "2153141" .
+<http://dbpedia.org/resource/Storme_Warren> <http://www.w3.org/2000/01/rdf-schema#label> "Storme Warren"@en .

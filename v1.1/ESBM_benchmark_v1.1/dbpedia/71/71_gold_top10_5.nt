@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/District108552138> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Populated_places_in_Aligudarz_County> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Iran_Standard_Time> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Iran> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Aligudarz_County> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2000/01/rdf-schema#label> "Darreh Dang"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Dipterocarpaceae> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Sri_Lanka> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/EndangeredPlants> .

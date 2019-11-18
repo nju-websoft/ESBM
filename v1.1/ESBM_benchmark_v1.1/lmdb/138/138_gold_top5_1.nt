@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/62725> <http://data.linkedmdb.org/resource/movie/actor_name> "Rod Daily" .
+<http://data.linkedmdb.org/resource/film/83479> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/62725> .
+<http://data.linkedmdb.org/resource/film/83452> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/62725> .
+<http://data.linkedmdb.org/resource/film/78626> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/62725> .
+<http://data.linkedmdb.org/resource/actor/62725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .

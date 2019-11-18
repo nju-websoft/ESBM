@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_rock> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/2000/01/rdf-schema#label> "Time (Dave Clark album)"@en .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Capitol_Records> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/-_The_Album_1986.jpg> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .

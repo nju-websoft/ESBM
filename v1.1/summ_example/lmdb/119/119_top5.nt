@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000d192d4> .
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0758789> .
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0758789> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/filmid> "7963"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/4850> .

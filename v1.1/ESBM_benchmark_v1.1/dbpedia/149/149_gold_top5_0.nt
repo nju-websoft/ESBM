@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/World_War_II> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/combatant> "25pxGermany" .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/combatant> "25pxUnited Kingdom" .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://xmlns.com/foaf/0.1/name> "Convoy HX.156"@en .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .

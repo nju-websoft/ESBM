@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Zacatecas,_Zacatecas> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Zacatecas (1914)"@en .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/result> "Decisive rebel victory" .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/date> "1914-06-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Mexican_Revolution> .

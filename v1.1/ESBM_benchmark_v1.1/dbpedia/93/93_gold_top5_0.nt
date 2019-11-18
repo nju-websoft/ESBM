@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://dbpedia.org/ontology/releaseDate> "2013-07-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Indie_rock> .
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_James_Allan_(musician)> .
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://dbpedia.org/ontology/runtime> "269.0"^^<http://www.w3.org/2001/XMLSchema#double> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/name> "Andrew Scott Sloan"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/name> "Sloan, Andrew Scott"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Scott_Sloan_(Wisconsin_Congressman).jpg> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Amasa_Cobb> .
+<http://dbpedia.org/resource/Charles_H._Larrabee> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/A._Scott_Sloan> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Scott_Sloan_(Wisconsin_Congressman).jpg?width=300> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/2000/01/rdf-schema#label> "A. Scott Sloan"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Morrisville,_New_York> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/birthDate> "1820-06-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathDate> "1895-04-08"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
+<http://data.linkedmdb.org/resource/film/49> <http://purl.org/dc/terms/title> "Chang" .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1927,1927-04-29" .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/18034> .
+<http://data.linkedmdb.org/resource/film/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

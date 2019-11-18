@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/strength> "14 (initially)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/strength> "50 (subsequently)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://xmlns.com/foaf/0.1/name> "Burgery Ambush"@en .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/George_Oliver_Plunkett> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/2000/01/rdf-schema#label> "Burgery ambush"@en .

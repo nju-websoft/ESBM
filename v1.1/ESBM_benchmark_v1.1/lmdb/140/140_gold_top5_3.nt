@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/22494> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8669> .
+<http://data.linkedmdb.org/resource/film/45707> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8669> .
+<http://data.linkedmdb.org/resource/director/8669> <http://www.w3.org/2000/01/rdf-schema#label> "Ringo Lam (Director)" .
+<http://data.linkedmdb.org/resource/director/8669> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/64122> .
+<http://data.linkedmdb.org/resource/director/8669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .

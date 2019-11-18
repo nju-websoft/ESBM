@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Huntingdonshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/populationTotal> "168"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/2000/01/rdf-schema#label> "Kings Ripton"@en .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.georss.org/georss/point> "52.37 -0.15" .

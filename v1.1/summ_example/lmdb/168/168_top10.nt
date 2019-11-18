@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/3493> .
+<http://data.linkedmdb.org/resource/film/44555> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000008dd9e3> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/filmid> "44555"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/5941> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/3418> .
+<http://data.linkedmdb.org/resource/film/44555> <http://www.w3.org/2000/01/rdf-schema#label> "LOC Kargil" .
+<http://data.linkedmdb.org/resource/film/44555> <http://purl.org/dc/terms/title> "LOC Kargil" .
+<http://data.linkedmdb.org/resource/director/1723> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/44555> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/1723> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/82709> .

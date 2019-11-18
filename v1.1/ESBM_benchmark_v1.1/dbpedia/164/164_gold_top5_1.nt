@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PublicationsEstablishedIn1856> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PeriodicalLiterature> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PublicationsDisestablishedIn2010> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Newspaper> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/2000/01/rdf-schema#label> "The Honolulu Advertiser"@en .

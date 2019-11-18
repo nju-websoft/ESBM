@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/synonym> "*IR-lacking clade" .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/synonym> "*Temperate herbaceous clade" .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://xmlns.com/foaf/0.1/name> "Inverted repeat-lacking clade"@en .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Faboideae> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Rosids> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Galega_officinalis2UME.jpg?width=300> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q756> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Faboideae> .

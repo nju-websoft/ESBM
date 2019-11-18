@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingPeople> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/elements/1.1/description> "Professional golfer" .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/college> <http://dbpedia.org/resource/University_of_Georgia> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Cindy Mackey"@en .

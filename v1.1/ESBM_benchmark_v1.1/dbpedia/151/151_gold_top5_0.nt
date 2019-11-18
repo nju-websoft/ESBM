@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Bulgaria> .
+<http://dbpedia.org/resource/Ayrovo> <http://xmlns.com/foaf/0.1/name> "Ayrovo"@en .
+<http://dbpedia.org/resource/Ayrovo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kardzhali_Municipality> .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kardzhali_Province> .

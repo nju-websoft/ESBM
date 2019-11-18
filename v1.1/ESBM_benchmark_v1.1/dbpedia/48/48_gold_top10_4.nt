@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/The_Black_Crowes> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Blues_rock> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/1992Singles> .
+<http://dbpedia.org/resource/Sting_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Blues_rock_songs> .
+<http://dbpedia.org/resource/Sting_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Chris_Robinson_(singer)> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/The_Black_Crowes> .
+<http://dbpedia.org/resource/Sting_Me> <http://xmlns.com/foaf/0.1/name> "Sting Me"@en .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/The_Southern_Harmony_and_Musical_Companion> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/2000/01/rdf-schema#label> "Sting Me"@en .

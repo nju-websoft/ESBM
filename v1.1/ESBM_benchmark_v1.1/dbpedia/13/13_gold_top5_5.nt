@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://www.w3.org/2000/01/rdf-schema#label> "2011 League of Ireland Cup Final"@en .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Cork_(city)> .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://xmlns.com/foaf/0.1/name> "2011 League of Ireland Cup Final"@en .

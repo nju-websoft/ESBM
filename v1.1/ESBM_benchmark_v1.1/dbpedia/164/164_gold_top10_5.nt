@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Honolulu> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://xmlns.com/foaf/0.1/homepage> <http://www.honoluluadvertiser.com> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/NewspapersPublishedInHawaii> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PublicationsEstablishedIn1856> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PrintMedia106263609> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PublicationsDisestablishedIn2010> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://xmlns.com/foaf/0.1/name> "The Honolulu Advertiser"@en .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Media_in_Honolulu,_Hawaii> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Newspaper> .
+<http://dbpedia.org/resource/The_Honolulu_Advertiser> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Black_Press> .

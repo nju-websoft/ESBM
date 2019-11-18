@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/2000/01/rdf-schema#label> "Juhan Muks"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/birthYear> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/deathDate> "1983-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Painter110391653> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_Estonian_painters> .

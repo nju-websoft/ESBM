@@ -1,0 +1,25 @@
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Estanislao_López> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/José_Rondeau> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Francisco_Ramírez_(governor)> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Santa_Fe_Province> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/2002/07/owl#differentFrom> <http://dbpedia.org/resource/Battle_of_Cepeda_(1859)> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://xmlns.com/foaf/0.1/name> "Battle of Cepeda"@en .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/date> "1820-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1859)> <http://www.w3.org/2002/07/owl#differentFrom> <http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1820_in_Argentina> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1820> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Argentine_Civil_Wars> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/result> "Federalistvictory" .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Cepeda (1820)"@en .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/combatant> "24pxUnitarians" .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/combatant> "24pxFederals" .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> .

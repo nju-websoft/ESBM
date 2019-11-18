@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Balanites> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Tribuloideae> .
+<http://dbpedia.org/resource/Balanites> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Zygophyllales> .
+<http://dbpedia.org/resource/Balanites_maughamii> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Balanites> .
+<http://dbpedia.org/resource/Balanites> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Zarga_mountains_(11).jpg?width=300> .
+<http://dbpedia.org/resource/Balanites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .

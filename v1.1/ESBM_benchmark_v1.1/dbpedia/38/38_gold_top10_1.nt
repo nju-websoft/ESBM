@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Rubus> .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Plants_described_in_1914> .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Rosaceae> .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Rosales> .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Wilhelm_Olbers_Focke> .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://www.w3.org/2000/01/rdf-schema#label> "Rubus arizonensis"@en .
+<http://dbpedia.org/resource/Rubus_arizonensis> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .

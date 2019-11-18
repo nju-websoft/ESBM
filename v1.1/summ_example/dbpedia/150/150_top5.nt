@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Gresik_Regency> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://xmlns.com/foaf/0.1/name> "Raid on Griessie"@en .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/2000/01/rdf-schema#label> "Raid on Griessie"@en .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Java_blank_map.svg> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/date> "1807-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://xmlns.com/foaf/0.1/name> "Darreh Dang"@en .
+<http://dbpedia.org/resource/Darreh_Dang> <http://xmlns.com/foaf/0.1/name> "دره دنگ"@en .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.georss.org/georss/point> "33.269444444444446 49.00111111111111" .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2000/01/rdf-schema#label> "Darreh Dang"@en .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "49.00111"^^<http://www.w3.org/2001/XMLSchema#float> .
