@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Pseudanos> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q152> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Rudolf_Kner> .

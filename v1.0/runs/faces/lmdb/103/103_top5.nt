@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/interlink/6219> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14299> .
+<http://data.linkedmdb.org/resource/director/2930> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/14299> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30040> .
+<http://data.linkedmdb.org/resource/film/14299> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Briana_Loves_Jenna> .

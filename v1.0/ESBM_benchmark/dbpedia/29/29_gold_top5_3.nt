@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/populationTotal> "3073"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Wernshausen> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Wappen_Wernshausen.png> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Wernshausen> <http://www.w3.org/2000/01/rdf-schema#label> "Wernshausen"@en .

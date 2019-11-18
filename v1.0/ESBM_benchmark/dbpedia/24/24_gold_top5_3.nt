@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Bạc_Liêu_Province> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/UTC+07:00> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://xmlns.com/foaf/0.1/name> "Phong Thạnh Tây"@en .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Vietnam> .

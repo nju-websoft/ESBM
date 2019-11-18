@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/2000/01/rdf-schema#label> "Sauxillanges"@en .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.georss.org/georss/point> "45.551 3.372" .
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/postalCode> "63490" .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/populationTotal> "1151"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

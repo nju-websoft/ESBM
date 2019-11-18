@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://xmlns.com/foaf/0.1/name> "2013 Slovnaft Cup Final"@en .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2012_Slovak_Cup_Final> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Štadión_pod_Čebraťom> .
+<http://dbpedia.org/resource/2014_Slovak_Cup_Final> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2013_Slovak_Cup_Final> .
+<http://dbpedia.org/resource/2012_Slovak_Cup_Final> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2013_Slovak_Cup_Final> .

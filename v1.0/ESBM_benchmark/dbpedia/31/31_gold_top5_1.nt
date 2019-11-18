@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Tockus> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Hornbill> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/2000/01/rdf-schema#label> "African grey hornbill"@en .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Bird> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Bucerotiformes> .

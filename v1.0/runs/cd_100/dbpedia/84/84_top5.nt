@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Tortricidae> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Hilarographini> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/synonym> "*Thaumatographa excellens (Pagenstecher, 1900)" .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Insect> .

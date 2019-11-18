@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Crustacean> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Trachelipus> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Malacostraca> .

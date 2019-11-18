@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Music_download> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hard_rock> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Glam_metal> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Black_Veil_Brides> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Set_the_World_on_Fire_(Black_Veil_Brides_album)> .

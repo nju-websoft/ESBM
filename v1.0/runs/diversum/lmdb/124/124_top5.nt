@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/30569> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/94475> .
+<http://data.linkedmdb.org/resource/film/9082> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/actor/30569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/30569> <http://data.linkedmdb.org/resource/movie/actor_actorid> "30569"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/actor/30569> <http://data.linkedmdb.org/resource/movie/actor_name> "Elsa Lanchester" .

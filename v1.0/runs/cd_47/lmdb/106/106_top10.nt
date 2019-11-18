@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/2381> <http://www.w3.org/2000/01/rdf-schema#label> "What's New Pussycat?" .
+<http://data.linkedmdb.org/resource/interlink/63261> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/2381> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/58567> .
+<http://data.linkedmdb.org/resource/film/2381> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0059903/> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/154> .
+<http://data.linkedmdb.org/resource/film/2381> <http://www.w3.org/2004/02/skos/core#subject> <http://data.linkedmdb.org/resource/film_subject/375> .
+<http://data.linkedmdb.org/resource/director/13237> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/2381> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30975> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/4557> .
+<http://data.linkedmdb.org/resource/film/2381> <http://data.linkedmdb.org/resource/movie/filmid> "2381"^^<http://www.w3.org/2001/XMLSchema#int> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Tockus> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Bucerotiformes> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Carl_Linnaeus> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Bird> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/conservationStatus> "LC" .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://xmlns.com/foaf/0.1/depiction> <http://dbpedia.org/resource/Lake_Naivasha> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://xmlns.com/foaf/0.1/name> "African grey hornbill"@en .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1766> .
+<http://dbpedia.org/resource/African_grey_hornbill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .

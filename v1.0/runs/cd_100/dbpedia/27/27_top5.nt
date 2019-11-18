@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Uelsby_Wappen.png?width=300> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/federalState> <http://dbpedia.org/resource/Schleswig-Holstein> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "9.566667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/2000/01/rdf-schema#label> "Uelsby"@en .

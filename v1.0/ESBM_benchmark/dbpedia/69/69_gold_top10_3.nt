@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/result> "Military victory for Rudolf, political victory for Henry" .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_von_Schwaben.jpg?width=300> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://xmlns.com/foaf/0.1/name> "Battle on the Elster"@en .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Zeitz> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Great_Saxon_Revolt> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/combatant> "Holy Roman Emperor, Henry IV" .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingSaxony> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Rudolf_von_Schwaben.jpg> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/date> "1080-10-14"^^<http://www.w3.org/2001/XMLSchema#date> .

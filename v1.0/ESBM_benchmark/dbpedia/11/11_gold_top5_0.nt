@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2009–10_Swiss_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "2009–10 Swiss Cup"@en .
+<http://dbpedia.org/resource/2009–10_Swiss_Cup> <http://xmlns.com/foaf/0.1/homepage> <http://www.football.ch/sfv/chcup/de/start.aspx> .
+<http://dbpedia.org/resource/2009–10_Swiss_Cup> <http://xmlns.com/foaf/0.1/name> "Swiss Cup"@en .
+<http://dbpedia.org/resource/2009–10_Swiss_Cup> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2009–10_domestic_association_football_cups> .
+<http://dbpedia.org/resource/2009–10_Swiss_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTournament> .

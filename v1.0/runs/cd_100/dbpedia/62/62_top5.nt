@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://xmlns.com/foaf/0.1/name> "XXXII Gran Premio d'Italia"@en .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/firstDriverTeam> <http://dbpedia.org/resource/Honda_in_Formula_One> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/poleDriverTeam> <http://dbpedia.org/resource/Team_Lotus> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/distance> "391006.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Monza_1957.jpg?width=300> .

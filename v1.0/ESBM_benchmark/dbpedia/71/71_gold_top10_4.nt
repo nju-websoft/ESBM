@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/utcOffset> "+3:30" .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Iran> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "49.00111"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "33.269444"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Lorestan_Province> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Zaz_va_Mahru_District> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Zaz-e_Gharbi_Rural_District> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2000/01/rdf-schema#label> "Darreh Dang"@en .

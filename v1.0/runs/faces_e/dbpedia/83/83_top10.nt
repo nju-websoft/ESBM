@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Lepidoptera> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Insects_of_Europe> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Insect> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Gelechiidae> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Bryotropha brevipalpella (Rebel, 1893)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://xmlns.com/foaf/0.1/name> "Bryotropha plantariella"@en .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Bryotropha> .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://www.w3.org/2000/01/rdf-schema#label> "Bryotropha plantariella"@en .

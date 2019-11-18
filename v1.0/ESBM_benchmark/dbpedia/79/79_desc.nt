@@ -1,0 +1,36 @@
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/elevation> "262.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/areaTotal> "2950000.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Lower_Carniola> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Municipality_of_Škocjan> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Southeast_Slovenia_Statistical_Region> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2000/01/rdf-schema#label> "Stara Bučka"@en .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "45.9213"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Slovenia.svg> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.georss.org/georss/point> "45.9213 15.306447222222221" .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/populationTotal> "101"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://xmlns.com/foaf/0.1/name> "Stara Bučka"@en .
+<http://dbpedia.org/resource/Stara_Bučka> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Populated_places_in_the_Municipality_of_Škocjan> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "15.306447"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Slovenia> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Slovenia.svg?width=300> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Site108651247> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Location100027167> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AdministrativeDistrict108491826> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInTheMunicipalityOf%C5%A0kocjan> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Tract108673395> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/District108552138> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .

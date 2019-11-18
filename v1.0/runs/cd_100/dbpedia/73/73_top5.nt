@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/areaCode> "01487" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://xmlns.com/foaf/0.1/name> "Kings Ripton"@en .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.georss.org/georss/point> "52.37 -0.15" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Civil_parishes_in_Cambridgeshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/populationTotal> "168"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

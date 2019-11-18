@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/callsignMeaning> "Warrnambool And You" .
+<http://dbpedia.org/resource/3WAY_FM> <http://xmlns.com/foaf/0.1/name> "3WAY FM"@en .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/slogan> "Great Ocean Radio"@en .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/broadcastArea> <http://dbpedia.org/resource/Victoria_(Australia)> .
+<http://dbpedia.org/resource/3WAY_FM> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Radio_stations_in_Victoria> .

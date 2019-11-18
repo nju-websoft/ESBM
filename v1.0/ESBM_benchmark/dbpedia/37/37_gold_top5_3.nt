@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ovophis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Crotalinae> .
+<http://dbpedia.org/resource/Ovophis> <http://xmlns.com/foaf/0.1/name> "Ovophis"@en .
+<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/2000/01/rdf-schema#label> "Ovophis"@en .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Vertebrate> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/synonym> "In Romano-Hoge, 1981" .

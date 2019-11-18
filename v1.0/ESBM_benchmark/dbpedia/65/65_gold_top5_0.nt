@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "2010 Belgian Super Cup"@en .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/date> "2010-07-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/R.S.C._Anderlecht> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/K.A.A._Gent> .

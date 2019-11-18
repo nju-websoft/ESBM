@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4501> <http://purl.org/dc/terms/date> "1994-07-09" .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/filmid> "4501"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/3887> .
+<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

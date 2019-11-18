@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Abstraction100002137> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Bohemia> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/combatant> "Rudolf of Swabia" .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Zeitz> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/date> "1080-10-14"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/36141> <http://data.linkedmdb.org/resource/movie/actor_actorid> "36141"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/actor/36141> <http://data.linkedmdb.org/resource/movie/actor_name> "Francis Ng" .
+<http://data.linkedmdb.org/resource/actor/36141> <http://www.w3.org/2000/01/rdf-schema#label> "Francis Ng (Actor)" .
+<http://data.linkedmdb.org/resource/actor/36141> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/50061> .
+<http://data.linkedmdb.org/resource/film/41076> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/film/14139> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/film/19139> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/film/11547> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/actor/36141> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000004d578b> .
+<http://data.linkedmdb.org/resource/actor/36141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .

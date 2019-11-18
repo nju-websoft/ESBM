@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/14630> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/14438> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/19886> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1972" .
+<http://data.linkedmdb.org/resource/film/47754> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/14438> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .

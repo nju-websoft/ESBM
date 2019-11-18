@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/New_York> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Album> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/recordedIn> <http://dbpedia.org/resource/Atlanta> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2009_albums> .
+<http://dbpedia.org/resource/Wide_Awake_Drunk> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Greg_Connors> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/OlympicSilverMedalistsForNorway> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sailors_at_the_1920_Summer_Olympics_–_8_Metre> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://dbpedia.org/ontology/deathDate> "1967"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/name> "Finn Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://dbpedia.org/ontology/birthDate> "1898-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .

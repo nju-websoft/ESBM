@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/2000/01/rdf-schema#label> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://xmlns.com/foaf/0.1/name> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Capitol_Records> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/runtime> "3081.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/West_Coast_hip_hop> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Hertz> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Westside_Connection> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Albums_certified_gold_by_the_Recording_Industry_Association_of_America> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/releaseDate> "2003-12-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .

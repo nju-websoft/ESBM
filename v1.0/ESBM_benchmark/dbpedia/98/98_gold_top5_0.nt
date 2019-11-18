@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Gangsta_rap> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Fredwreck> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Westside_Connection> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/releaseDate> "2003-12-09"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .

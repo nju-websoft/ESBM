@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ku_Hye-sun> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/completionDate> "2008-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/South_Korea> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Drama> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/surname> "Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/2000/01/rdf-schema#label> "Finn Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/name> "Schiander, Finn"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/name> "Finn Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://dbpedia.org/ontology/birthDate> "1898-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .

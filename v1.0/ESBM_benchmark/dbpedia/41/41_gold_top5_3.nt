@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://xmlns.com/foaf/0.1/name> "Foppt den Dämon!"@en .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://www.w3.org/2000/01/rdf-schema#label> "Foppt den Dämon!"@en .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Subway_to_Sally_albums> .
+<http://dbpedia.org/resource/Foppt_den_Dämon!> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1996_albums> .

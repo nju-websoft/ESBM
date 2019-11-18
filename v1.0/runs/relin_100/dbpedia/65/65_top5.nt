@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "2010 Belgian Super Cup"@en .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2009_Belgian_Super_Cup> .
+<http://dbpedia.org/resource/2011_Belgian_Super_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2010_Belgian_Super_Cup> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2011_Belgian_Super_Cup> .
+<http://dbpedia.org/resource/2010_Belgian_Super_Cup> <http://xmlns.com/foaf/0.1/name> "2010 Belgian Super Cup"@en .

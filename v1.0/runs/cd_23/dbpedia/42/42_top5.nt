@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/bSide> "\"Turn You On to Music\"" .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://xmlns.com/foaf/0.1/name> "Hey Boy (Get Your Ass Up)"@en .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Wid_Out_Ya> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Fresh_(Teddybears_album)> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Uh_La_La_La> .

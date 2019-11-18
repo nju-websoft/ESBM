@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Bạc_Liêu_Province> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/utcOffset> "+7" .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Commune-level_subdivisions_(Vietnam)> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/UTC+07:00> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://xmlns.com/foaf/0.1/name> "Phong Thạnh Tây"@en .

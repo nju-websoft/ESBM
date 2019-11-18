@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/6219> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14299> .
+<http://data.linkedmdb.org/resource/film/14299> <http://www.w3.org/2000/01/rdf-schema#label> "Briana Loves Jenna" .
+<http://data.linkedmdb.org/resource/film/14299> <http://purl.org/dc/terms/title> "Briana Loves Jenna" .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2001,2001-11-27" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrestlingEvent> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/date> "2000-12-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/promotion> <http://dbpedia.org/resource/Extreme_Championship_Wrestling> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Hammerstein_Ballroom> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> .

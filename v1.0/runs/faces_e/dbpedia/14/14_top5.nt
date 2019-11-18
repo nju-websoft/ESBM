@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Prague> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://www.w3.org/2000/01/rdf-schema#label> "2011 Sparta Prague Open"@en .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/category> <http://dbpedia.org/resource/ITF_Women's_Circuit> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2011_ITF_Women's_Circuit> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/championInDoubleMale> <http://dbpedia.org/resource/Michaëlla_Krajicek> .

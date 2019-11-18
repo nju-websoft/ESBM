@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://www.w3.org/2000/01/rdf-schema#label> "Our Leading Citizen (1939 film)"@en .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/runtime> "5340.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_comedy_films> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English-language_films> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Films_directed_by_Alfred_Santell> .

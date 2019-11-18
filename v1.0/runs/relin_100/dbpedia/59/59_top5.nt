@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Svyatoslav_Tanasov__2> .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/surname> "Tanasov"@en .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/name> "Svyatoslav Tanasov"@en .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/name> "Tanasov, Svyatoslav"@en .
+<http://dbpedia.org/resource/Svyatoslav_Tanasov> <http://xmlns.com/foaf/0.1/name> "Svyatoslav Sergeyevich Tanasov"@en .

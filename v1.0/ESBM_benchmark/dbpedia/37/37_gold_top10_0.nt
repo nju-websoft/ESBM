@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Reptile> .
+<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Viperidae> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Squamata> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Snake> .
+<http://dbpedia.org/resource/Ovophis_chaseni> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Ovophis> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/synonym> "In Romano-Hoge, 1981" .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/synonym> "* Ovophis Burger" .

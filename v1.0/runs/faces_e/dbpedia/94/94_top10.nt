@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Springer_Science+Business_Media> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/academicDiscipline> <http://dbpedia.org/resource/Intensive_care_medicine> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English-language_journals> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/frequencyOfPublication> "Monthly" .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/impactFactorAsOf> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/impactFactor> "5.544"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/firstPublicationYear> "1975"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://xmlns.com/foaf/0.1/name> "Intensive Care Medicine"@en .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://www.w3.org/2000/01/rdf-schema#label> "Intensive Care Medicine (journal)"@en .
+<http://dbpedia.org/resource/Intensive_Care_Medicine_(journal)> <http://dbpedia.org/ontology/abbreviation> "Intensive Care Med." .

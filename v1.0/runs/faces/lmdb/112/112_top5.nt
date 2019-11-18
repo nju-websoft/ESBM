@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/1835> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/4501> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/881> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
+<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/4501> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34497> .

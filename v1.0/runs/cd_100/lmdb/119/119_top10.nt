@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/11639> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/7963> .
+<http://data.linkedmdb.org/resource/director/11682> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/7963> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32015> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/cinematographer> <http://data.linkedmdb.org/resource/cinematographer/692> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/997> .
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/2635167/> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/4850> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/GB> .
+<http://data.linkedmdb.org/resource/film/7963> <http://www.w3.org/2000/01/rdf-schema#label> "The Aftermath" .
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000d192d4> .

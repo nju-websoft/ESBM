@@ -1,0 +1,6 @@
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/mountainRange> <http://dbpedia.org/resource/Blue_Ridge_Mountains> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Pickens_County,_South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Mountains_of_South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Landforms_of_Pickens_County,_South_Carolina> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Protected_areas_of_Pickens_County,_South_Carolina> .

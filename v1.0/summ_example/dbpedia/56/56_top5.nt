@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://xmlns.com/foaf/0.1/name> "Momchil Emilov Tsvetanov"@en .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://xmlns.com/foaf/0.1/name> "Tsvetanov, Momchil"@en .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/alias> "Момчил Цветанов"@en .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Momchil_Cvetanov.JPG?width=300> .
+<http://dbpedia.org/resource/Momchil_Tsvetanov> <http://www.w3.org/2000/01/rdf-schema#label> "Momchil Tsvetanov"@en .

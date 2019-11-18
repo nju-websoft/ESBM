@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/2108> <http://purl.org/dc/terms/date> "2003-06-13" .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/9658> .
+<http://data.linkedmdb.org/resource/film/2108> <http://www.w3.org/2000/01/rdf-schema#label> "Dumb & Dumberer" .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/7368> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/2108> .
+<http://data.linkedmdb.org/resource/film/2108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/9452> .

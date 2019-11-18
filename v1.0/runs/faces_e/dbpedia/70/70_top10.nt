@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/causalties> "2 Australian MIA (located and repatriated to Australia 5 June 2007)" .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/South_Vietnam> .
+<http://dbpedia.org/resource/Lawrence_Joel> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Operation_Hump> .
+<http://dbpedia.org/resource/173rd_Airborne_Brigade_Combat_Team> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Operation_Hump> .
+<http://dbpedia.org/resource/Operation_Hump> <http://xmlns.com/foaf/0.1/name> "Operation Hump"@en .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/US_1_503rd_paratrooper_Operation_Hump_SVN_November_1965.PNG?width=300> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/result> "United States/Australian victory, Viet Cong retreats." .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/causalties> "48 US killed" .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/strength> "around 1200" .

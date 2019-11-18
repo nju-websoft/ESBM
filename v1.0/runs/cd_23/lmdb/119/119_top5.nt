@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/11639> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/7963> .
+<http://data.linkedmdb.org/resource/interlink/72987> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/7963> .
+<http://data.linkedmdb.org/resource/film/7963> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/4850> .
+<http://data.linkedmdb.org/resource/film/7963> <http://www.w3.org/2000/01/rdf-schema#label> "The Aftermath" .
+<http://data.linkedmdb.org/resource/film/7963> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0758789> .

@@ -1,0 +1,32 @@
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Mawmih> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/East_Khasi_Hills_district> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/2000/01/rdf-schema#label> "E. K. Mawlong"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Meghalaya> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Shillong> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthYear> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/surname> "Mawlong"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/givenName> "E.K."@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthDate> "1946-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathDate> "2008-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/elements/1.1/description> "Indian politician" .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/elements/1.1/description> "Indian politician"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_East_Khasi_Hills_district> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Speakers_of_the_Meghalaya_Legislative_Assembly> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Chief_Ministers_of_Meghalaya> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2008_deaths> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Members_of_the_Meghalaya_Legislative_Assembly> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1946_births> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Shillong> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/name> "E.K. Mawlong"@en .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://xmlns.com/foaf/0.1/name> "Mawlong, E.K."@en .

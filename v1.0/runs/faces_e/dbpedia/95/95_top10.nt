@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Billy_Joel> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Columbia_Records> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/New_wave_music> .
+<http://dbpedia.org/resource/You_May_Be_Right_(song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/certification> "Platinum (RIAA)" .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/releaseDate> "1980-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Billy_Joel> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Columbia_Records_singles> .
+<http://dbpedia.org/resource/Don't_Ask_Me_Why_(Billy_Joel_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://xmlns.com/foaf/0.1/name> "It's Still Rock and Roll to Me"@en .

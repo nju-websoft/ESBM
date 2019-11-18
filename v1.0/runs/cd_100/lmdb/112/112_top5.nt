@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/4501> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000867897> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/runtime> "50" .
+<http://data.linkedmdb.org/resource/film/3887> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/4501> .
+<http://data.linkedmdb.org/resource/film/4501> <http://purl.org/dc/terms/date> "1994-07-09" .

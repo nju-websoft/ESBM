@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/West_Sussex> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/secondDriver> <http://dbpedia.org/resource/Stirling_Moss> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/firstDriverTeam> <http://dbpedia.org/resource/Team_Lotus> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/fastestDriverTeam> <http://dbpedia.org/resource/Cooper_Car_Company> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Goodwood_Circuit> .

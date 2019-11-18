@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Zarudcze> <http://www.georss.org/georss/point> "50.56666666666667 21.616666666666667" .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/2000/01/rdf-schema#label> "Zarudcze"@en .
+<http://dbpedia.org/resource/Zarudcze> <http://xmlns.com/foaf/0.1/name> "Zarudcze"@en .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Gmina_Koprzywnica> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "21.616667"^^<http://www.w3.org/2001/XMLSchema#float> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/thirdDriver> <http://dbpedia.org/resource/Chris_Bristow> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/West_Sussex> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/secondDriver> <http://dbpedia.org/resource/Stirling_Moss> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/firstDriver> <http://dbpedia.org/resource/Innes_Ireland> .

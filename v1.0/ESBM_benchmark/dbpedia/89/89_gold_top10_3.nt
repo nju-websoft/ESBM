@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Myco-heterotrophic_orchids> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Neottieae> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Plants_described_in_1975> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Asparagales> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://xmlns.com/foaf/0.1/name> "Thaia"@en .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://www.w3.org/2000/01/rdf-schema#label> "Thaia saprophytica"@en .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Gunnar_Seidenfaden> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Orchidaceae> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .

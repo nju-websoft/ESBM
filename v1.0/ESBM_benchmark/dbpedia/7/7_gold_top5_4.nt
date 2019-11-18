@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://dbpedia.org/ontology/birthYear> "1898"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Norwegian_sailors_(sport)> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sailors_at_the_1920_Summer_Olympics_–_8_Metre> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Olympic_medalists_in_sailing> .

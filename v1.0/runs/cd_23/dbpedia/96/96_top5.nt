@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://xmlns.com/foaf/0.1/name> "Politiken"@en .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/editor> <http://dbpedia.org/resource/Bo_Lidegaard> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Politiken_newspaper_logo.svg?width=300> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/circulation> "88597"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/sisterNewspaper> <http://dbpedia.org/resource/Jyllands-Posten> .

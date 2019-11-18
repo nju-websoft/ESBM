@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Wernshausen> <http://www.georss.org/georss/point> "50.71666666666667 10.35" .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Wappen_Wernshausen.png?width=300> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Schmalkalden> .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/postalCode> "98590" .
+<http://dbpedia.org/resource/Wernshausen> <http://dbpedia.org/ontology/areaTotal> "2.629E7"^^<http://www.w3.org/2001/XMLSchema#double> .

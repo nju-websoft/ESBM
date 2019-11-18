@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/time> "16:00CEST" .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://xmlns.com/foaf/0.1/name> "2013 Slovnaft Cup Final"@en .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:ŠK_Slovan_Bratislava_matches> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/MŠK_Žilina> .

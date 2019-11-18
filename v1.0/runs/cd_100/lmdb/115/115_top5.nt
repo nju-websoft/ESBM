@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/281> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/94> .
+<http://data.linkedmdb.org/resource/film/6213> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0099731> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/runtime> "109" .
+<http://data.linkedmdb.org/resource/director/8982> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6213> .

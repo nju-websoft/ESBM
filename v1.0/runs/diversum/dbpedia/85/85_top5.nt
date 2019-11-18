@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/synonym> "*Temperate herbaceous clade" .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Fabaceae> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Fabales> .
+<http://dbpedia.org/resource/Inverted_repeat-lacking_clade> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .

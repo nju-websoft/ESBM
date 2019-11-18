@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Odonata> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Insects_described_in_1888> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/conservationStatus> "VU" .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Enallagma> .

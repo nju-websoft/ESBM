@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kings_Ripton> <http://xmlns.com/foaf/0.1/name> "Kings Ripton"@en .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.georss.org/georss/point> "52.37 -0.15" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/postalCode> "PE28 2" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg?width=300> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/gridReference> "TL260765" .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/2000/01/rdf-schema#label> "Reamer Barn"@en .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-82.245"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/nrhpReferenceNumber> "79001889" .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "41.293888"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Ohio_State_Route_511> .

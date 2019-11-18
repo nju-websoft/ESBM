@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/synonym> "*Hilarographa pyranthis (Meyrick, 1907)" .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1900> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Insect> .
+<http://dbpedia.org/resource/Hilarographa_excellens> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Tortricidae> .

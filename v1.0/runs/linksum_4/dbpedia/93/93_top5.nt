@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Indie_rock> .
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Digital_distribution> .
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2013_songs> .
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Glasvegas> .
+<http://dbpedia.org/resource/If_(Glasvegas_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2013_singles> .

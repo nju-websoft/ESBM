@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/result> "Military victory for Rudolf, political victory for Henry" .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_the_Holy_Roman_Empire> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Saxony> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Bohemia> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/date> "1080-10-14"^^<http://www.w3.org/2001/XMLSchema#date> .

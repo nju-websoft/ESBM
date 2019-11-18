@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/servingRailwayLine> <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Sagami-railway-izumino-line-Yayoidai-station-south-entrance.jpg?width=300> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "5-2 Yayoidai"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Railway_stations_in_Yokohama> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/operatedBy> <http://dbpedia.org/resource/Sagami_Railway> .

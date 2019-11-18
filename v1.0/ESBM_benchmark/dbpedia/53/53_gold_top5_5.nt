@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_New_Britain,_Connecticut> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_psychologists> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:University_of_Chicago_alumni> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/givenName> "Edmund Smith"@en .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/elements/1.1/description> "American psychologist"@en .

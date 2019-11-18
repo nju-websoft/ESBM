@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
+<http://data.linkedmdb.org/resource/film/6191> <http://xmlns.com/foaf/0.1/based_near> <http://sws.geonames.org/1861060/> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/JP> .
+<http://data.linkedmdb.org/resource/director/8972> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/6191> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/14066> .

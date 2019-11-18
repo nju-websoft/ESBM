@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/weight> "98431.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/2000/01/rdf-schema#label> "Adrian Griffin"@en .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q3665646> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ShootingGuards> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/birthDate> "1974-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/draftYear> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Orlando_Magic> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/college> <http://dbpedia.org/resource/Seton_Hall_Pirates_men's_basketball> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Wichita,_Kansas> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/height> "1.9558"^^<http://www.w3.org/2001/XMLSchema#double> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Santa_Fe_Province> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Artigas.svg?width=300> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/José_Rondeau> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1859)> <http://www.w3.org/2002/07/owl#differentFrom> <http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> .

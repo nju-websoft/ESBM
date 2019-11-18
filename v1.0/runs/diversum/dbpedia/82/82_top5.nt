@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Balanites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Balanites_maughamii> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Balanites> .
+<http://dbpedia.org/resource/Balanites> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Zygophyllaceae> .
+<http://dbpedia.org/resource/Balanites> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Zygophyllales> .
+<http://dbpedia.org/resource/Balanites> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .

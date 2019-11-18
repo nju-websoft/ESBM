@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://www.w3.org/2000/01/rdf-schema#label> "2011 League of Ireland Cup Final"@en .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Turners_Cross_(stadium)> .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://dbpedia.org/ontology/date> "2011-09-24"^^<http://www.w3.org/2001/XMLSchema#date> .

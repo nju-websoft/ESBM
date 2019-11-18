@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/servingRailwayLine> <http://dbpedia.org/resource/Sagami_Railway_Izumino_Line> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q719456> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://xmlns.com/foaf/0.1/name> "弥生台"@ja .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://xmlns.com/foaf/0.1/name> "Yayoidai"@en .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_rock> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://xmlns.com/foaf/0.1/name> "Dave Clark's \"Time\": The Album"@en .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Concept_albums> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Capitol_Records> .
+<http://dbpedia.org/resource/Time_(Dave_Clark_album)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/EMI> .

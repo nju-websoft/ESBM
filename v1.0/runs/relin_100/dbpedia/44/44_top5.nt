@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://www.w3.org/2000/01/rdf-schema#label> "Our Leading Citizen (1939 film)"@en .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://xmlns.com/foaf/0.1/name> "Our Leading Citizen"@en .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Bob_Burns_(comedian)> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Elizabeth_Patterson_(actress)> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Gene_Lockhart> .

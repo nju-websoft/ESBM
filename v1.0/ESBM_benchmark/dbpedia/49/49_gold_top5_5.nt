@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Crowd_Snores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HollywoodCartoon> .
+<http://dbpedia.org/resource/The_Crowd_Snores> <http://xmlns.com/foaf/0.1/name> "The Crowd Snores"@en .
+<http://dbpedia.org/resource/The_Crowd_Snores> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1930s_comedy_films> .
+<http://dbpedia.org/resource/The_Crowd_Snores> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Walter_Lantz> .
+<http://dbpedia.org/resource/The_Crowd_Snores> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Pooch_the_Pup> .

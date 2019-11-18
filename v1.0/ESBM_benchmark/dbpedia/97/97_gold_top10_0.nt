@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Andy_Biersack> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Glam_metal> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hard_rock> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/2000/01/rdf-schema#label> "Rebel Love Song"@en .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Universal_Republic_Records> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Lava_Records> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/recordDate> "2011-08-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Black_Veil_Brides> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Set_the_World_on_Fire_(Black_Veil_Brides_album)> .

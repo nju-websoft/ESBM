@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/41408> .
+<http://data.linkedmdb.org/resource/film/41408> <http://purl.org/dc/terms/date> "1946-02-06" .
+<http://data.linkedmdb.org/resource/film/41408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8475> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1946-02-06" .

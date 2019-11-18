@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Carp> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Henri_Émile_Sauvage> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Actinopterygii> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/conservationStatus> "LC" .

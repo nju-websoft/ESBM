@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/2897> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/6213> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_subject> <http://data.linkedmdb.org/resource/film_subject/281> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/6866> .
+<http://data.linkedmdb.org/resource/film/6213> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1990-02-15" .
+<http://data.linkedmdb.org/resource/film/6213> <http://purl.org/dc/terms/title> "The Handmaid's Tale" .

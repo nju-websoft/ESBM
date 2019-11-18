@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Ohio> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Art_Nouveau> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Oberlin,_Ohio> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Art_Nouveau_commercial_buildings> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Ohio_State_Route_511> .

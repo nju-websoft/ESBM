@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Kim_Ji-woo> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/completionDate> "2008-03-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Drama_City> <http://www.w3.org/2000/01/rdf-schema#label> "Drama City"@en .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/Korean_Broadcasting_System> .
+<http://dbpedia.org/resource/Drama_City> <http://dbpedia.org/ontology/releaseDate> "1984-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .

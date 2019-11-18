@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/41408> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000527d33> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36306> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1946-02-06" .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/16174> .
+<http://data.linkedmdb.org/resource/film/41408> <http://purl.org/dc/terms/title> "The Spiral Staircase" .

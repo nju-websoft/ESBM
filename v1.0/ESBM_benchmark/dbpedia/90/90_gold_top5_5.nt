@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://www.w3.org/2000/01/rdf-schema#label> "Trichoscypha cavalliensis"@en .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Sapindales> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3" .

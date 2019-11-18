@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/7260> .
+<http://data.linkedmdb.org/resource/film/5232> <http://www.w3.org/2000/01/rdf-schema#label> "The Mummy's Tomb" .
+<http://data.linkedmdb.org/resource/film/5232> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2475> .
+<http://data.linkedmdb.org/resource/interlink/21023> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5232> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000009746be> .

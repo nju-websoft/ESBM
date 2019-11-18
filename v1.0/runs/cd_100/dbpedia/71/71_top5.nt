@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2000/01/rdf-schema#label> "Darreh Dang"@en .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.georss.org/georss/point> "33.269444444444446 49.00111111111111" .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Aligudarz_County> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Iran> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/populationTotal> "451"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/36141> <http://data.linkedmdb.org/resource/movie/actor_name> "Francis Ng" .
+<http://data.linkedmdb.org/resource/film/23695> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/film/40637> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/film/13144> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/36141> .
+<http://data.linkedmdb.org/resource/actor/36141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .

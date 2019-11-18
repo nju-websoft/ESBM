@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sketchy_EP_2> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Sketchy_EP_1> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Sketchy_EP_2> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/releaseDate> "1999-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Jonah_Matranga> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .

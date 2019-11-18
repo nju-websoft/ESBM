@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Porcellio dimorphus" .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Tracheoniscus dimorphus" .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://www.w3.org/2000/01/rdf-schema#label> "Trachelipus dimorphus"@en .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Trachelipus waechtleri" .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Tracheoniscus waechtleri" .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Trachelipus> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Trachelipodidae> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Trachelipodidae> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1941> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Woodlice_of_Europe> .

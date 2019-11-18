@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:UK_MPs_1987–92> .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Members_of_the_Parliament_of_the_United_Kingdom_for_English_constituencies> .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:UK_MPs_1983–87> .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:UK_MPs_1979–83> .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Birmingham,_West_Midlands> .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://www.w3.org/2000/01/rdf-schema#label> "Anthony Beaumont-Dark"@en .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://dbpedia.org/ontology/birthDate> "1932-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://dbpedia.org/ontology/deathDate> "2006-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Anthony_Beaumont-Dark> <http://purl.org/dc/elements/1.1/description> "British politician" .

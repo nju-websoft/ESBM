@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "15.306447"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://xmlns.com/foaf/0.1/name> "Stara Bučka"@en .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "45.9213"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/elevation> "262.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInTheMunicipalityOf%C5%A0kocjan> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Slovenia.svg?width=300> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/populationTotal> "101"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Slovenia> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/areaTotal> "2950000.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Lower_Carniola> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/poleDriverTeam> <http://dbpedia.org/resource/Cooper_Car_Company> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://xmlns.com/foaf/0.1/name> "VIIIGlover Trophy"@en .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/poleDriver> <http://dbpedia.org/resource/Chris_Bristow> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1960_Formula_One_races> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th_century_in_West_Sussex> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GrandPrix> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/course> "3862.4256"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/distance> "162221.8752"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Goodwood_Circuit> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/firstDriverTeam> <http://dbpedia.org/resource/Team_Lotus> .

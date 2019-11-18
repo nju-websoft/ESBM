@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Pseudanos> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://www.w3.org/2000/01/rdf-schema#label> "Pseudanos trimaculatus"@en .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_South_America> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q152> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Actinopterygii> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Characiformes> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Rudolf_Kner> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .

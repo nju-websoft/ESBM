@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Gangsta_Nation> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Terrorist_Threats> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Bow_Down> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/West_Coast_hip_hop> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Fredwreck> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/releaseDate> "2003-12-09"^^<http://www.w3.org/2001/XMLSchema#date> .

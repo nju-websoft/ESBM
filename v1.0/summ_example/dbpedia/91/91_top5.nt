@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/392_(album)> <http://xmlns.com/foaf/0.1/name> "392"@en .
+<http://dbpedia.org/resource/392_(album)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/First_Step_(CNBLUE_album)> .
+<http://dbpedia.org/resource/Ear_Fun> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/392_(album)> .
+<http://dbpedia.org/resource/392_(album)> <http://www.w3.org/2000/01/rdf-schema#label> "392 (album)"@en .
+<http://dbpedia.org/resource/392_(album)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Ear_Fun> .

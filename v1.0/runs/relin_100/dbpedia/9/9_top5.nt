@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://xmlns.com/foaf/0.1/homepage> <http://www.ph-ludwigsburg.de/> .
+<http://dbpedia.org/resource/Rainer_Arnold> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Ludwigsburg_University> .
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://www.w3.org/2000/01/rdf-schema#label> "Ludwigsburg University"@en .
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://xmlns.com/foaf/0.1/name> "Pädagogische Hochschule Ludwigsburg (Ludwigsburg University of Education)"@en .
+<http://dbpedia.org/resource/Ludwigsburg_University> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Ludwigsburg> .

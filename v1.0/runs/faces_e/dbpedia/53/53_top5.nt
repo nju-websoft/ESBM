@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1884_births> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/givenName> "Edmund Smith"@en .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/elements/1.1/description> "American psychologist" .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/surname> "Conklin"@en .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/name> "Edmund Smith Conklin"@en .

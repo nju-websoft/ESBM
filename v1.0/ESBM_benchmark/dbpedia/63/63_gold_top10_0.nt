@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTournament> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Tournament> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2008_in_futsal> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Copa_América_de_Futsal> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:International_association_football_competitions_hosted_by_Uruguay> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2007–08_in_Uruguayan_football> .
+<http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal> <http://www.w3.org/2000/01/rdf-schema#label> "2008 Copa América – FIFA Futsal"@en .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Fired_Wife> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/birthDate> "1905-07-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/2000/01/rdf-schema#label> "Hagar Wilde"@en .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/imdbId> "0928444" .
+<http://dbpedia.org/resource/Bringing_Up_Baby> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/I_Was_a_Male_War_Bride> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/The_Unseen_(1945_film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Hagar_Wilde> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Women_television_writers> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://dbpedia.org/ontology/deathDate> "1971-09-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hagar_Wilde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ScreenWriter> .

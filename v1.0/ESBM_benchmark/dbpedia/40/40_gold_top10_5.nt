@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Malacostraca> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Porcellio dimorphus" .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Crustacean> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1941> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Woodlice_of_Europe> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Isopoda> .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Crustacean> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LandmarksOrHistoricalBuildings> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Reamer_Barn.jpg?width=300> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/added> "1979-03-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.georss.org/georss/point> "41.29388888888889 -82.245" .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Art_Nouveau> .

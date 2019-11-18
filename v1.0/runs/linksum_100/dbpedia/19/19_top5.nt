@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/promotion> <http://dbpedia.org/resource/Extreme_Championship_Wrestling> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Hammerstein_Ballroom> .
+<http://dbpedia.org/resource/Massacre_on_34th_Street> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/November_to_Remember> .
+<http://dbpedia.org/resource/Guilty_as_Charged> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/Massacre_on_34th_Street> .

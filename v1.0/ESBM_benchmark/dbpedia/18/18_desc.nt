@@ -1,0 +1,28 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Irish_War_of_Independence> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/strength> "~20" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/strength> "14 (initially)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/strength> "50 (subsequently)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://xmlns.com/foaf/0.1/name> "Burgery Ambush"@en .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/George_Oliver_Plunkett> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg?width=300> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/2000/01/rdf-schema#label> "Burgery ambush"@en .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/causalties> "2 dead" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/date> "1921-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:History_of_County_Waterford> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Military_actions_and_engagements_during_the_Irish_War_of_Independence> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1921_in_Ireland> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Dungarvan> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Dungarvan> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/County_Waterford> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "(Déise Brigade)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "Royal Irish Constabulary" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "border|22pxIrish Republican Army" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "(Reserve Force)" .

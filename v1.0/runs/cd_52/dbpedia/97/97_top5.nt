@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/The_Legacy_(song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Rebel_Love_Song> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Andy_Biersack_from_BVB.jpg?width=300> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/recordDate> "2011-08-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/In_the_End_(Black_Veil_Brides_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Rebel_Love_Song> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/2000/01/rdf-schema#label> "Rebel Love Song"@en .

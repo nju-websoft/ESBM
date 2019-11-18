@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Music_download> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hard_rock> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Glam_metal> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2011_singles> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Universal_Republic_Records> .

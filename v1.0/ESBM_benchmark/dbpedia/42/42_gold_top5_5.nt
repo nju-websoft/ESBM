@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/releaseDate> "2006-04-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hip_hop_music> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://www.w3.org/2000/01/rdf-schema#label> "Hey Boy (Teddybears song)"@en .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_Klas_Åhlund> .
+<http://dbpedia.org/resource/Hey_Boy_(Teddybears_song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/LOL_(Blog_27_album)> .

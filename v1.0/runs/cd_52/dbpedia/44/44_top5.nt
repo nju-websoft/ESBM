@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://www.w3.org/2000/01/rdf-schema#label> "Our Leading Citizen (1939 film)"@en .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Films_directed_by_Alfred_Santell> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Gerard_Carbonara> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/cinematography> <http://dbpedia.org/resource/Victor_Milner> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Bob_Burns_(comedian)> .

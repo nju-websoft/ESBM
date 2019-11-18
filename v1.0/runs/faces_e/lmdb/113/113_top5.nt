@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/39556> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5226> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/5232> .
+<http://data.linkedmdb.org/resource/film/5232> <http://purl.org/dc/terms/title> "The Mummy's Tomb" .
+<http://data.linkedmdb.org/resource/film/5232> <http://www.w3.org/2000/01/rdf-schema#label> "The Mummy's Tomb" .
+<http://data.linkedmdb.org/resource/film/5232> <http://purl.org/dc/terms/date> "1942-10-23" .

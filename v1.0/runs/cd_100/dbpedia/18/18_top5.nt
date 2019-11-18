@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "(Reserve Force)" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/County_Waterford> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Dungarvan> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/date> "1921-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/causalties> "2 dead" .

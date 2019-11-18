@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Site108651247> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Lower_Carniola> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/areaTotal> "2950000.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Slovenia> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/elevation> "262.2"^^<http://www.w3.org/2001/XMLSchema#double> .

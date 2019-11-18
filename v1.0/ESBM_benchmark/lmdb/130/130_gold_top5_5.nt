@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/34577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/34577> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/43959> .
+<http://data.linkedmdb.org/resource/film/39205> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34577> .
+<http://data.linkedmdb.org/resource/film/10004> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34577> .
+<http://data.linkedmdb.org/resource/film/5509> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34577> .

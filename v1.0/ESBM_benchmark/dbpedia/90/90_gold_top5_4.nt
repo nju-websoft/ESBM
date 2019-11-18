@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://www.w3.org/2000/01/rdf-schema#label> "Trichoscypha cavalliensis"@en .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anacardiaceae> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .

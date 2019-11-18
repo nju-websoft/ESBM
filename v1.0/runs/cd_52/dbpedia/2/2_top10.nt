@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Adrian_Griffin.jpg?width=300> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MilwaukeeBucksAssistantCoaches> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Atlantic_City_Seagulls_players> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/birthDate> "1974-07-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/college> <http://dbpedia.org/resource/Seton_Hall_Pirates_men's_basketball> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/weight> "98431.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://xmlns.com/foaf/0.1/name> "Griffin, Adrian"@en .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Orlando_Magic> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> .
+<http://dbpedia.org/resource/Adrian_Griffin> <http://purl.org/dc/elements/1.1/description> "American basketball player-coach"@en .

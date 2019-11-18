@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/32500> <http://www.w3.org/2000/01/rdf-schema#label> "Byron Long (Actor)" .
+<http://data.linkedmdb.org/resource/film/75108> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32500> .
+<http://data.linkedmdb.org/resource/film/75096> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32500> .
+<http://data.linkedmdb.org/resource/film/75092> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32500> .
+<http://data.linkedmdb.org/resource/film/75093> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32500> .
+<http://data.linkedmdb.org/resource/film/75094> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32500> .
+<http://data.linkedmdb.org/resource/film/75103> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32500> .
+<http://data.linkedmdb.org/resource/film/75089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32500> .
+<http://data.linkedmdb.org/resource/actor/32500> <http://data.linkedmdb.org/resource/movie/actor_name> "Byron Long" .
+<http://data.linkedmdb.org/resource/actor/32500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .

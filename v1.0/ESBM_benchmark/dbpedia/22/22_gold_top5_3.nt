@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Chitita> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Village> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInAricaProvince> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Chitita> <http://www.w3.org/2000/01/rdf-schema#label> "Chitita"@en .
+<http://dbpedia.org/resource/Chitita> <http://xmlns.com/foaf/0.1/name> "Chitita"@en .

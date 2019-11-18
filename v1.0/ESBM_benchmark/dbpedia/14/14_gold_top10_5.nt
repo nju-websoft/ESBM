@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/budget> "100000.0"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://xmlns.com/foaf/0.1/homepage> <http://www.spartapragueopen.cz/en> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Prague> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/tennisSurfaceType> "Clay" .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q500834> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Tournament> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TennisTournament> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q13219666> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://www.w3.org/2000/01/rdf-schema#label> "2011 Sparta Prague Open"@en .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2011_in_Czech_sport> .

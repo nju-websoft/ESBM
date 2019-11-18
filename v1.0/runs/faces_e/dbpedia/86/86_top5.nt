@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Myrtales> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Rosids> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Myrtales_of_Australia> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/William_Vincent_Fitzgerald> .
+<http://dbpedia.org/resource/Melaleuca_sheathiana> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Myrtaceae> .

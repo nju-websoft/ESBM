@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Porcellio dimorphus" .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Tracheoniscus dimorphus" .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://www.w3.org/2000/01/rdf-schema#label> "Trachelipus dimorphus"@en .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Trachelipus waechtleri" .
+<http://dbpedia.org/resource/Trachelipus_dimorphus> <http://dbpedia.org/ontology/synonym> "*Tracheoniscus waechtleri" .

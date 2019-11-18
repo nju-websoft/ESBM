@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Product104007894> .
+<http://dbpedia.org/resource/Politiken> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Media_in_Copenhagen> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Copenhagen> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/circulation> "88597"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/editor> <http://dbpedia.org/resource/Bo_Lidegaard> .

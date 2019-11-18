@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CommunesOfBacLieuProvince> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Bạc_Liêu_Province> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Giá_Rai_District> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/UTC+07:00> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Commune-level_subdivisions_(Vietnam)> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://www.w3.org/2000/01/rdf-schema#label> "Phong Thạnh Tây"@en .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Vietnam> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Communes_of_Bac_Lieu_Province> .
+<http://dbpedia.org/resource/Phong_Thạnh_Tây> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Populated_places_in_Bac_Lieu_Province> .

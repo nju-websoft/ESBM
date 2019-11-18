@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://xmlns.com/foaf/0.1/name> "Conklin, Edmund Smith"@en .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://dbpedia.org/ontology/deathDate> "1942-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://dbpedia.org/ontology/birthDate> "1884-04-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/elements/1.1/description> "American psychologist"@en .

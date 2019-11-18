@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/1981Films> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Deborah_Van_Valkenburgh> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1981_films> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Leigh_Chapman> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Noel_Nosseck> .

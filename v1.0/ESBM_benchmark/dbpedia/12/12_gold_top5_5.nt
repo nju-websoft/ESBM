@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .
+<http://dbpedia.org/resource/2012_Kor_Royal_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2011_Kor_Royal_Cup> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Chonburi_F.C.> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2012_Kor_Royal_Cup> .

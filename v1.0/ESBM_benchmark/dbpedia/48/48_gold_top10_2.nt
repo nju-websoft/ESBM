@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/The_Black_Crowes> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/George_Drakoulias> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/The_Black_Crowes> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Blues_rock> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Southern_rock> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Sting_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Billboard_Mainstream_Rock_number-one_singles> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/The_Black_Crowes> .
+<http://dbpedia.org/resource/Sting_Me> <http://xmlns.com/foaf/0.1/name> "Sting Me"@en .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/The_Southern_Harmony_and_Musical_Companion> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:9th-century_monarchs_in_Asia> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Guaram_Mampali> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/activeYearsEndYear> "0830"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://purl.org/dc/elements/1.1/description> "Prince of Iberia" .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/2000/01/rdf-schema#label> "Ashot I of Iberia"@en .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Royalty> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Adarnase_I_of_Tao-Klarjeti> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/activeYearsStartYear> "0813"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/title> "Kouropalatēs"@en .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Stephen_III_of_Iberia> .

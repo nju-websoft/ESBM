@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2012_League_of_Ireland_Cup_Final> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://www.w3.org/2000/01/rdf-schema#label> "2011 League of Ireland Cup Final"@en .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Turners_Cross_(stadium)> .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://xmlns.com/foaf/0.1/name> "2011 League of Ireland Cup Final"@en .
+<http://dbpedia.org/resource/2011_League_of_Ireland_Cup_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:League_of_Ireland_Cup_finals> .

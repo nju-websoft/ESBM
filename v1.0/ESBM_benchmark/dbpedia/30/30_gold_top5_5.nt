@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/openingYear> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Japan> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "5-2 Yayoidai"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://xmlns.com/foaf/0.1/name> "弥生台"@ja .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/postalCode> "245-0008" .

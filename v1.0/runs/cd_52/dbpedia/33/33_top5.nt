@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Patung_badak_sumbu.JPG?width=300> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://xmlns.com/foaf/0.1/name> "Eastern Sumatran rhinoceros"@en .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Species_made_extinct_by_human_activities> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/conservationStatus> "EW" .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Odd-toed_ungulate> .

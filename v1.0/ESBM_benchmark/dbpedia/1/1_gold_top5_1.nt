@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/slogan> "Great Ocean Radio"@en .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RadioStation> .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/broadcastArea> <http://dbpedia.org/resource/Victoria_(Australia)> .
+<http://dbpedia.org/resource/3WAY_FM> <http://xmlns.com/foaf/0.1/name> "3WAY FM"@en .
+<http://dbpedia.org/resource/3WAY_FM> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Community_radio_stations_in_Australia> .

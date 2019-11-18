@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/director/8475> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/41408> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5266> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/29> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/10319> .
+<http://data.linkedmdb.org/resource/film/41408> <http://www.w3.org/2000/01/rdf-schema#label> "The Spiral Staircase" .
+<http://data.linkedmdb.org/resource/film/41408> <http://purl.org/dc/terms/date> "1946-02-06" .
+<http://data.linkedmdb.org/resource/film/41408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/16174> .
+<http://data.linkedmdb.org/resource/film/41408> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33562> .
+<http://data.linkedmdb.org/resource/film/41408> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000527d33> .

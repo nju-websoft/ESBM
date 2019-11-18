@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Terrorist_Threats> <http://www.w3.org/2000/01/rdf-schema#label> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://xmlns.com/foaf/0.1/name> "Terrorist Threats"@en .
+<http://dbpedia.org/resource/Gangsta_Nation> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Terrorist_Threats> .
+<http://dbpedia.org/resource/Terrorist_Threats> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Bow_Down> .
+<http://dbpedia.org/resource/Bow_Down> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Terrorist_Threats> .

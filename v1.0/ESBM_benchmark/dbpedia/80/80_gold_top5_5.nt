@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Village> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.georss.org/georss/point> "50.56666666666667 21.616666666666667" .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Poland> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "21.616667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Zarudcze> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_in_Sandomierz_County> .

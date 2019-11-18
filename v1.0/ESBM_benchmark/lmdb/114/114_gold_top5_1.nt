@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6191> <http://purl.org/dc/terms/date> "1983-10-12" .
+<http://data.linkedmdb.org/resource/film/6191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8972> .
+<http://data.linkedmdb.org/resource/film/6191> <http://data.linkedmdb.org/resource/movie/filmid> "6191"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/6191> <http://www.w3.org/2000/01/rdf-schema#label> "Satomi Hakkenden" .

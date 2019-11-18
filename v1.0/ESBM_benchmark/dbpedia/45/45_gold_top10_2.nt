@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Netherlands> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2000s_drama_films> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Films_set_in_the_Netherlands> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Dutch-language_films> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Eddy_Terstall> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Marcel_Hensema> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Dutch_language> .
+<http://dbpedia.org/resource/Simon_(2004_film)> <http://www.w3.org/2000/01/rdf-schema#label> "Simon (2004 film)"@en .

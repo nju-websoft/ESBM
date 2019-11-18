@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2000/01/rdf-schema#label> "Stara Bučka"@en .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "45.9213"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.georss.org/georss/point> "45.9213 15.306447222222221" .
+<http://dbpedia.org/resource/Stara_Bučka> <http://xmlns.com/foaf/0.1/name> "Stara Bučka"@en .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "15.306447"^^<http://www.w3.org/2001/XMLSchema#float> .

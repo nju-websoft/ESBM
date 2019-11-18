@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/24821> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14438> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/47754> .
+<http://data.linkedmdb.org/resource/film/14438> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Now_You_See_Him,_Now_You_Don't> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31243> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/runtime> "88" .

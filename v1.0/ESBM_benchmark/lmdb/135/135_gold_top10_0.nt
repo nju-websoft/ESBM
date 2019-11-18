@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/director/416> <http://data.linkedmdb.org/resource/movie/director_name> "Fred C. Newmeyer" .
+<http://data.linkedmdb.org/resource/director/416> <http://www.w3.org/2000/01/rdf-schema#label> "Fred C. Newmeyer (Director)" .
+<http://data.linkedmdb.org/resource/director/416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://data.linkedmdb.org/resource/director/416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
+<http://data.linkedmdb.org/resource/director/416> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000b97495> .
+<http://data.linkedmdb.org/resource/director/416> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/5711> .
+<http://data.linkedmdb.org/resource/director/416> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/66469> .
+<http://data.linkedmdb.org/resource/director/416> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/25006> .
+<http://data.linkedmdb.org/resource/director/416> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/16516> .
+<http://data.linkedmdb.org/resource/director/416> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/94441> .

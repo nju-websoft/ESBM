@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6563> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34577> .
+<http://data.linkedmdb.org/resource/actor/34577> <http://data.linkedmdb.org/resource/movie/actor_name> "James Naughton" .
+<http://data.linkedmdb.org/resource/actor/34577> <http://www.w3.org/2000/01/rdf-schema#label> "James Naughton (Actor)" .
+<http://data.linkedmdb.org/resource/actor/34577> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/40281> .
+<http://data.linkedmdb.org/resource/actor/34577> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000003be85d> .

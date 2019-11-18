@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Vasco_da_Gama> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Kozhikode> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:History_of_Kozhikode> .

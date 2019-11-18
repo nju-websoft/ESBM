@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Andrew_Kippis> <http://xmlns.com/foaf/0.1/name> "Andrew Kippis"@en .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://xmlns.com/foaf/0.1/name> "Kippis, Andrew"@en .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Kippis"@en .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Andrew_Kippis.jpg?width=300> .
+<http://dbpedia.org/resource/Andrew_Kippis> <http://xmlns.com/foaf/0.1/surname> "Kippis"@en .

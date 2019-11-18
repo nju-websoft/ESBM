@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Valencia_CF> .
+<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Getafe_CF> .
+<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://www.w3.org/2000/01/rdf-schema#label> "2008 Copa del Rey Final"@en .
+<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .
+<http://dbpedia.org/resource/2008_Copa_del_Rey_Final> <http://dbpedia.org/ontology/date> "2008-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .

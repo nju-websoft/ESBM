@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Akalwadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Akalwadi> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Bijapur_district,_Karnataka> .
+<http://dbpedia.org/resource/Akalwadi> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Akalwadi> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/KarnatakaBijapur.png?width=300> .
+<http://dbpedia.org/resource/Akalwadi> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Indian_Standard_Time> .

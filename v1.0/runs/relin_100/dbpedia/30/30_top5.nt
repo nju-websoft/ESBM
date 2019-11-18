@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Yayoidai_Station> <http://www.w3.org/2000/01/rdf-schema#label> "Yayoidai Station"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Sagami-railway-izumino-line-Yayoidai-station-south-entrance.jpg?width=300> .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "5-2 Yayoidai"@en .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/address> "神奈川県 横浜市泉区弥生台５－２"@ja .
+<http://dbpedia.org/resource/Yayoidai_Station> <http://dbpedia.org/ontology/passengersPerDay> "16032"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Kotumachagi> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Gadag-Betageri> .
+<http://dbpedia.org/resource/Kotumachagi> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Kotumachagi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q532> .
+<http://dbpedia.org/resource/Kotumachagi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Kotumachagi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Kotumachagi> <http://dbpedia.org/ontology/utcOffset> "+5:30" .
+<http://dbpedia.org/resource/Kotumachagi> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Indian_Standard_Time> .
+<http://dbpedia.org/resource/Kotumachagi> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "75.77102"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Kotumachagi> <http://www.georss.org/georss/point> "15.54259 75.77102" .
+<http://dbpedia.org/resource/Kotumachagi> <http://dbpedia.org/ontology/populationTotal> "6895"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

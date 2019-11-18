@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/67878> <http://data.linkedmdb.org/resource/movie/actor_name> "Devyn Foster" .
+<http://data.linkedmdb.org/resource/actor/67878> <http://www.w3.org/2000/01/rdf-schema#label> "Devyn Foster (Actor)" .
+<http://data.linkedmdb.org/resource/film/81568> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/67878> .
+<http://data.linkedmdb.org/resource/actor/67878> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/190534> .
+<http://data.linkedmdb.org/resource/actor/67878> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000012ca2cfe> .

@@ -1,0 +1,23 @@
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/slogan> "Great Ocean Radio"@en .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/2000/01/rdf-schema#label> "3WAY FM"@en .
+<http://dbpedia.org/resource/3WAY_FM> <http://xmlns.com/foaf/0.1/homepage> <http://3wayfm.org.au> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/RadioStation> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q15265344> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RadioStation> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q43229> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson> .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/broadcastArea> <http://dbpedia.org/resource/Warrnambool> .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/broadcastArea> <http://dbpedia.org/resource/Victoria_(Australia)> .
+<http://dbpedia.org/resource/3WAY_FM> <http://xmlns.com/foaf/0.1/name> "3WAY FM"@en .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/callsignMeaning> "3 - Victoria" .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/callsignMeaning> "Warrnambool And You" .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/programmeFormat> <http://dbpedia.org/resource/Community_radio> .
+<http://dbpedia.org/resource/3WAY_FM> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Community_radio_stations_in_Australia> .
+<http://dbpedia.org/resource/3WAY_FM> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Radio_stations_in_Victoria> .
+<http://dbpedia.org/resource/3WAY_FM> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Radio_stations_established_in_1990> .

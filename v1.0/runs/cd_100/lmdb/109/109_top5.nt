@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38446> .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/19046> .
+<http://data.linkedmdb.org/resource/film/41006> <http://www.w3.org/2000/01/rdf-schema#label> "The Incredibly True Adventure of Two Girls in Love" .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/7390> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/41006> .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/377> .

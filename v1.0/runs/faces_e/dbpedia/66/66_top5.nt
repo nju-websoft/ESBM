@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/ŠK_Slovan_Bratislava> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Ružomberok> .
+<http://dbpedia.org/resource/2012_Slovak_Cup_Final> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2013_Slovak_Cup_Final> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Slovak_Cup_Finals> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://xmlns.com/foaf/0.1/name> "2013 Slovnaft Cup Final"@en .
