@@ -17,7 +17,7 @@ ESBM (short for Entity Summarization BenchMark) is a benchmark for evaluating al
 
 # Data
 
-The ESBM benchmark consists of 140 entities (see elist.txt) selected from [DBpedia](http://wiki.dbpedia.org/dbpedia-dataset-version-2015-10) and (LinkedMDB)[http://www.cs.toronto.edu/~oktie/linkedmdb/linkedmdb-latest-dump.zip]. For each entity, we provide its original description to be summarized and its gold-standard summaries created by crowdsourcing, all available as N-Triples documents.
+The ESBM benchmark consists of 140 entities (see elist.txt) selected from [DBpedia](http://wiki.dbpedia.org/dbpedia-dataset-version-2015-10) and [LinkedMDB](http://www.cs.toronto.edu/~oktie/linkedmdb/linkedmdb-latest-dump.zip). For each entity, we provide its original description to be summarized and its gold-standard summaries created by crowdsourcing, all available as N-Triples documents.
 
 * <code>desc</code>: entity description to be summarized;
 * <code>top5</code>: six gold-standard summaries independently created by different people under <strong>k=5</strong> (i.e., 5 triples in each summary);
