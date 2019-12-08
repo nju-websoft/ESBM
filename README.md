@@ -5,7 +5,7 @@ License: [ODC Attribution License (ODC-By)](https://opendatacommons.org/licenses
 
 ESBM (short for Entity Summarization BenchMark) is a benchmark for evaluating algorithms for entity summarization, aka entity summarizers.
 
-Currently, two versions are available:
+Currently, three versions are available:
 
 * [ESBM v1.0](https://github.com/nju-websoft/ESBM/tree/master/v1.0) (Last update: 2018-07-27)
 * [ESBM v1.1](https://github.com/nju-websoft/ESBM/tree/master/v1.1) (Last update: 2019-03-26)
