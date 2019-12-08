@@ -208,7 +208,7 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td3">0.207</td>
 <td name="td4">0.358</td>
 <td name="td5">0.237</td>
-<td name="td6"><b>0.464</b></td>
+<td name="td6">0.464</td>
 </tr>
 <tr>
 <td>FACES [3]</td>
@@ -223,37 +223,37 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td>FACES-E [4]</td>
 <td name="td1">0.280</td>
 <td name="td2">0.488</td>
-<td name="td3"><b>0.313</b></td>
-<td name="td4"><b>0.393</b></td>
-<td name="td5"><b>0.289</b></td>
+<td name="td3">0.313</td>
+<td name="td4">0.393</td>
+<td name="td5">0.289</td>
 <td name="td6">0.461</td>
 </tr>
 <tr>
 <td>CD [5]<br></td>
-<td name="td1"><b>0.283</b><br><span></span></td>
-<td name="td2"><b>0.513</b><br><span></span></td>
-<td name="td3">0.217<br><span></span></td>
-<td name="td4">0.331<br><span></span></td>
-<td name="td5">0.264<br><span></span></td>
-<td name="td6">0.461<br><span></span></td>
+<td name="td1">0.283</td>
+<td name="td2"><b>0.513</b></td>
+<td name="td3">0.217<br></td>
+<td name="td4">0.331<br></td>
+<td name="td5">0.264<br></td>
+<td name="td6">0.461<br></td>
 </tr>
 <tr>
 <td>LinkSUM [6]</td>
-<td name="td1">0.287<br><span></span></td>
-<td name="td2">0.486<br><span></span></td>
-<td name="td3">0.140<br><span></span></td>
-<td name="td4">0.279<br><span></span></td>
-<td name="td5">0.245<br><span></span></td>
-<td name="td6">0.427<br><span></span></td>
+<td name="td1">0.287<br></td>
+<td name="td2">0.486<br></td>
+<td name="td3">0.140<br></td>
+<td name="td4">0.279<br></td>
+<td name="td5">0.245<br></td>
+<td name="td6">0.427<br></td>
 </tr>
 <tr>
 <td>BAFREC [7]</td>
 <td name="td1"><b>0.335</b></td>
-<td name="td2">0.503<br></td>
+<td name="td2">0.503</td>
 <td name="td3"><b>0.360</b></td>
-<td name="td4">0.402<br></td>
+<td name="td4">0.402</td>
 <td name="td5"><b>0.342</b></td>
-<td name="td6">0.474<br></td>
+<td name="td6">0.474</td>
 </tr>
 <tr>
 <td>KAFCA [8]</td>
@@ -266,11 +266,11 @@ You are encouraged to submit the results of your entity summarizer by contacting
 </tr>
 <tr>
 <td>MPSUM [9]</td>
-<td name="td1">0.314<br></td>
-<td name="td2"><b>0.512</b></td>
-<td name="td3">0.272<br></td>
+<td name="td1">0.314</td>
+<td name="td2">0.512</td>
+<td name="td3">0.272</td>
 <td name="td4"><b>0.423</b></td>
-<td name="td5">0.302<br></td>
+<td name="td5">0.302</td>
 <td name="td6"><b>0.486</b></td>
 </tr>
 </tbody></table>
@@ -322,12 +322,12 @@ You are encouraged to submit the results of your entity summarizer by contacting
 </tr>
 <tr>
 <td>FACES-E [4]</td>
-<td name="td1"><b>0.735</b></td>
+<td name="td1">0.735</td>
 <td name="td2"><b>0.836</b></td>
-<td name="td3"><b>0.674</b></td>
-<td name="td4"><b>0.765</b></td>
-<td name="td5"><b>0.718</b></td>
-<td name="td6"><b>0.816</b></td>
+<td name="td3">0.674</td>
+<td name="td4">0.765</td>
+<td name="td5">0.718</td>
+<td name="td6">0.816</td>
 </tr>
 <tr>
 <td>CD [5]<br></td>
@@ -350,16 +350,16 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <tr>
 <td>BAFREC [7]</td>
 <td name="td1"><b>0.752</b></td>
-<td name="td2">0.832<br></td>
+<td name="td2">0.832</td>
 <td name="td3"><b>0.773</b></td>
-<td name="td4">0.827<br></td>
+<td name="td4"><b>0.827</b></td>
 <td name="td5"><b>0.758</b></td>
-<td name="td6">0.830<br></td>
+<td name="td6"><b>0.830</b></td>
 </tr>
 <tr>
 <td>KAFCA [8]</td>
 <td name="td1">0.737<br></td>
-<td name="td2">0.851<br></td>
+<td name="td2"><b>0.851</b></td>
 <td name="td3">0.640<br></td>
 <td name="td4">0.754<br></td>
 <td name="td5">0.709<br></td>
@@ -367,12 +367,12 @@ You are encouraged to submit the results of your entity summarizer by contacting
 </tr>
 <tr>
 <td>MPSUM [9]</td>
-<td name="td1">0.745<br></td>
-<td name="td2"><b>0.831</b></td>
-<td name="td3">0.694<br></td>
-<td name="td4"><b>0.787</b></td>
-<td name="td5">0.730<br></td>
-<td name="td6"><b>0.819</b></td>
+<td name="td1">0.745</td>
+<td name="td2">0.831</td>
+<td name="td3">0.694</td>
+<td name="td4">0.787</td>
+<td name="td5">0.730</td>
+<td name="td6">0.819</td>
 </tr>
 </tbody></table>
 
@@ -385,8 +385,8 @@ You are encouraged to submit the results of your entity summarizer by contacting
 [4] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth, Gong Cheng: Gleaning Types for Literals in RDF Triples with Application to Entity Summarization. ESWC 2016: 85-100.<br>
 [5] Danyun Xu, Liang Zheng, Yuzhong Qu: CD at ENSEC 2016: Generating Characteristic and Diverse Entity Summaries. SumPre@ESWC 2016.<br>
 [6] Andreas Thalhammer, Nelia Lasierra, Achim Rettinger: LinkSUM: Using Link Analysis to Summarize Entity Data. ICWE 2016: 244-261.<br>
-[7] Hermann Kroll, Denis Nagel and Wolf-Tilo Balke: BAFREC: Balancing Frequency and Rarity for Entity Characterization in Linked Open Data. EYRE 2018.
-[8] Eun-Kyung Kim and Key-Sun Choi: Entity Summarization Based on Formal Concept Analysis. EYRE 2018.
+[7] Hermann Kroll, Denis Nagel and Wolf-Tilo Balke: BAFREC: Balancing Frequency and Rarity for Entity Characterization in Linked Open Data. EYRE 2018.<br>
+[8] Eun-Kyung Kim and Key-Sun Choi: Entity Summarization Based on Formal Concept Analysis. EYRE 2018.<br>
 [9] Dongjun Wei, Shiyuan Gao, Yaxin Liu, Zhibing Liu and Longtao Huang: MPSUM: Entity Summarization with Predicate-based Matching. EYRE 2018.
 </p>
 
