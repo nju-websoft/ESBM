@@ -195,7 +195,7 @@ You are encouraged to submit the results of your entity summarizer by contacting
 </thead>
 <tbody><tr>
 <td>RELIN [1]</td>
-<td name="td1">0.242 <br><span></span></td>
+<td name="td1">0.242<br><span></span></td>
 <td name="td2">0.455<br><span></span></td>
 <td name="td3">0.203<br><span></span></td>
 <td name="td4">0.258<br><span></span></td>
@@ -231,7 +231,7 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <tr>
 <td>CD [5]<br></td>
 <td name="td1">0.283</td>
-<td name="td2"><b>0.513</b></td>
+<td name="td2">0.513</td>
 <td name="td3">0.217<br></td>
 <td name="td4">0.331<br></td>
 <td name="td5">0.264<br></td>
@@ -248,11 +248,11 @@ You are encouraged to submit the results of your entity summarizer by contacting
 </tr>
 <tr>
 <td>BAFREC [7]</td>
-<td name="td1"><b>0.335</b></td>
+<td name="td1">0.335</td>
 <td name="td2">0.503</td>
-<td name="td3"><b>0.360</b></td>
+<td name="td3">0.360</td>
 <td name="td4">0.402</td>
-<td name="td5"><b>0.342</b></td>
+<td name="td5">0.342</td>
 <td name="td6">0.474</td>
 </tr>
 <tr>
@@ -269,9 +269,9 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td1">0.314</td>
 <td name="td2">0.512</td>
 <td name="td3">0.272</td>
-<td name="td4"><b>0.423</b></td>
+<td name="td4">0.423</td>
 <td name="td5">0.302</td>
-<td name="td6"><b>0.486</b></td>
+<td name="td6">0.486</td>
 </tr>
 </tbody></table>
 
@@ -323,7 +323,7 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <tr>
 <td>FACES-E [4]</td>
 <td name="td1">0.735</td>
-<td name="td2"><b>0.836</b></td>
+<td name="td2">0.836</td>
 <td name="td3">0.674</td>
 <td name="td4">0.765</td>
 <td name="td5">0.718</td>
@@ -349,17 +349,17 @@ You are encouraged to submit the results of your entity summarizer by contacting
 </tr>
 <tr>
 <td>BAFREC [7]</td>
-<td name="td1"><b>0.752</b></td>
+<td name="td1">0.752</td>
 <td name="td2">0.832</td>
-<td name="td3"><b>0.773</b></td>
-<td name="td4"><b>0.827</b></td>
-<td name="td5"><b>0.758</b></td>
-<td name="td6"><b>0.830</b></td>
+<td name="td3">0.773</td>
+<td name="td4">0.827</td>
+<td name="td5">0.758</td>
+<td name="td6">0.830</td>
 </tr>
 <tr>
 <td>KAFCA [8]</td>
 <td name="td1">0.737<br></td>
-<td name="td2"><b>0.851</b></td>
+<td name="td2">0.851</td>
 <td name="td3">0.640<br></td>
 <td name="td4">0.754<br></td>
 <td name="td5">0.709<br></td>
