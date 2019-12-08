@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/director/8424> <http://www.w3.org/2000/01/rdf-schema#label> "James Cameron (Director)" .
+<http://data.linkedmdb.org/resource/director/8424> <http://data.linkedmdb.org/resource/movie/director_name> "James Cameron" .
+<http://data.linkedmdb.org/resource/director/8424> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000001fdcc> .
+<http://data.linkedmdb.org/resource/film/72> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8424> .
+<http://data.linkedmdb.org/resource/film/40972> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8424> .

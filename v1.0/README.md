@@ -167,13 +167,13 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td6"><b>0.477</b></td>
 </tr>
 <tr>
-<td>CD [3]<br></td>
-<td name="td1"><b>0.299</b><br><span>(γ=0.47)</span></td>
-<td name="td2"><b>0.531</b><br><span>(γ=0.23)</span></td>
-<td name="td3">0.215<br><span>(γ=1.00)</span></td>
-<td name="td4">0.326<br><span>(γ=1.00)</span></td>
-<td name="td5">0.267<br><span>(γ=0.52)</span></td>
-<td name="td6">0.467<br><span>(γ=0.16)</span></td>
+<td>FACES [3]</td>
+<td name="td1">0.272</td>
+<td name="td2">0.439</td>
+<td name="td3">0.160</td>
+<td name="td4">0.259</td>
+<td name="td5">0.240</td>
+<td name="td6">0.388</td>
 </tr>
 <tr>
 <td>FACES-E [4]</td>
@@ -184,15 +184,14 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td5"><b>0.276</b></td>
 <td name="td6">0.476</td>
 </tr>
-
 <tr>
-<td>FACES [5]</td>
-<td name="td1">0.272</td>
-<td name="td2">0.439</td>
-<td name="td3">0.160</td>
-<td name="td4">0.259</td>
-<td name="td5">0.240</td>
-<td name="td6">0.388</td>
+<td>CD [5]<br></td>
+<td name="td1"><b>0.299</b><br><span>(γ=0.47)</span></td>
+<td name="td2"><b>0.531</b><br><span>(γ=0.23)</span></td>
+<td name="td3">0.215<br><span>(γ=1.00)</span></td>
+<td name="td4">0.326<br><span>(γ=1.00)</span></td>
+<td name="td5">0.267<br><span>(γ=0.52)</span></td>
+<td name="td6">0.467<br><span>(γ=0.16)</span></td>
 </tr>
 <tr>
 <td>LinkSUM [6]</td>
@@ -242,13 +241,13 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td6">0.476</td>
 </tr>
 <tr>
-<td>CD [3]<br></td>
-<td name="td1">-</td>
-<td name="td2">-</td>
-<td name="td3">-</td>
-<td name="td4">-</td>
-<td name="td5">-</td>
-<td name="td6">-</td>
+<td>FACES [3]</td>
+<td name="td1">0.247</td>
+<td name="td2">0.386</td>
+<td name="td3">0.140</td>
+<td name="td4">0.261</td>
+<td name="td5">0.216</td>
+<td name="td6">0.351</td>
 </tr>
 <tr>
 <td>FACES-E [4]</td>
@@ -259,15 +258,14 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td5"><b>0.326</b></td>
 <td name="td6"><b>0.481</b></td>
 </tr>
-
 <tr>
-<td>FACES [5]</td>
-<td name="td1">0.247</td>
-<td name="td2">0.386</td>
-<td name="td3">0.140</td>
-<td name="td4">0.261</td>
-<td name="td5">0.216</td>
-<td name="td6">0.351</td>
+<td>CD [5]<br></td>
+<td name="td1">-</td>
+<td name="td2">-</td>
+<td name="td3">-</td>
+<td name="td4">-</td>
+<td name="td5">-</td>
+<td name="td6">-</td>
 </tr>
 <tr>
 <td>LinkSUM [6]</td>
@@ -285,10 +283,10 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <p>
 [1] Gong Cheng, Thanh Tran, Yuzhong Qu: RELIN: Relatedness and Informativeness-Based Centrality for Entity Summarization. International Semantic Web Conference (1) 2011: 114-129. <br>
 [2] Marcin Sydow, Mariusz Pikula, Ralf Schenkel: The notion of diversity in graphical entity summarisation on semantic knowledge graphs. J. Intell. Inf. Syst. 41(2): 109-149 (2013).<br>
-[3] Danyun Xu, Liang Zheng, Yuzhong Qu: CD at ENSEC 2016: Generating Characteristic and Diverse Entity Summaries. SumPre@ESWC 2016.<br>
+[3] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth: FACES: Diversity-Aware Entity Summarization Using Incremental Hierarchical Conceptual Clustering. AAAI 2015: 116-122.<br>
 [4] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth, Gong Cheng: Gleaning Types for Literals in RDF Triples with Application to Entity Summarization. ESWC 2016: 85-100.<br>
-[5] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth: FACES: Diversity-Aware Entity Summarization Using Incremental Hierarchical Conceptual Clustering. AAAI 2015: 116-122.<br>
-[6] Andreas Thalhammer, Nelia Lasierra, Achim Rettinger: LinkSUM: Using Link Analysis to Summarize Entity Data. ICWE 2016: 244-261.
+[5] Danyun Xu, Liang Zheng, Yuzhong Qu: CD at ENSEC 2016: Generating Characteristic and Diverse Entity Summaries. SumPre@ESWC 2016.<br>
+[6] Andreas Thalhammer, Nelia Lasierra, Achim Rettinger: LinkSUM: Using Link Analysis to Summarize Entity Data. ICWE 2016: 244-261. <br>
 </p>
 
 # Contact

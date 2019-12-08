@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/runtime> "177.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://www.w3.org/2000/01/rdf-schema#label> "It's Still Rock and Roll to Me"@en .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rock_music> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/New_wave_music> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Billy_Joel> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Phil_Ramone> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Billy_Joel> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Columbia_Records> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Billy_Joel> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Glass_Houses> .

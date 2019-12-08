@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/World_War_II> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/date> "1941-10-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Admiral> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/combatant> "25pxGermany" .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/combatant> "25pxUnited Kingdom" .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Atlantic_Ocean> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/strength> "16 escorts" .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://dbpedia.org/ontology/strength> "52 merchant ships" .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Convoy_HX_156> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:North_Atlantic_convoys_of_World_War_II> .

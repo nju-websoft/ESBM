@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Clark_University_alumni> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_New_Britain,_Connecticut> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Indiana_University_faculty> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://dbpedia.org/ontology/deathDate> "1942-10-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Edmund_Smith_Conklin> <http://dbpedia.org/ontology/birthDate> "1884-04-19"^^<http://www.w3.org/2001/XMLSchema#date> .

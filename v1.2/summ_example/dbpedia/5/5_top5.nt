@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/2000/01/rdf-schema#label> "Dallas Keuchel"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/name> "Keuchel, Dallas"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/name> "Dallas Keuchel"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Dallas_Keuchel_signing_autographs_in_Jan_2015.jpg?width=300> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://xmlns.com/foaf/0.1/surname> "Keuchel"@en .

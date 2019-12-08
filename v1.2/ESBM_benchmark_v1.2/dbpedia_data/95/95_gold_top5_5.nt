@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rock_music> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/releaseDate> "1980-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1980_songs> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Glass_Houses> .

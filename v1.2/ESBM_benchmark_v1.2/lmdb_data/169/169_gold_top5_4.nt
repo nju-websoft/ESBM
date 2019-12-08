@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/30> .
+<http://data.linkedmdb.org/resource/film/49> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0017743> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/18034> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/43> .

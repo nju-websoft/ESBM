@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Random_Thoughts_(Faye_Wong_album)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Sky_(Faye_Wong_album)> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/runtime> "2819.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/releaseDate> "1994-11-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Faye_Wong> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Sony_Music_Entertainment> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/2000/01/rdf-schema#label> "Sky (Faye Wong album)"@en .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sony_Music_Entertainment_albums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Albums_by_Singaporean_artists> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Mandopop> .

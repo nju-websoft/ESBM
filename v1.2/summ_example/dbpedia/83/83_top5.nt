@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Gelechia cinerosella (Tengström, 1848)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Gelechia serrulatella (Tengström, 1848)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Bryotropha brevipalpella (Rebel, 1893)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://dbpedia.org/ontology/synonym> "*Gelechia plantariella (Tengström, 1848)" .
+<http://dbpedia.org/resource/Bryotropha_plantariella> <http://xmlns.com/foaf/0.1/name> "Bryotropha plantariella"@en .

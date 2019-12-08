@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2007" .
+<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/2000/01/rdf-schema#label> "Magnum, P.I." .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/11328> .

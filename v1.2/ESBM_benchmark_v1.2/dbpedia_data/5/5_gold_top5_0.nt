@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/2000/01/rdf-schema#label> "Dallas Keuchel"@en .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BaseballPlayer> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Gold_Glove_Award_winners> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/birthDate> "1988-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Dallas_Keuchel> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Houston_Astros> .

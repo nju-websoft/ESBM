@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Irish_War_of_Independence> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/George_Oliver_Plunkett> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ireland.svg?width=300> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/date> "1921-03-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1921_in_Ireland> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Dungarvan> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/County_Waterford> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "Royal Irish Constabulary" .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/combatant> "border|22pxIrish Republican Army" .

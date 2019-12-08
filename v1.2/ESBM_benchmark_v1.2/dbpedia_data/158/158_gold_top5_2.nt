@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Lungless_salamander> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Lineatriton> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Amphibian> .

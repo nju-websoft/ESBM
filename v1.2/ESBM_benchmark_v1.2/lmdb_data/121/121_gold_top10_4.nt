@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/director/10100> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/40914> .
+<http://data.linkedmdb.org/resource/director/10100> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/1159> .
+<http://data.linkedmdb.org/resource/director/10100> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/63031> .
+<http://data.linkedmdb.org/resource/director/10100> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/23866> .
+<http://data.linkedmdb.org/resource/director/10100> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/13196> .
+<http://data.linkedmdb.org/resource/director/10100> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/44846> .
+<http://data.linkedmdb.org/resource/director/10100> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/63785> .
+<http://data.linkedmdb.org/resource/director/10100> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/96598> .
+<http://data.linkedmdb.org/resource/director/10100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
+<http://data.linkedmdb.org/resource/director/10100> <http://data.linkedmdb.org/resource/movie/director_name> "Abel Ferrara" .

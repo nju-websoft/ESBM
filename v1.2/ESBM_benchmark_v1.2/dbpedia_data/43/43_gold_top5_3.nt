@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/runtime> "5400.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/releaseDate> "1981-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Jack_Frost_Sanders> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Noel_Nosseck> .

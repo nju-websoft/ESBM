@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/47469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/film/944> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47469> .
+<http://data.linkedmdb.org/resource/film/7756> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47469> .
+<http://data.linkedmdb.org/resource/film/8961> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47469> .
+<http://data.linkedmdb.org/resource/actor/47469> <http://www.w3.org/2000/01/rdf-schema#label> "Alice Braga (Actor)" .

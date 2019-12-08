@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Borough_(New_Jersey)> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/populationDensity> "940.8537399362322"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaTotal> "9059778.409955328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/foundingDate> "1901-03-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Franklin_Lakes_Nature_Preserve> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .

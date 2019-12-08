@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Don't_Ask_Me_Why_(Billy_Joel_song)> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/You_May_Be_Right_(song)> .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://www.w3.org/2000/01/rdf-schema#label> "It's Still Rock and Roll to Me"@en .
+<http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> <http://xmlns.com/foaf/0.1/name> "It's Still Rock and Roll to Me"@en .
+<http://dbpedia.org/resource/You_May_Be_Right_(song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/slogan> "Great Ocean Radio"@en .
+<http://dbpedia.org/resource/3WAY_FM> <http://xmlns.com/foaf/0.1/homepage> <http://3wayfm.org.au> .
+<http://dbpedia.org/resource/3WAY_FM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> .
+<http://dbpedia.org/resource/3WAY_FM> <http://dbpedia.org/ontology/broadcastArea> <http://dbpedia.org/resource/Warrnambool> .
+<http://dbpedia.org/resource/3WAY_FM> <http://xmlns.com/foaf/0.1/name> "3WAY FM"@en .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://xmlns.com/foaf/0.1/name> "Our Leading Citizen"@en .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Charles_Bickford> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Bob_Burns_(comedian)> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Gene_Lockhart> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Susan_Hayward> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Elizabeth_Patterson_(actress)> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/runtime> "5340.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Paramount_Pictures_films> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1930s_comedy_films> .

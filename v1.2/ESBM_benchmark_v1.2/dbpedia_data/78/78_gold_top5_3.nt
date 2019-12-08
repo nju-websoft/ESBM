@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "3.372"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/2000/01/rdf-schema#label> "Sauxillanges"@en .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CommunesOfPuy-de-D%C3%B4me> .
+<http://dbpedia.org/resource/Sauxillanges> <http://dbpedia.org/ontology/populationTotal> "1151"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Sauxillanges> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "45.551"^^<http://www.w3.org/2001/XMLSchema#float> .

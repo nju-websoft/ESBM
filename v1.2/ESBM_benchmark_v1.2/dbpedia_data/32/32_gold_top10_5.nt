@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/conservationStatus> "LC" .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Red-cheeked_squirrel> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Rodent> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Mammal> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://xmlns.com/foaf/0.1/name> "Bornean Mountain Ground Squirrel"@en .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Bornean_mountain_ground_squirrel> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Squirrel> .

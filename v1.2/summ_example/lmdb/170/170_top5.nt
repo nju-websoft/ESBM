@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/5356> .
+<http://data.linkedmdb.org/resource/interlink/2426> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/interlink/20959> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/interlink/39492> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5089> .
+<http://data.linkedmdb.org/resource/interlink/62028> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/5089> .

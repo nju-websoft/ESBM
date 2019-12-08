@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Expressway103306610> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/TollRoadsInVirginia> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://dbpedia.org/ontology/length> "56327.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia> .

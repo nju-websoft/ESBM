@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Saint-Raphaël,_Var> <http://dbpedia.org/ontology/area> "8.959E7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Henry_Bérenger> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/François_Simiand> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Arthur_Coadou> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .
+<http://dbpedia.org/resource/Josep_Irla_i_Bosch> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Saint-Raphaël,_Var> .

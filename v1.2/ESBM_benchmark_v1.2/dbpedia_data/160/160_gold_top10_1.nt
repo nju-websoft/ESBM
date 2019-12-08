@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Nemacheilidae> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Cypriniformes> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Schistura> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/conservationStatus> "VU" .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/2000/01/rdf-schema#label> "Schistura jarutanini"@en .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3" .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Maurice_Kottelat> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Cave_fish> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Southeast_Asia> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Thailand> .

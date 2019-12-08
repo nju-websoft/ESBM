@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Tchonoro> <http://xmlns.com/foaf/0.1/name> "Tchonoro"@en .
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PopulatedPlacesInKaraRegion> .
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Tchonoro> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kachin_State> .
+<http://dbpedia.org/resource/Tchonoro> <http://www.georss.org/georss/point> "9.35 1.2666666666666666" .

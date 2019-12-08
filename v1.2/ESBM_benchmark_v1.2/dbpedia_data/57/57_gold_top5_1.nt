@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Iraqi–Kurdish_conflict> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Najmadin_Shukr_Rauf> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/deathDate> "1985-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://xmlns.com/foaf/0.1/name> "Rauf, Najmadin Shukr"@en .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://dbpedia.org/ontology/birthDate> "1957-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Najmadin_Shukr_Rauf> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Kurdish_nationalists> .

@@ -1,0 +1,29 @@
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Vasco_da_Gama> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1656682> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Naval_battles_involving_Portugal> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1503_in_India> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1503> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:History_of_Kozhikode> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/causalties> "Low" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/date> "1502-01-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Kozhikode> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://xmlns.com/foaf/0.1/name> "Battle of Calicut"@en .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/result> "Portuguesevictory" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/combatant> "Arab privateers" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/combatant> "Calicut" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/combatant> "Portuguese Empire" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Flag_Portugal_(1495).svg?width=300> .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "Hundreds of smaller ships" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "20 large ships" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "10 carracks" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "40 gun-mountedsambuks" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://dbpedia.org/ontology/strength> "6 caravels" .
+<http://dbpedia.org/resource/Battle_of_Calicut_(1502)> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Calicut (1502)"@en .

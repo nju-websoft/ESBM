@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Populated_places_in_Aligudarz_County> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://xmlns.com/foaf/0.1/name> "Darreh Dang"@en .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/populationTotal> "451"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Iran_Standard_Time> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Iran> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "49.00111"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "33.269444"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Darreh_Dang> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Zaz_va_Mahru_District> .

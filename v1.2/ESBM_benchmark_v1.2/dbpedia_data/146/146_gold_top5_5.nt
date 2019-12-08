@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+<http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTournament> .
+<http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> .
+<http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2013_Gulf_Cup_of_Nations> .
+<http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:International_association_football_competitions_hosted_by_Bahrain> .

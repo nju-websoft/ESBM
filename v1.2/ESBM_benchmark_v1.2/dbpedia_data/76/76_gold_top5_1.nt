@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Mountain> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/elevation> "1040.892"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.georss.org/georss/point> "35.033611111111114 -82.74138888888889" .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://dbpedia.org/ontology/prominence> "214.884"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina)> <http://www.w3.org/2000/01/rdf-schema#label> "Pinnacle Mountain (South Carolina)"@en .

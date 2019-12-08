@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Amphisbaenidae> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/2000/01/rdf-schema#label> "Amphisbaena ridleyi"@en .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Amphisbaena_(genus)> .

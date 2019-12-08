@@ -9,6 +9,7 @@ Currently, two versions are available:
 
 * [ESBM v1.0](https://github.com/nju-websoft/ESBM/tree/master/v1.0) (Last update: 2018-07-27)
 * [ESBM v1.1](https://github.com/nju-websoft/ESBM/tree/master/v1.1) (Last update: 2019-03-26)
+* [ESBM v1.1](https://github.com/nju-websoft/ESBM/tree/master/v1.2) (Last update: 2019-12-08)
 
 # Submit Your Results
 You are encouraged to submit the results of your entity summarizer by contacting us. We will add your results to the evaluation results tables. Your submission should contain:

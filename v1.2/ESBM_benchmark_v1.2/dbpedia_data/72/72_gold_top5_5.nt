@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://xmlns.com/foaf/0.1/name> "Jalalia"@en .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.georss.org/georss/point> "34.08 73.06" .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Khyber_Pakhtunkhwa> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/architecturalStyle> <http://dbpedia.org/resource/Art_Nouveau> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Ohio_State_Route_511> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:National_Register_of_Historic_Places_in_Lorain_County,_Ohio> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://dbpedia.org/ontology/yearOfConstruction> "1897"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Reamer_Barn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .

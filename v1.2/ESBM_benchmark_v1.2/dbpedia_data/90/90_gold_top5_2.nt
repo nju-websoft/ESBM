@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Trichoscypha> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anacardiaceae> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Sapindales> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Vulnerable_plants> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henlow> <http://www.georss.org/georss/point> "52.03245 -0.28714" .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Village108672738> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/ceremonialCounty> <http://dbpedia.org/resource/Bedfordshire> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Henlow> <http://xmlns.com/foaf/0.1/name> "Henlow"@en .

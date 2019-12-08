@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/30569> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f800000000012b866> .
+<http://data.linkedmdb.org/resource/actor/30569> <http://www.w3.org/2000/01/rdf-schema#label> "Elsa Lanchester (Actor)" .
+<http://data.linkedmdb.org/resource/actor/30569> <http://data.linkedmdb.org/resource/movie/actor_name> "Elsa Lanchester" .
+<http://data.linkedmdb.org/resource/actor/30569> <http://data.linkedmdb.org/resource/movie/actor_actorid> "30569"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/87696> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .

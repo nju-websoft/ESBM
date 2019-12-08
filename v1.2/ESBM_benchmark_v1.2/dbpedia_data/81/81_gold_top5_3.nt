@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/George_Albert_Boulenger> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Amphisbaenidae> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/2000/01/rdf-schema#label> "Amphisbaena ridleyi"@en .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Amphisbaena_ridleyi_distribution.png> .

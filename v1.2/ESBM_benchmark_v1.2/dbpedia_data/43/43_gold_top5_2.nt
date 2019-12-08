@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Leigh_Chapman> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1981_films> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:PolyGram_Filmed_Entertainment_films> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Jack_Frost_Sanders> .
+<http://dbpedia.org/resource/King_of_the_Mountain_(film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Noel_Nosseck> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Zacatecas (1914)"@en .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Luís_Medina_Barrón> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/strength> "7,000-15,000 (most likely 12,000)" .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/strength> "over 20,000 (estimate)" .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/causalties> "1,000 (estimate)" .

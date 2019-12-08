@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/17201> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/5356> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40417> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2486> .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/2000/01/rdf-schema#label> "The Overlanders" .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/AU> .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1946" .
+<http://data.linkedmdb.org/resource/film/5089> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/1456> .
+<http://data.linkedmdb.org/resource/film/5089> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

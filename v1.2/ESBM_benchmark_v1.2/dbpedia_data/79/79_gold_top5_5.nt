@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.georss.org/georss/point> "45.9213 15.306447222222221" .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/populationTotal> "101"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://xmlns.com/foaf/0.1/name> "Stara Bučka"@en .
+<http://dbpedia.org/resource/Stara_Bučka> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Slovenia> .
+<http://dbpedia.org/resource/Stara_Bučka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .

@@ -1,0 +1,50 @@
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Player110439851> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GolfersFromGeorgia(U.S.State)> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeorgiaBulldogsWomen'sGolfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActor> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q13156709> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Golfer110136959> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GolfPlayer> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Contestant109613191> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LPGATourGolfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Person100007846> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/AmericanFemaleGolfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromAthens,Georgia> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingPeople> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/elements/1.1/description> "Professional golfer" .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/elements/1.1/description> "Professional golfer"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/college> <http://dbpedia.org/resource/University_of_Georgia> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Cindy Mackey"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Mackey, Cindy"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Cindy Pleger Mackey"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1961_births> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Golfers_from_Georgia_(U.S._state)> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Georgia_Bulldogs_women's_golfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sportspeople_from_Athens,_Georgia> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:LPGA_Tour_golfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:American_female_golfers> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/birthDate> "1961-04-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/surname> "Mackey"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/birthYear> "1961"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/givenName> "Cindy"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/height> "1.7526"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/alias> "Pleger, Cindy"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/2000/01/rdf-schema#label> "Cindy Mackey"@en .

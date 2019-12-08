@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Sketchy_EP_2> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Sketchy_EP_1> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Jonah_Matranga> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://xmlns.com/foaf/0.1/name> "Sketchy EP #1"@en .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Sketchy_EP_2> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/EP> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/releaseDate> "1999-10-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Jonah_Matranga> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Acoustic_music> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Jonah_Matranga_albums> .
+<http://dbpedia.org/resource/Sketchy_EP_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q482994> .

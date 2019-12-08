@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/38225> <http://data.linkedmdb.org/resource/movie/actor_name> "Dante Basco" .
+<http://data.linkedmdb.org/resource/film/905> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38225> .
+<http://data.linkedmdb.org/resource/film/58958> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38225> .
+<http://data.linkedmdb.org/resource/film/59934> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38225> .
+<http://data.linkedmdb.org/resource/film/46420> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38225> .
+<http://data.linkedmdb.org/resource/film/58102> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38225> .
+<http://data.linkedmdb.org/resource/film/94383> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38225> .
+<http://data.linkedmdb.org/resource/actor/38225> <http://data.linkedmdb.org/resource/movie/actor_actorid> "38225"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/actor/38225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/38225> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000646474> .

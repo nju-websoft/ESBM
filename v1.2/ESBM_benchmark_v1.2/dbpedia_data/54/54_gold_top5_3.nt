@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Southern_California_Seahorses_players> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/2000/01/rdf-schema#label> "Fabrice Gautrat"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/name> "Fabrice Gautrat"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://purl.org/dc/elements/1.1/description> "Footballer"@en .

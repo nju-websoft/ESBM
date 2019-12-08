@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/2000/01/rdf-schema#label> "Eastern Sumatran rhinoceros"@en .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Rhinoceros> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Odd-toed_ungulate> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mammal> .

@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/2047> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/film/247> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/film/38266> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/film/2740> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/film/42278> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/film/16872> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/film/9931> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/film/87696> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30569> .
+<http://data.linkedmdb.org/resource/actor/30569> <http://www.w3.org/2000/01/rdf-schema#label> "Elsa Lanchester (Actor)" .
+<http://data.linkedmdb.org/resource/actor/30569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .

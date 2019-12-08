@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/6468> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/17242> .
+<http://data.linkedmdb.org/resource/film/6468> <http://purl.org/dc/terms/date> "2007" .
+<http://data.linkedmdb.org/resource/film/6468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/6468> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000b3087f> .

@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/director/14418> <http://www.w3.org/2000/01/rdf-schema#label> "Mack V. Wright (Director)" .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/45182> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/24459> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/19433> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/21357> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/24460> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/24940> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/25028> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/25030> .
+<http://data.linkedmdb.org/resource/director/14418> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/19751> .

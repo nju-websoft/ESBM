@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/director/8669> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/64122> .
+<http://data.linkedmdb.org/resource/director/8669> <http://data.linkedmdb.org/resource/movie/director_directorid> "8669"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/director/8669> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000000ac6c9> .
+<http://data.linkedmdb.org/resource/director/8669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
+<http://data.linkedmdb.org/resource/director/8669> <http://data.linkedmdb.org/resource/movie/director_name> "Ringo Lam" .

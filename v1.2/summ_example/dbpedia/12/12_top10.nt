@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "2011 Kor Royal Cup"@en .
+<http://dbpedia.org/resource/2012_Kor_Royal_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2011_Kor_Royal_Cup> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2010_Kor_Royal_Cup> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://xmlns.com/foaf/0.1/name> "2011 Kor Royal Cup"@en .
+<http://dbpedia.org/resource/2010_Kor_Royal_Cup> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2011_Kor_Royal_Cup> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2012_Kor_Royal_Cup> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/date> "2011-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:2011_in_Thai_football_cups> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Kor_Royal_Cup_seasons> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/National_Stadium_(Thailand)> .

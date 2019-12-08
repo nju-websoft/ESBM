@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://xmlns.com/foaf/0.1/name> "Siamese mud carp"@en .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Henicorhynchus> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Cyprinidae> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Henri_Émile_Sauvage> .

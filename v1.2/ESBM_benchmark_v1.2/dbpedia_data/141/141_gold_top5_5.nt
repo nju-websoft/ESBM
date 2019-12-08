@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/name> "Andrew Scott Sloan"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/birthDate> "1820-06-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathYear> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MayorsOfPlacesInWisconsin> .

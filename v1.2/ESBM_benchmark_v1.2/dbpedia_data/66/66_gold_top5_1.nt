@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://xmlns.com/foaf/0.1/name> "2013 Slovnaft Cup Final"@en .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/date> "2013-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Ružomberok> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> .
+<http://dbpedia.org/resource/2013_Slovak_Cup_Final> <http://www.w3.org/2000/01/rdf-schema#label> "2013 Slovak Cup Final"@en .

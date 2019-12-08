@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/interlink/73136> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/8446> .
+<http://data.linkedmdb.org/resource/interlink/141053> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/8446> .
+<http://data.linkedmdb.org/resource/film/8446> <http://xmlns.com/foaf/0.1/page> <http://www.rottentomatoes.com/alias?type=imdbid&s=0120751> .
+<http://data.linkedmdb.org/resource/film/8446> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000db9872> .
+<http://data.linkedmdb.org/resource/film/8446> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0120751> .

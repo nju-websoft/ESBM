@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Switzerland> .
+<http://dbpedia.org/resource/Fleckistock> <http://dbpedia.org/ontology/otherName> "Rot Stock"@en .
+<http://dbpedia.org/resource/Fleckistock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/MountainsOfTheAlps> .
+<http://dbpedia.org/resource/Fleckistock> <http://xmlns.com/foaf/0.1/name> "Fleckistock"@en .
+<http://dbpedia.org/resource/Fleckistock> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Alpine_three-thousanders> .

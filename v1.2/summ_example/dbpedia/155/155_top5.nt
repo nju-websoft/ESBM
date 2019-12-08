@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Tchonoro> <http://xmlns.com/foaf/0.1/name> "Tchonoro"@en .
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/2000/01/rdf-schema#label> "Tchonoro"@en .
+<http://dbpedia.org/resource/Tchonoro> <http://www.georss.org/georss/point> "9.35 1.2666666666666666" .
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.2666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Tchonoro> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "9.35"^^<http://www.w3.org/2001/XMLSchema#float> .

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/8590> .
+<http://data.linkedmdb.org/resource/film/16986> <http://xmlns.com/foaf/0.1/page> <http://www.imdb.com/title/tt0048954/> .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/11463> .
+<http://data.linkedmdb.org/resource/film/16986> <http://purl.org/dc/terms/date> "1936-01-24" .
+<http://data.linkedmdb.org/resource/film/16986> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/9> .

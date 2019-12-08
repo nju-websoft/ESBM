@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/47469> <http://data.linkedmdb.org/resource/movie/actor_name> "Alice Braga" .
+<http://data.linkedmdb.org/resource/actor/47469> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/59117> .
+<http://data.linkedmdb.org/resource/actor/47469> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/18592> .
+<http://data.linkedmdb.org/resource/actor/47469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://data.linkedmdb.org/resource/film/59947> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47469> .
+<http://data.linkedmdb.org/resource/film/67438> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47469> .
+<http://data.linkedmdb.org/resource/film/83977> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47469> .
+<http://data.linkedmdb.org/resource/film/18644> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47469> .
+<http://data.linkedmdb.org/resource/actor/47469> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000dc5776> .
+<http://data.linkedmdb.org/resource/actor/47469> <http://www.w3.org/2000/01/rdf-schema#label> "Alice Braga (Actor)" .

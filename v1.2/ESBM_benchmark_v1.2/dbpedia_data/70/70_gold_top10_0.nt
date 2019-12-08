@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/date> "1965-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/result> "United States/Australian victory, Viet Cong retreats." .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/causalties> "many more wounded" .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/2000/01/rdf-schema#label> "Operation Hump"@en .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/strength> "around 1200" .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/combatant> "22pxViet Cong" .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/combatant> "22pxUnited States" .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/combatant> "22pxAustralia" .

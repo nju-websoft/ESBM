@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Village> .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Świętokrzyskie_Voivodeship> .
+<http://dbpedia.org/resource/Zarudcze> <http://www.georss.org/georss/point> "50.56666666666667 21.616666666666667" .
+<http://dbpedia.org/resource/Zarudcze> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Poland> .
+<http://dbpedia.org/resource/Zarudcze> <http://xmlns.com/foaf/0.1/name> "Zarudcze"@en .

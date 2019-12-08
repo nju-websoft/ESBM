@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/30423> <http://www.w3.org/2000/01/rdf-schema#label> "Rowan Atkinson (Actor)" .
+<http://data.linkedmdb.org/resource/actor/30423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/30423> <http://data.linkedmdb.org/resource/movie/actor_name> "Rowan Atkinson" .
+<http://data.linkedmdb.org/resource/film/39079> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/1849> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/2382> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/40703> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/38094> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/39533> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .
+<http://data.linkedmdb.org/resource/film/7069> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30423> .

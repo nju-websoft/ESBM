@@ -1,0 +1,10 @@
+102	film	http://data.linkedmdb.org/resource/film/12710
+104	film	http://data.linkedmdb.org/resource/film/14438
+105	film	http://data.linkedmdb.org/resource/film/2108
+106	film	http://data.linkedmdb.org/resource/film/2381
+111	film	http://data.linkedmdb.org/resource/film/41573
+121	Person	http://data.linkedmdb.org/resource/director/10100
+122	Person	http://data.linkedmdb.org/resource/director/10846
+171	Person	http://data.linkedmdb.org/resource/director/14418
+172	Person	http://data.linkedmdb.org/resource/actor/30423
+173	Person	http://data.linkedmdb.org/resource/actor/47032

@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/director/10100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/director> .
+<http://data.linkedmdb.org/resource/director/10100> <http://www.w3.org/2000/01/rdf-schema#label> "Abel Ferrara (Director)" .
+<http://data.linkedmdb.org/resource/film/23866> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10100> .
+<http://data.linkedmdb.org/resource/film/40914> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10100> .
+<http://data.linkedmdb.org/resource/film/42868> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10100> .

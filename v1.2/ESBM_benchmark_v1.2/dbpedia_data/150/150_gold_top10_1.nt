@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/result> "British victory" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Dutch_East_Indies> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Gresik_Regency> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Java> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Edward_Pellew,_1st_Viscount_Exmouth> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/2000/01/rdf-schema#label> "Raid on Griessie"@en .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/date> "1807-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Napoleonic_Wars> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Naval_battles_involving_the_Netherlands> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Naval_battles_involving_the_United_Kingdom> .

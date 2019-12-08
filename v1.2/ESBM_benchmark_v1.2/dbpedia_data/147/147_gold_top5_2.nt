@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Sri_Lankan_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/causalties> "33 killed (SLA claim)" .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/date> "2006-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Sri_Lanka> .

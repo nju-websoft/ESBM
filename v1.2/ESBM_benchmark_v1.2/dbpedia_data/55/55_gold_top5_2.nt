@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Aichi_Prefecture> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Mephisto_Prize> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Writer> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://xmlns.com/foaf/0.1/name> "Hiroshi Mori"@en .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/birthDate> "1957-12-07"^^<http://www.w3.org/2001/XMLSchema#date> .

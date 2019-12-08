@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Bengali-languageFilms> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/2005Films> .
+<http://dbpedia.org/resource/Kaalpurush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/FilmsDirectedByBuddhadevDasgupta> .
+<http://dbpedia.org/resource/Kaalpurush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Best_Feature_Film_National_Film_Award_winners> .

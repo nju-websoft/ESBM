@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Slow_jam> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hip_hop_soul> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://xmlns.com/foaf/0.1/name> "Can U Get wit It"@en .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Usher_(singer)> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Bagrat_I_of_Iberia> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Ashot_I_of_Iberia> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Guaram_Mampali> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Bagrat_I_of_Iberia> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Adarnase_II_of_Tao-Klarjeti> .
+<http://dbpedia.org/resource/Ashot_I_of_Iberia> <http://xmlns.com/foaf/0.1/name> "აშოტ I"@en .

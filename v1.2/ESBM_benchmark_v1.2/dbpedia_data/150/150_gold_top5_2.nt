@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/combatant> "United Kingdom" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/combatant> "22px|link=Kingdom of Holland" .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Dutch_East_Indies> .
+<http://dbpedia.org/resource/Raid_on_Griessie> <http://dbpedia.org/ontology/date> "1807-12-11"^^<http://www.w3.org/2001/XMLSchema#date> .

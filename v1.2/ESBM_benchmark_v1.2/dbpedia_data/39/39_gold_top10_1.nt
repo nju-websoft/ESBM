@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Actinopterygii> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/conservationStatusSystem> "iucn3.1" .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_the_Mekong_Basin> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Cypriniformes> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Henicorhynchus> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Cyprinidae> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Henri_Émile_Sauvage> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/2000/01/rdf-schema#label> "Siamese mud carp"@en .

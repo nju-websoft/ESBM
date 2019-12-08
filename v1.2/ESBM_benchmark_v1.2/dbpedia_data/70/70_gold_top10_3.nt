@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Vietnam_War> .
+<http://dbpedia.org/resource/Operation_Hump> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Vietnam_War_involving_New_Zealand> .
+<http://dbpedia.org/resource/Operation_Hump> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Dong_Nai_Province> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/date> "1965-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/result> "United States/Australian victory, Viet Cong retreats." .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/causalties> "48 US killed" .
+<http://dbpedia.org/resource/Operation_Hump> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/South_Vietnam> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ConflictsIn1965> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Operation_Hump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocietalEvent> .

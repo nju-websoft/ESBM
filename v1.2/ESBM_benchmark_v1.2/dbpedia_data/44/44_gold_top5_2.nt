@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Charles_Bickford> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1939_films> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Paramount_Pictures> .
+<http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film)> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Gerard_Carbonara> .

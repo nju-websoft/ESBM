@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Roque_Ceruti> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Musicians_from_Milan> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Italian_male_classical_composers> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:18th-century_classical_composers> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://dbpedia.org/ontology/deathDate> "1760"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roque_Ceruti> <http://dbpedia.org/ontology/birthYear> "1683"^^<http://www.w3.org/2001/XMLSchema#gYear> .

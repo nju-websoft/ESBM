@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Basidiomycota> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Agaricaceae> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Lepiota> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fungi_described_in_1882> .
+<http://dbpedia.org/resource/Lepiota_helveola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PoisonousFungi> .

@@ -1,0 +1,38 @@
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/2000/01/rdf-schema#label> "Juhan Muks"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://xmlns.com/foaf/0.1/surname> "Muks"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/elements/1.1/description> "Estonian artist" .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/elements/1.1/description> "Estonian artist"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/birthYear> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://xmlns.com/foaf/0.1/givenName> "Juhan"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/deathDate> "1983-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/deathYear> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/EstonianPainters> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Person100007846> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Painter110391653> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Creator109614315> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Artist109812338> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActor> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://dbpedia.org/ontology/birthDate> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://xmlns.com/foaf/0.1/name> "Juhan Muks"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://xmlns.com/foaf/0.1/name> "Muks, Juhan"@en .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1899_births> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_Estonian_painters> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Viljandi_County> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1983_deaths> .
+<http://dbpedia.org/resource/Juhan_Muks> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Estonian_painters> .

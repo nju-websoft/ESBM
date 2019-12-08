@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Carp> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Thailand> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Cyprinidae> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/2000/01/rdf-schema#label> "Siamese mud carp"@en .

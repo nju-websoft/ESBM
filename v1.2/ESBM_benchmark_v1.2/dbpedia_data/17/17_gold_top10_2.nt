@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/War_of_the_Austrian_Succession> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/result> "French victory" .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Jean-Baptiste_Francois_des_Marets,_marquis_de_Maillebois> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Antoniotto_Botta_Adorno> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/date> "1746-08-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_France> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1746> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Austria> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Italy> .

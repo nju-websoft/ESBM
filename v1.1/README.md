@@ -172,13 +172,13 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td6"><b>0.464</b></td>
 </tr>
 <tr>
-<td>CD [3]<br></td>
-<td name="td1"><b>0.287</b><br><span>(γ=0.11)</span></td>
-<td name="td2"><b>0.517</b><br><span>(γ=0.61)</span></td>
-<td name="td3">0.211<br><span>(γ=0.00)</span></td>
-<td name="td4">0.328<br><span>(γ=0.00)</span></td>
-<td name="td5">0.252<br><span>(γ=0.61)</span></td>
-<td name="td6">0.455<br><span>(γ=0.61)</span></td>
+<td>FACES [3]</td>
+<td name="td1">0.270</td>
+<td name="td2">0.428</td>
+<td name="td3">0.169</td>
+<td name="td4">0.263</td>
+<td name="td5">0.241</td>
+<td name="td6">0.381</td>
 </tr>
 <tr>
 <td>FACES-E [4]</td>
@@ -189,15 +189,14 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td5"><b>0.289</b></td>
 <td name="td6">0.461</td>
 </tr>
-
 <tr>
-<td>FACES [5]</td>
-<td name="td1">0.270</td>
-<td name="td2">0.428</td>
-<td name="td3">0.169</td>
-<td name="td4">0.263</td>
-<td name="td5">0.241</td>
-<td name="td6">0.381</td>
+<td>CD [5]<br></td>
+<td name="td1"><b>0.287</b><br><span>(γ=0.11)</span></td>
+<td name="td2"><b>0.517</b><br><span>(γ=0.61)</span></td>
+<td name="td3">0.211<br><span>(γ=0.00)</span></td>
+<td name="td4">0.328<br><span>(γ=0.00)</span></td>
+<td name="td5">0.252<br><span>(γ=0.61)</span></td>
+<td name="td6">0.455<br><span>(γ=0.61)</span></td>
 </tr>
 <tr>
 <td>LinkSUM [6]</td>
@@ -247,13 +246,13 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td6">0.468</td>
 </tr>
 <tr>
-<td>CD [3]<br></td>
-<td name="td1">-</td>
-<td name="td2">-</td>
-<td name="td3">-</td>
-<td name="td4">-</td>
-<td name="td5">-</td>
-<td name="td6">-</td>
+<td>FACES [3]</td>
+<td name="td1">0.255</td>
+<td name="td2">0.382</td>
+<td name="td3">0.155</td>
+<td name="td4">0.273</td>
+<td name="td5">0.227</td>
+<td name="td6">0.351</td>
 </tr>
 <tr>
 <td>FACES-E [4]</td>
@@ -264,15 +263,14 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <td name="td5"><b>0.375</b></td>
 <td name="td6"><b>0.527</b></td>
 </tr>
-
 <tr>
-<td>FACES [5]</td>
-<td name="td1">0.255</td>
-<td name="td2">0.382</td>
-<td name="td3">0.155</td>
-<td name="td4">0.273</td>
-<td name="td5">0.227</td>
-<td name="td6">0.351</td>
+<td>CD [5]<br></td>
+<td name="td1">-</td>
+<td name="td2">-</td>
+<td name="td3">-</td>
+<td name="td4">-</td>
+<td name="td5">-</td>
+<td name="td6">-</td>
 </tr>
 <tr>
 <td>LinkSUM [6]</td>
@@ -290,9 +288,9 @@ You are encouraged to submit the results of your entity summarizer by contacting
 <p>
 [1] Gong Cheng, Thanh Tran, Yuzhong Qu: RELIN: Relatedness and Informativeness-Based Centrality for Entity Summarization. International Semantic Web Conference (1) 2011: 114-129. <br>
 [2] Marcin Sydow, Mariusz Pikula, Ralf Schenkel: The notion of diversity in graphical entity summarisation on semantic knowledge graphs. J. Intell. Inf. Syst. 41(2): 109-149 (2013).<br>
-[3] Danyun Xu, Liang Zheng, Yuzhong Qu: CD at ENSEC 2016: Generating Characteristic and Diverse Entity Summaries. SumPre@ESWC 2016.<br>
+[3] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth: FACES: Diversity-Aware Entity Summarization Using Incremental Hierarchical Conceptual Clustering. AAAI 2015: 116-122.<br>
 [4] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth, Gong Cheng: Gleaning Types for Literals in RDF Triples with Application to Entity Summarization. ESWC 2016: 85-100.<br>
-[5] Kalpa Gunaratna, Krishnaprasad Thirunarayan, Amit P. Sheth: FACES: Diversity-Aware Entity Summarization Using Incremental Hierarchical Conceptual Clustering. AAAI 2015: 116-122.<br>
+[5] Danyun Xu, Liang Zheng, Yuzhong Qu: CD at ENSEC 2016: Generating Characteristic and Diverse Entity Summaries. SumPre@ESWC 2016.<br>
 [6] Andreas Thalhammer, Nelia Lasierra, Achim Rettinger: LinkSUM: Using Link Analysis to Summarize Entity Data. ICWE 2016: 244-261.
 </p>
 

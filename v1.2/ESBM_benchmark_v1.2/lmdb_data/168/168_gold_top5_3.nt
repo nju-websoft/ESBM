@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/3493> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38110> .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/33140> .
+<http://data.linkedmdb.org/resource/film/44555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/result> "Military victory for Rudolf, political victory for Henry" .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Hohenmölsen> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Great_Saxon_Revolt> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesInvolvingBohemia> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BattlesOfTheMiddleAges> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_the_Holy_Roman_Empire> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Saxony> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Middle_Ages> .
+<http://dbpedia.org/resource/Battle_on_the_Elster> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Bohemia> .

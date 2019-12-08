@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Flowering_plant> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Dipterocarpaceae> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/André_Joseph_Guillaume_Henri_Kostermans> .
+<http://dbpedia.org/resource/Stemonoporus_laevifolius> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3" .

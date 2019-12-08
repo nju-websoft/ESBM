@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Secretary_of_State_for_Transport> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/militaryCommand> "Commander in Chief, Air Headquarters India" .
+<http://dbpedia.org/resource/Roderick_Carr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/RoyalAirForceAirMarshals> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthYear> "1891"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Feilding> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://xmlns.com/foaf/0.1/name> "Roderick Carr"@en .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/deathYear> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Air_Force_Cross_(United_Kingdom)> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Navy_officers_of_World_War_I> .
+<http://dbpedia.org/resource/Roderick_Carr> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Royal_Air_Force_personnel_of_the_Russian_Civil_War> .

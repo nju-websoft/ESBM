@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/31707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/31707> <http://www.w3.org/2000/01/rdf-schema#label> "Margaret Colin (Actor)" .
+<http://data.linkedmdb.org/resource/film/62913> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/1924> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/1848> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/1253> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/57526> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/95531> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/73> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/6852> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .

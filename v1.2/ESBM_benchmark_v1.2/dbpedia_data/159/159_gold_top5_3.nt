@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Nemapogon> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Nemapogoninae> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Tineidae> .
+<http://dbpedia.org/resource/Nemapogon_nigralbella> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Insect> .

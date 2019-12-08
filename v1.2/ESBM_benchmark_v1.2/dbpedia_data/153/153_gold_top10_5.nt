@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Henlow> <http://www.georss.org/georss/point> "52.03245 -0.28714" .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/postalCode> "SG16" .
+<http://dbpedia.org/resource/Henlow> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_in_Bedfordshire> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/areaCode> "01462" .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-0.28714"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.03245"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/2000/01/rdf-schema#label> "Henlow"@en .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/populationTotal> "3084"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

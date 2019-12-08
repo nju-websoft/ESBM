@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/2000/01/rdf-schema#label> "Super-Warrior Defeat!! I'm the One who'll Win" .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1396> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47808> .
+<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

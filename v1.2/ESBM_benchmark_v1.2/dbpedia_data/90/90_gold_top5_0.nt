@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://www.w3.org/2000/01/rdf-schema#label> "Trichoscypha cavalliensis"@en .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Trichoscypha> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anacardiaceae> .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/conservationStatus> "VU" .
+<http://dbpedia.org/resource/Trichoscypha_cavalliensis> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN2.3" .

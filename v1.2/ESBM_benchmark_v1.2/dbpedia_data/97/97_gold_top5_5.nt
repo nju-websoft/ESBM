@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://xmlns.com/foaf/0.1/name> "Rebel Love Song"@en .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/runtime> "237.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Black_Veil_Brides> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/Rebel_Love_Song> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Black_Veil_Brides> .

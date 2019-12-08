@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/4053> <http://www.w3.org/2000/01/rdf-schema#label> "A Man, a Real One" .
+<http://data.linkedmdb.org/resource/film/4053> <http://purl.org/dc/terms/date> "2003-05-28" .
+<http://data.linkedmdb.org/resource/film/4053> <http://purl.org/dc/terms/title> "A Man, a Real One" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/526> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/FR> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/runtime> "120" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/19714> .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/632> .

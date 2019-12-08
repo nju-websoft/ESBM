@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Reptile> .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Viperidae> .
+<http://dbpedia.org/resource/Ovophis> <http://www.w3.org/2000/01/rdf-schema#label> "Ovophis"@en .
+<http://dbpedia.org/resource/Ovophis> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Vertebrate> .
+<http://dbpedia.org/resource/Ovophis_okinavensis> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Ovophis> .

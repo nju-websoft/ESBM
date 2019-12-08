@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://xmlns.com/foaf/0.1/name> "Richmond–Petersburg Turnpike"@en .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://dbpedia.org/ontology/routeTypeAbbreviation> "I" .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/FormerTollRoadsInTheUnitedStates> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q34442> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/TollRoadsInVirginia> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://dbpedia.org/ontology/length> "56327.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Tolled_sections_of_Interstate_Highways> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia> .

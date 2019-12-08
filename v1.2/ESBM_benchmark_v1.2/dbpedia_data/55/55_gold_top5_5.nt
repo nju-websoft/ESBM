@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Mystery_fiction> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Ellery_Queen> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PeopleFromAichiPrefecture> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/JapaneseNovelists> .
+<http://dbpedia.org/resource/Hiroshi_Mori_(writer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/JapaneseMysteryWriters> .

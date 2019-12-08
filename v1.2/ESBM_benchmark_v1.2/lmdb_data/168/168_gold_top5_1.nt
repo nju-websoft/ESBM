@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/country> <http://data.linkedmdb.org/resource/country/IN> .
+<http://data.linkedmdb.org/resource/film/44555> <http://www.w3.org/2000/01/rdf-schema#label> "LOC Kargil" .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2003" .
+<http://data.linkedmdb.org/resource/film/44555> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/1723> .
+<http://data.linkedmdb.org/resource/film/44555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

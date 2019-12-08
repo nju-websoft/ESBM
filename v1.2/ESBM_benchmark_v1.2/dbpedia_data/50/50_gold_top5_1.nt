@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Lance_Comfort> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/William_Lucas_(actor)> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://www.w3.org/2000/01/rdf-schema#label> "Touch of Death (1961 film)"@en .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Touch_of_Death_(1961_film)> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Johnny_Douglas_(conductor)> .

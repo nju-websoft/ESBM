@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://www.w3.org/2000/01/rdf-schema#label> "William Anthony Hughes"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/name> "William Anthony Hughes"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/name> "Hughes, William Anthony"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Fort_Thomas,_Kentucky> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://purl.org/dc/elements/1.1/description> "Prelate of the Roman Catholic Church"@en .

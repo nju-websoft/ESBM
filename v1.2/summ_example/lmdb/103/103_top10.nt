@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/2930> .
+<http://data.linkedmdb.org/resource/film/14299> <http://purl.org/dc/terms/title> "Briana Loves Jenna" .
+<http://data.linkedmdb.org/resource/film/14299> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/Briana_Loves_Jenna> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/filmid> "14299"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/initial_release_date> "2001,2001-11-27" .
+<http://data.linkedmdb.org/resource/film/14299> <http://www.w3.org/2000/01/rdf-schema#label> "Briana Loves Jenna" .
+<http://data.linkedmdb.org/resource/film/14299> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/32619> .
+<http://data.linkedmdb.org/resource/film/14299> <http://purl.org/dc/terms/date> "2001,2001-11-27" .
+<http://data.linkedmdb.org/resource/interlink/43285> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14299> .
+<http://data.linkedmdb.org/resource/interlink/24752> <http://data.linkedmdb.org/resource/oddlinker/link_source> <http://data.linkedmdb.org/resource/film/14299> .

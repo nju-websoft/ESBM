@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/George_Albert_Boulenger> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Reptile101661091> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Reptiles_of_Brazil> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/conservationStatus> "LC" .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Reptile> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://www.w3.org/2000/01/rdf-schema#label> "Amphisbaena ridleyi"@en .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Amphisbaena_(genus)> .
+<http://dbpedia.org/resource/Amphisbaena_ridleyi> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Squamata> .

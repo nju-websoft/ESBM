@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/15593> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/film_art_director> <http://data.linkedmdb.org/resource/film_art_director/2> .
+<http://data.linkedmdb.org/resource/film/41573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/editor> <http://data.linkedmdb.org/resource/editor/1708> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/9077> .

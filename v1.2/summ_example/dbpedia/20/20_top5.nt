@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/goldMedalist> <http://dbpedia.org/resource/Simon_Whitfield> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/nextEvent> <http://dbpedia.org/resource/Triathlon_at_the_2004_Summer_Olympics_–_Men's> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/bronzeMedalist> <http://dbpedia.org/resource/Jan_Řehula> .
+<http://dbpedia.org/resource/Triathlon_at_the_2004_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> .
+<http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's> <http://dbpedia.org/ontology/silverMedalist> <http://dbpedia.org/resource/Stephan_Vuckovic> .

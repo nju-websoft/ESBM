@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/name> "Gautrat, Fabrice"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/birthDate> "1987-11-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/givenName> "Fabrice"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://xmlns.com/foaf/0.1/surname> "Gautrat"@en .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Culver_City,_California> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/height> "1.8796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Fabrice_Gautrat__6> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Defender_(association_football)> .
+<http://dbpedia.org/resource/Fabrice_Gautrat> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Diego_Toreros> .

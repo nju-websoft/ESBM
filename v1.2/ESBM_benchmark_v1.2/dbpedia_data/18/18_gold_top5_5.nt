@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/George_Oliver_Plunkett> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://www.w3.org/2000/01/rdf-schema#label> "Burgery ambush"@en .
+<http://dbpedia.org/resource/Burgery_ambush> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1921_in_Ireland> .
+<http://dbpedia.org/resource/Burgery_ambush> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/County_Waterford> .

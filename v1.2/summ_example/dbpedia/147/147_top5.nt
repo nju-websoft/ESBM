@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Sampur"@en .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/causalties> "33 killed (SLA claim)" .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Sampur,_Trincomalee> .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://xmlns.com/foaf/0.1/name> "Battle of Sampur"@en .
+<http://dbpedia.org/resource/Battle_of_Sampur> <http://dbpedia.org/ontology/date> "2006-08-28"^^<http://www.w3.org/2001/XMLSchema#date> .

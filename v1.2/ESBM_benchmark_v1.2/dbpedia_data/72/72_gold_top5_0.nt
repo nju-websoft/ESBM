@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.georss.org/georss/point> "34.08 73.06" .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/utcOffset> "+5" .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Pakistan_Standard_Time> .

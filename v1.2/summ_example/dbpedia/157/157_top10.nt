@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/2000/01/rdf-schema#label> "Gonyosoma hodgsoni"@en .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://xmlns.com/foaf/0.1/name> "Gonyosoma hodgsoni"@en .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/synonym> "Elaphe hodgsoni" .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Gonyosoma> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Colubrids> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/ColubridSnake101727646> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Colubrids> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Snake101726692> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Colubridae> .
+<http://dbpedia.org/resource/Gonyosoma_hodgsoni> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Snake> .

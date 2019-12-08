@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Cindy Mackey"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Mackey, Cindy"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://xmlns.com/foaf/0.1/name> "Cindy Pleger Mackey"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://dbpedia.org/ontology/alias> "Pleger, Cindy"@en .
+<http://dbpedia.org/resource/Cindy_Mackey> <http://www.w3.org/2000/01/rdf-schema#label> "Cindy Mackey"@en .

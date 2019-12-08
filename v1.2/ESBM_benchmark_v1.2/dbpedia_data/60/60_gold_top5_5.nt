@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Youngstown,_Ohio> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Fort_Thomas,_Kentucky> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/birthDate> "1921-09-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://xmlns.com/foaf/0.1/name> "Hughes, William Anthony"@en .
+<http://dbpedia.org/resource/William_Anthony_Hughes> <http://dbpedia.org/ontology/deathDate> "2013-02-07"^^<http://www.w3.org/2001/XMLSchema#date> .

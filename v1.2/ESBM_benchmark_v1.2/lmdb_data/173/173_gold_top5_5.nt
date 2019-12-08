@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/47032> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/91100> .
+<http://data.linkedmdb.org/resource/actor/47032> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/45160> .
+<http://data.linkedmdb.org/resource/actor/47032> <http://data.linkedmdb.org/resource/movie/actor_name> "Columbus Short" .
+<http://data.linkedmdb.org/resource/actor/47032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/47032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .

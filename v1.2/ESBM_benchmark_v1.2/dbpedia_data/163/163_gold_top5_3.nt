@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Starsailor_(band)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Phil_Spector> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:EMI_Records_singles> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Alternative_rock> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Silence_Is_Easy> .

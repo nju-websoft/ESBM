@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/23> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/cinematographer> <http://data.linkedmdb.org/resource/cinematographer/40> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/43> .
+<http://data.linkedmdb.org/resource/film/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/49> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/37> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Anostomidae> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Pseudanos> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://xmlns.com/foaf/0.1/name> "Pseudanos trimaculatus"@en .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Pseudanos_trimaculatus> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Rudolf_Kner> .

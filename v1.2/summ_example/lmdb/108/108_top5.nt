@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/4053> <http://dbpedia.org/property/hasPhotoCollection> <http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Man,_a_Real_One> .
+<http://data.linkedmdb.org/resource/film/4053> <http://www.w3.org/2000/01/rdf-schema#label> "A Man, a Real One" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/film_cut> <http://data.linkedmdb.org/resource/film_cut/165> .
+<http://data.linkedmdb.org/resource/film/4053> <http://purl.org/dc/terms/title> "A Man, a Real One" .
+<http://data.linkedmdb.org/resource/film/4053> <http://data.linkedmdb.org/resource/movie/filmid> "4053"^^<http://www.w3.org/2001/XMLSchema#int> .

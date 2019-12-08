@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/actor/31707> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/31707> <http://data.linkedmdb.org/resource/movie/actor_name> "Margaret Colin" .
+<http://data.linkedmdb.org/resource/actor/31707> <http://www.w3.org/2000/01/rdf-schema#label> "Margaret Colin (Actor)" .
+<http://data.linkedmdb.org/resource/film/62913> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/1924> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/film/1848> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31707> .
+<http://data.linkedmdb.org/resource/actor/31707> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/88430> .
+<http://data.linkedmdb.org/resource/actor/31707> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/96027> .
+<http://data.linkedmdb.org/resource/actor/31707> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/87924> .
+<http://data.linkedmdb.org/resource/actor/31707> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000001d8847> .

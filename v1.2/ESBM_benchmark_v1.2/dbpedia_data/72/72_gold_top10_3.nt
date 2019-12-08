@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.georss.org/georss/point> "34.08 73.06" .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Khyber_Pakhtunkhwa> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Pakistan> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "73.06"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.08"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/utcOffset> "+5" .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/elevation> "919.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Pakistan_Standard_Time> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "Borough of North Haledon"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "North Haledon, New Jersey"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Borough_(New_Jersey)> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.georss.org/georss/point> "40.963618 -74.185281" .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Passaic_County,_New_Jersey> .

@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/41573> <http://purl.org/dc/terms/title> "Broken Lance" .
+<http://data.linkedmdb.org/resource/film/41573> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000567f08> .
+<http://data.linkedmdb.org/resource/film_film_distributor_relationship/1166> <http://data.linkedmdb.org/resource/movie/film_of_distributor> <http://data.linkedmdb.org/resource/film/41573> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/filmid> "41573"^^<http://www.w3.org/2001/XMLSchema#int> .
+<http://data.linkedmdb.org/resource/film/41573> <http://www.w3.org/2000/01/rdf-schema#label> "Broken Lance" .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/5456> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/5458> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/5454> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/5457> .
+<http://data.linkedmdb.org/resource/film/41573> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/5455> .

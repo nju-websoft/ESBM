@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Henlow_Camp_railway_station> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Henlow> .
+<http://dbpedia.org/resource/Henlow> <http://www.georss.org/georss/point> "52.03245 -0.28714" .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/postalCode> "SG16" .
+<http://dbpedia.org/resource/Henlow> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_in_Bedfordshire> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Village108672738> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/areaCode> "01462" .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/populationTotal> "3084"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

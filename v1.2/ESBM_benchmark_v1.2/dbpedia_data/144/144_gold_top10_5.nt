@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Yangon_Region> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Insein_Township> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/birthDate> "1888-04-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Bamar_people> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/ethnicity> <http://dbpedia.org/resource/Mon_people> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/birthName> "Ba Tin"@en .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Anglicanism> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Burmese_studies_scholars> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Scholar110557854> .
+<http://dbpedia.org/resource/Pe_Maung_Tin> <http://dbpedia.org/ontology/deathDate> "1973-03-22"^^<http://www.w3.org/2001/XMLSchema#date> .

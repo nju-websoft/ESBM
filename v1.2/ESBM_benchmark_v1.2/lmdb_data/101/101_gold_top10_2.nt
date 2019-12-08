@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/13587> .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/29977> .
+<http://data.linkedmdb.org/resource/film/12398> <http://www.w3.org/2000/01/rdf-schema#label> "Men in White" .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/story_contributor> <http://data.linkedmdb.org/resource/film_story_contributor/601> .
+<http://data.linkedmdb.org/resource/film/12398> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f80000000047968f5> .
+<http://data.linkedmdb.org/resource/film/12398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/82> .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/20104> .
+<http://data.linkedmdb.org/resource/director/82> <http://xmlns.com/foaf/0.1/made> <http://data.linkedmdb.org/resource/film/12398> .
+<http://data.linkedmdb.org/resource/film/12398> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/4> .

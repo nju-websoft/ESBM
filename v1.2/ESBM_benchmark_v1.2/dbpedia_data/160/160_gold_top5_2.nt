@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Nemacheilidae> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Schistura> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Cave_fish> .
+<http://dbpedia.org/resource/Schistura_jarutanini> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Thailand> .

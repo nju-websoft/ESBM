@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://www.w3.org/2000/01/rdf-schema#label> "2011 Kor Royal Cup"@en .
+<http://dbpedia.org/resource/2012_Kor_Royal_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2011_Kor_Royal_Cup> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2010_Kor_Royal_Cup> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://xmlns.com/foaf/0.1/name> "2011 Kor Royal Cup"@en .
+<http://dbpedia.org/resource/2010_Kor_Royal_Cup> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2011_Kor_Royal_Cup> .

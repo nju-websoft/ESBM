@@ -1,0 +1,37 @@
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.37"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/gridReference> "TL260765" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Cambridgeshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg?width=300> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-0.15"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/St_Peter's,_Kings_Ripton_-_geograph.org.uk_-_839692.jpg> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/GeographicalArea108574314> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Location100027167> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Village108672738> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/VillagesInCambridgeshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Region108630985> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q486972> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/YagoGeoEntity> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Settlement108672562> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/postalCode> "PE28 2" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Huntingdonshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/populationTotal> "168"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_in_Cambridgeshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Huntingdonshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Civil_parishes_in_Cambridgeshire> .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.w3.org/2000/01/rdf-schema#label> "Kings Ripton"@en .
+<http://dbpedia.org/resource/Kings_Ripton> <http://www.georss.org/georss/point> "52.37 -0.15" .
+<http://dbpedia.org/resource/Kings_Ripton> <http://xmlns.com/foaf/0.1/name> "Kings Ripton"@en .
+<http://dbpedia.org/resource/Kings_Ripton> <http://dbpedia.org/ontology/areaCode> "01487" .

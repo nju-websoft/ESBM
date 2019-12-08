@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/poleDriverTeam> <http://dbpedia.org/resource/Cooper_Car_Company> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1960_Formula_One_races> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th_century_in_West_Sussex> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/firstDriverTeam> <http://dbpedia.org/resource/Team_Lotus> .
+<http://dbpedia.org/resource/1960_Glover_Trophy> <http://dbpedia.org/ontology/fastestDriver> <http://dbpedia.org/resource/Stirling_Moss> .

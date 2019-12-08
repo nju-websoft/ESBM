@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/FayeWongAlbums> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/runtime> "2819.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://dbpedia.org/ontology/releaseDate> "1994-11-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Sky_(Faye_Wong_album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1994_albums> .

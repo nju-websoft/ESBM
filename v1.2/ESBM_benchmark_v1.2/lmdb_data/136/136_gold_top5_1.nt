@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/14559> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/43265> .
+<http://data.linkedmdb.org/resource/film/12792> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/43265> .
+<http://data.linkedmdb.org/resource/film/47951> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/43265> .
+<http://data.linkedmdb.org/resource/actor/43265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/43265> <http://data.linkedmdb.org/resource/movie/actor_name> "Prakash Raj" .

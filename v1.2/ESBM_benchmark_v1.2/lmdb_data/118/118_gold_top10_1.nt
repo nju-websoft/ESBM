@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1983" .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/15854> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/runtime> "100" .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/1389> .
+<http://data.linkedmdb.org/resource/film/7348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/genre> <http://data.linkedmdb.org/resource/film_genre/30> .
+<http://data.linkedmdb.org/resource/film/7348> <http://www.w3.org/2000/01/rdf-schema#label> "Bill: On His Own" .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/30114> .
+<http://data.linkedmdb.org/resource/film/7348> <http://data.linkedmdb.org/resource/movie/filmid> "7348"^^<http://www.w3.org/2001/XMLSchema#int> .

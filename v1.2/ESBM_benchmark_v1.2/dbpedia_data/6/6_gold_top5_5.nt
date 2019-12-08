@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/E._K._Mawlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/birthDate> "1946-02-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://dbpedia.org/ontology/deathDate> "2008-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Members_of_the_Meghalaya_Legislative_Assembly> .
+<http://dbpedia.org/resource/E._K._Mawlong> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1946_births> .

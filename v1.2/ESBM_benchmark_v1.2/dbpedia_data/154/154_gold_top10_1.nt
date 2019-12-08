@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Angela_Atwood> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/leaderTitle> "Mayor"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/2000/01/rdf-schema#label> "North Haledon, New Jersey"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/areaLand> "8946000.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Borough108540532> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/foundingDate> "1901-03-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Borough_(New_Jersey)> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Passaic_County,_New_Jersey> .

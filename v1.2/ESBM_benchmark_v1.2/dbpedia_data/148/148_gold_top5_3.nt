@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Zacatecas> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Pancho_Villa> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/result> "Decisive rebel victory" .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/Mexican_Revolution> .
+<http://dbpedia.org/resource/Battle_of_Zacatecas_(1914)> <http://dbpedia.org/ontology/combatant> "Villistas (followers ofPancho Villa)" .

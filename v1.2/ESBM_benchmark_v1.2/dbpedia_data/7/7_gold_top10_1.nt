@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/elements/1.1/description> "Sailor"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/OlympicMedalistsInSailing> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://www.w3.org/2000/01/rdf-schema#label> "Finn Schiander"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Norwegian_sailors_(sport)> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Sailors_at_the_1920_Summer_Olympics_–_8_Metre> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://dbpedia.org/ontology/deathDate> "1967"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Finn_Schiander> <http://xmlns.com/foaf/0.1/name> "Schiander, Finn"@en .
+<http://dbpedia.org/resource/Finn_Schiander> <http://dbpedia.org/ontology/birthDate> "1898-05-07"^^<http://www.w3.org/2001/XMLSchema#date> .

@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/JP/Politikens_Hus> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/2000/01/rdf-schema#label> "Politiken"@en .
+<http://dbpedia.org/resource/Politiken> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Publications_established_in_1884> .
+<http://dbpedia.org/resource/Politiken> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Newspapers_published_in_Denmark> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Copenhagen> .

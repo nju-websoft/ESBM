@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Kotumachagi> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Kotumachagi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Village> .
+<http://dbpedia.org/resource/Kotumachagi> <http://www.georss.org/georss/point> "15.54259 75.77102" .
+<http://dbpedia.org/resource/Kotumachagi> <http://dbpedia.org/ontology/populationTotal> "6895"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kotumachagi> <http://xmlns.com/foaf/0.1/name> "Kotumachagi"@en .

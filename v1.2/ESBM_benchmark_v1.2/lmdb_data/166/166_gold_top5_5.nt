@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/34294> .
+<http://data.linkedmdb.org/resource/film/1338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/en> .
+<http://data.linkedmdb.org/resource/film/1338> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1998-10-23" .
+<http://data.linkedmdb.org/resource/film/1338> <http://purl.org/dc/terms/title> "Soldier" .

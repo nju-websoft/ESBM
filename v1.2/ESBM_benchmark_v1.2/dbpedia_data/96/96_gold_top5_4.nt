@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Politiken> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/Politiken_newspaper_logo.svg> .
+<http://dbpedia.org/resource/Politiken> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Danish_language> .
+<http://dbpedia.org/resource/Politiken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Newspaper> .
+<http://dbpedia.org/resource/Politiken> <http://xmlns.com/foaf/0.1/name> "Politiken"@en .
+<http://dbpedia.org/resource/Politiken> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Publications_established_in_1884> .

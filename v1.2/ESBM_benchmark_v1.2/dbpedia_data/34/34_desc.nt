@@ -1,0 +1,22 @@
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Enallagma> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://xmlns.com/foaf/0.1/name> "Enallagma truncatum"@en .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Coenagrionidae> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Animal> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Insect> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q729> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q1390> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1" .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Insects_described_in_1888> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Insects_of_Cuba> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Endemic_fauna_of_Cuba> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Coenagrionidae> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://www.w3.org/2000/01/rdf-schema#label> "Enallagma truncatum"@en .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/conservationStatus> "VU" .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Arthropod> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Insect> .
+<http://dbpedia.org/resource/Enallagma_truncatum> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Odonata> .

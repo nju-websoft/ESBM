@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Mike_Fratello> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://xmlns.com/foaf/0.1/name> "Borough of North Haledon"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Borough_(New_Jersey)> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/leaderTitle> "Mayor"@en .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/populationTotal> "8417"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/postalCode> "07508, 07538" .
+<http://dbpedia.org/resource/Mary_Help_of_Christians_Academy_(New_Jersey)> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/foundingDate> "1901-03-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Eastern_Christian_High_School> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/North_Haledon,_New_Jersey> .
+<http://dbpedia.org/resource/North_Haledon,_New_Jersey> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Passaic_County,_New_Jersey> .

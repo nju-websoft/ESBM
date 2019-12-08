@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/firstDriver> <http://dbpedia.org/resource/John_Surtees> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Autodromo_Nazionale_Monza> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://www.w3.org/2000/01/rdf-schema#label> "1967 Italian Grand Prix"@en .
+<http://dbpedia.org/resource/1967_Italian_Grand_Prix> <http://dbpedia.org/ontology/firstDriverTeam> <http://dbpedia.org/resource/Honda_in_Formula_One> .

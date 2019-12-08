@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FootballMatch> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Bangkok> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Chonburi_F.C.> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Muangthong_United_F.C.> .
+<http://dbpedia.org/resource/2011_Kor_Royal_Cup> <http://dbpedia.org/ontology/date> "2011-01-30"^^<http://www.w3.org/2001/XMLSchema#date> .

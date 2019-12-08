@@ -1,0 +1,10 @@
+<http://data.linkedmdb.org/resource/film/4501> <http://purl.org/dc/terms/date> "1994-07-09" .
+<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/2000/01/rdf-schema#label> "Super-Warrior Defeat!! I'm the One who'll Win" .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/writer> <http://data.linkedmdb.org/resource/writer/13022> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/music_contributor> <http://data.linkedmdb.org/resource/music_contributor/5614> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/language> <http://www.lingvoj.org/lingvo/ja> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/prequel> <http://data.linkedmdb.org/resource/film/3887> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/sequel> <http://data.linkedmdb.org/resource/film/1835> .
+<http://data.linkedmdb.org/resource/film/4501> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/47808> .
+<http://data.linkedmdb.org/resource/film/4501> <http://xmlns.com/foaf/0.1/page> <http://www.freebase.com/view/guid/9202a8c04000641f8000000000867897> .
+<http://data.linkedmdb.org/resource/film/4501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

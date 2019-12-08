@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/conservationStatus> "EN" .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Lungless_salamander> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Animal100015388> .
+<http://dbpedia.org/resource/Lineatriton_orchimelas> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .

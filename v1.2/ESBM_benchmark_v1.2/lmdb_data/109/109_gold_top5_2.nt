@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/producer> <http://data.linkedmdb.org/resource/producer/377> .
+<http://data.linkedmdb.org/resource/film/41006> <http://purl.org/dc/terms/date> "1995" .
+<http://data.linkedmdb.org/resource/film/41006> <http://purl.org/dc/terms/title> "The Incredibly True Adventure of Two Girls in Love" .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/13110> .
+<http://data.linkedmdb.org/resource/film/41006> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/40960> .

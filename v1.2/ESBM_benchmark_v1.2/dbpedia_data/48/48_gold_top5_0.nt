@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/The_Black_Crowes> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/BillboardHotMainstreamRockTracksNumber-oneSingles> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/The_Black_Crowes> .
+<http://dbpedia.org/resource/Sting_Me> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/The_Southern_Harmony_and_Musical_Companion> .
+<http://dbpedia.org/resource/Sting_Me> <http://www.w3.org/2000/01/rdf-schema#label> "Sting Me"@en .

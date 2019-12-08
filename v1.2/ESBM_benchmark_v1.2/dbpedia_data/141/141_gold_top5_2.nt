@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://xmlns.com/foaf/0.1/name> "Sloan, Andrew Scott"@en .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/birthDate> "1820-06-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://dbpedia.org/ontology/deathYear> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wisconsin_Republicans> .
+<http://dbpedia.org/resource/A._Scott_Sloan> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Wisconsin_state_court_judges> .

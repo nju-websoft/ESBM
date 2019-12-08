@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Slow_jam> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://xmlns.com/foaf/0.1/name> "Can U Get wit It"@en .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Call_Me_a_Mack> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Usher_(singer)> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/LaFace_Records> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://www.w3.org/2000/01/rdf-schema#label> "Can U Get wit It"@en .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/releaseDate> "1994-07-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1994_songs> .
+<http://dbpedia.org/resource/Can_U_Get_wit_It> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/DeVante_Swing> .
+<http://dbpedia.org/resource/Think_of_You_(Usher_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Can_U_Get_wit_It> .

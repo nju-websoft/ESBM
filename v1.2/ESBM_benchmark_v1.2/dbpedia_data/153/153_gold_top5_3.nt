@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Henlow> <http://www.georss.org/georss/point> "52.03245 -0.28714" .
+<http://dbpedia.org/resource/Peter_Watts_(cricketer,_born_1938)> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Henlow> .
+<http://dbpedia.org/resource/Henlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/England> .
+<http://dbpedia.org/resource/Henlow> <http://dbpedia.org/ontology/populationTotal> "3084"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .

@@ -1,0 +1,57 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/2000/01/rdf-schema#label> "Lygodium microphyllum"@en .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Schizaeales> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Antonio_José_Cavanilles> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/ARS_Lygodium_microphyllum_foliage.jpg?width=300> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Lygodium> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Leptosporangiate_fern> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*Lygodium scandens (auct.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens (L.)Sw.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*Ophioglossum filiforme (Roxb.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens var. microphyllum (Cav.)Luerss.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*Ugena microphylla (Cav.) (basionym)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*L. scandens var. intermedium (Ces.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q19088> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q756> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Plant100017222> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fern> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/PlantsDescribedIn1801> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Eukaryote> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_the_Ryukyu_Islands> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Invasive_plant_species> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Africa> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_China> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Fiji> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Australasia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Thailand> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Africa> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Plants_described_in_1801> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_New_Guinea> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Western_Australia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Brunei> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_India> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Queensland> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fern_species> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Malesia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Asia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_the_Northern_Territory> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Lygodium> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Pteridophyta_of_Australia> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_the_Northwestern_Pacific> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_New_South_Wales> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Japan> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Flora_of_Taiwan> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://xmlns.com/foaf/0.1/depiction> <http://commons.wikimedia.org/wiki/Special:FilePath/ARS_Lygodium_microphyllum_foliage.jpg> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/conservationStatusSystem> "TNC" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Plant> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Lygodium> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/conservationStatus> "G5" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://xmlns.com/foaf/0.1/name> "Lygodium microphyllum"@en .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Pteridophyte> .

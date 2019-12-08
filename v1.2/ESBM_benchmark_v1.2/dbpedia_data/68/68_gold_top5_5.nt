@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Santa_Fe_Province> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://xmlns.com/foaf/0.1/name> "Battle of Cepeda"@en .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_of_the_Argentine_Civil_War> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1820_in_Argentina> .
+<http://dbpedia.org/resource/Battle_of_Cepeda_(1820)> <http://dbpedia.org/ontology/result> "Federalistvictory" .

@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/2000/01/rdf-schema#label> "Lygodium microphyllum"@en .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Schizaeales> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Antonio_José_Cavanilles> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/ARS_Lygodium_microphyllum_foliage.jpg?width=300> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Lygodium> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Leptosporangiate_fern> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/synonym> "*Lygodium scandens (auct.)" .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plant> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Lygodium> .
+<http://dbpedia.org/resource/Lygodium_microphyllum> <http://dbpedia.org/ontology/division> <http://dbpedia.org/resource/Pteridophyte> .

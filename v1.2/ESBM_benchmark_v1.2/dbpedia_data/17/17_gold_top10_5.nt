@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/isPartOfMilitaryConflict> <http://dbpedia.org/resource/War_of_the_Austrian_Succession> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://dbpedia.org/ontology/result> "French victory" .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://www.w3.org/2000/01/rdf-schema#label> "Battle of Rottofreddo"@en .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1746_in_Austria> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_France> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1746_in_Italy> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1746_in_France> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Conflicts_in_1746> .
+<http://dbpedia.org/resource/Battle_of_Rottofreddo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Battles_involving_Austria> .

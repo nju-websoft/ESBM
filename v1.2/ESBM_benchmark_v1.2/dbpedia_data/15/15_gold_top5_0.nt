@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2012–13_UEFA_Champions_League> <http://dbpedia.org/ontology/time> "19:45BST" .
+<http://dbpedia.org/resource/2012–13_UEFA_Champions_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> .
+<http://dbpedia.org/resource/2012–13_UEFA_Champions_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTournament> .
+<http://dbpedia.org/resource/2012–13_UEFA_Champions_League> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Wembley_Stadium,_illuminated.jpg?width=300> .
+<http://dbpedia.org/resource/2012–13_UEFA_Champions_League> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:UEFA_Champions_League_seasons> .

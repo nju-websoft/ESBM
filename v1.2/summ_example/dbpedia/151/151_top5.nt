@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Ayrovo> <http://xmlns.com/foaf/0.1/name> "Ayrovo"@en .
+<http://dbpedia.org/resource/Ayrovo> <http://xmlns.com/foaf/0.1/name> "Айрово"@en .
+<http://dbpedia.org/resource/Ayrovo> <http://www.w3.org/2000/01/rdf-schema#label> "Ayrovo"@en .
+<http://dbpedia.org/resource/Ayrovo> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Kardzhali_Municipality> .
+<http://dbpedia.org/resource/Ayrovo> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Villages_in_Kardzhali_Province> .

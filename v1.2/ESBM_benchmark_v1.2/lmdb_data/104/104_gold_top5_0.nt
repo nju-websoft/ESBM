@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/film/14438> <http://purl.org/dc/terms/title> "Now You See Him, Now You Don't" .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/31101> .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/initial_release_date> "1972" .
+<http://data.linkedmdb.org/resource/film/14438> <http://data.linkedmdb.org/resource/movie/director> <http://data.linkedmdb.org/resource/director/10044> .
+<http://data.linkedmdb.org/resource/film/14438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/film> .

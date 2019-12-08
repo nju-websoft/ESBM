@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Actinopterygii> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Cambodia> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Laos> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Fish_of_Vietnam> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Fish> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Cypriniformes> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Mekong_river_location.jpg?width=300> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/genus> <http://dbpedia.org/resource/Henicorhynchus> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Cyprinidae> .
+<http://dbpedia.org/resource/Siamese_mud_carp> <http://www.w3.org/2000/01/rdf-schema#label> "Siamese mud carp"@en .

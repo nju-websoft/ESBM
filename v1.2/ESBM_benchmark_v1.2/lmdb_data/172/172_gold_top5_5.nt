@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/30423> <http://www.w3.org/2000/01/rdf-schema#label> "Rowan Atkinson (Actor)" .
+<http://data.linkedmdb.org/resource/actor/30423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/30423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://data.linkedmdb.org/resource/actor/30423> <http://data.linkedmdb.org/resource/movie/performance> <http://data.linkedmdb.org/resource/performance/32909> .
+<http://data.linkedmdb.org/resource/actor/30423> <http://data.linkedmdb.org/resource/movie/actor_name> "Rowan Atkinson" .

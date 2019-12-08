@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://dbpedia.org/ontology/thumbnail> <http://commons.wikimedia.org/wiki/Special:FilePath/Construction_of_Interstate_95,_downtown_Richmond_(2899336022).jpg?width=300> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Road> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://dbpedia.org/ontology/length> "56327.04"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Former_toll_roads_in_Virginia> .
+<http://dbpedia.org/resource/Richmond–Petersburg_Turnpike> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Transportation_in_Petersburg,_Virginia> .

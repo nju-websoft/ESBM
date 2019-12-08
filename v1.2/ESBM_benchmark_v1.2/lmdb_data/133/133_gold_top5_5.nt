@@ -1,0 +1,5 @@
+<http://data.linkedmdb.org/resource/actor/38875> <http://www.w3.org/2000/01/rdf-schema#label> "James Hong (Actor)" .
+<http://data.linkedmdb.org/resource/film/284> <http://data.linkedmdb.org/resource/movie/actor> <http://data.linkedmdb.org/resource/actor/38875> .
+<http://data.linkedmdb.org/resource/actor/38875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.linkedmdb.org/resource/movie/actor> .
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/actor_name> "James Hong" .
+<http://data.linkedmdb.org/resource/actor/38875> <http://data.linkedmdb.org/resource/movie/actor_actorid> "38875"^^<http://www.w3.org/2001/XMLSchema#int> .

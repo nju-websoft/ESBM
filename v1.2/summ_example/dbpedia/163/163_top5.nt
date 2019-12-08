@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://www.w3.org/2000/01/rdf-schema#label> "Silence Is Easy (song)"@en .
+<http://dbpedia.org/resource/Poor_Misguided_Fool> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Silence_Is_Easy_(song)> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Poor_Misguided_Fool> .
+<http://dbpedia.org/resource/Silence_Is_Easy_(song)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Born_Again_(Starsailor_song)> .
+<http://dbpedia.org/resource/Born_Again_(Starsailor_song)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Silence_Is_Easy_(song)> .

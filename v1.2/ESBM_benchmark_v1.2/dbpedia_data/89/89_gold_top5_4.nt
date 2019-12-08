@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Myco-heterotrophic_orchids> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Orchids_of_Thailand> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://www.w3.org/2000/01/rdf-schema#label> "Thaia saprophytica"@en .
+<http://dbpedia.org/resource/Thaia_saprophytica> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Neottieae> .

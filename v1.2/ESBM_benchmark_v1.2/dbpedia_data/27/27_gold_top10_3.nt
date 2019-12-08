@@ -1,0 +1,10 @@
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/district> <http://dbpedia.org/resource/Schleswig-Flensburg> .
+<http://dbpedia.org/resource/Uelsby> <http://www.georss.org/georss/point> "54.6 9.566666666666666" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaTotal> "1.06E7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "54.6"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/elevation> "34.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/areaCode> "SL" .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "9.566667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Uelsby> <http://dbpedia.org/ontology/federalState> <http://dbpedia.org/resource/Schleswig-Holstein> .
+<http://dbpedia.org/resource/Uelsby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PopulatedPlace> .

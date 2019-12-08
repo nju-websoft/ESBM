@@ -1,0 +1,5 @@
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/budget> "100000.0"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/championInSingleMale> <http://dbpedia.org/resource/Magdaléna_Rybáriková> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://xmlns.com/foaf/0.1/homepage> <http://www.spartapragueopen.cz/en> .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://dbpedia.org/ontology/tennisSurfaceType> "Clay" .
+<http://dbpedia.org/resource/2011_Sparta_Prague_Open> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TennisTournament> .
