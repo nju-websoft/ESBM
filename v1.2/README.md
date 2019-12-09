@@ -115,7 +115,10 @@ The directory structure of these files should be as follows.
 			|-- 1_rank.nt
 		|-- 2
 		|-- ...
-		|-- 100
+		|-- 100	
+		|-- 141	
+		|-- ...
+		|-- 165	
   	|-- lmdb
 		|-- 101
 			|-- 101_top5.nt
@@ -124,6 +127,9 @@ The directory structure of these files should be as follows.
 		|-- 102
 		|-- ...
 		|-- 140
+		|-- 166
+		|-- ...
+		|-- 175
 </pre>
 
 An example of output files is given in <code>summ_example</code>.
