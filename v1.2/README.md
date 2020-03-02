@@ -382,6 +382,109 @@ You are encouraged to submit the results of your entity summarizer by contacting
 </tr>
 </tbody></table>
 
+## Additional Results
+ 
+<strong>Table 3. F-measure (max over different ground-truth summaries) </strong>
+<table class="tablesorter" id="tb_fmeasure2">
+<thead>
+<tr>
+<th rowspan="2" data-sorter="false" class="header"></th>
+<th colspan="2" class="nosort header">DBpedia</th>
+<th colspan="2" class="nosort header">LinkedMDB</th>
+<th colspan="2" class="nosort header">All</th>
+</tr>
+<tr>
+<th id="dbp1" class="header">k=5</th>
+<th id="dbp2" class="header">k=10</th>
+<th id="lmdb1" class="header">k=5</th>
+<th id="lmdb1" class="header">k=10</th>
+<th id="all1" class="header">k=5</th>
+<th id="all1" class="header">k=10</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>RELIN [1]</td>
+<td name="td1">0.405<br><span></span></td>
+<td name="td2">0.591<br><span></span></td>
+<td name="td3">0.400<br><span></span></td>
+<td name="td4">0.448<br><span></span></td>
+<td name="td5">0.403<br><span></span></td>
+<td name="td6">0.550<br><span></span></td>
+</tr><tr>
+<td>DIVERSUM [2]</td>
+<td name="td1">0.416</td>
+<td name="td2">0.647</td>
+<td name="td3">0.352</td>
+<td name="td4">0.514</td>
+<td name="td5">0.398</td>
+<td name="td6">0.609</td>
+</tr>
+<tr>
+<td>FACES [3]</td>
+<td name="td1">0.458</td>
+<td name="td2">0.556</td>
+<td name="td3">0.313</td>
+<td name="td4">0.372</td>
+<td name="td5">0.417</td>
+<td name="td6">0.504</td>
+</tr>
+<tr>
+<td>FACES-E [4]</td>
+<td name="td1">0.458</td>
+<td name="td2">0.615</td>
+<td name="td3">0.476</td>
+<td name="td4">0.548</td>
+<td name="td5">0.463</td>
+<td name="td6">0.596</td>
+</tr>
+<tr>
+<td>CD [5]<br></td>
+<td name="td1">0.475</td>
+<td name="td2">0.647</td>
+<td name="td3">0.420<br></td>
+<td name="td4">0.484<br></td>
+<td name="td5">0.459<br></td>
+<td name="td6">0.601<br></td>
+</tr>
+<tr>
+<td>LinkSUM [6]</td>
+<td name="td1">0.495<br></td>
+<td name="td2">0.637<br></td>
+<td name="td3">0.260<br></td>
+<td name="td4">0.416<br></td>
+<td name="td5">0.428<br></td>
+<td name="td6">0.574<br></td>
+</tr>
+<tr>
+<td>BAFREC [7]</td>
+<td name="td1">0.554</td>
+<td name="td2">0.641</td>
+<td name="td3">0.552</td>
+<td name="td4">0.572</td>
+<td name="td5">0.553</td>
+<td name="td6">0.621</td>
+</tr>
+<tr>
+<td>KAFCA [8]</td>
+<td name="td1">0.314<br></td>
+<td name="td2">0.509<br></td>
+<td name="td3">0.244<br></td>
+<td name="td4">0.397<br></td>
+<td name="td5">0.294<br></td>
+<td name="td6">0.477<br></td>
+</tr>
+<tr>
+<td>MPSUM [9]</td>
+<td name="td1">0.501</td>
+<td name="td2">0.646</td>
+<td name="td3">0.472</td>
+<td name="td4">0.568</td>
+<td name="td5">0.493</td>
+<td name="td6">0.624</td>
+</tr>
+</tbody></table>
+
+
 # References
 
 <p>
