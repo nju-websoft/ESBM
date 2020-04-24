@@ -20,3 +20,18 @@ You are encouraged to submit the results of your entity summarizer by contacting
 
 # Contact
 If you have any questions or suggestions, please feel free to contact [Qingxia Liu](http://ws.nju.edu.cn/people/qxliu) and [Gong Cheng](http://ws.nju.edu.cn/~gcheng). This work is also credited to Kalpa Gunaratna.
+
+## Citation
+If you use this benchmark, please kindly cite the following paper:
+
+```
+@inproceedings{esbm,
+  author    = {Qingxia Liu and
+                Gong Cheng and
+                Kalpa Gunaratna and
+                Yuzhong Qu},
+  title     = {ESBM: An Entity Summarization Benchmark},
+  booktitle = {ESWC},
+  year      = {2020}
+}
+```
