@@ -10,8 +10,8 @@ xmlns:dc="http://purl.org/dc/elements/1.1/">
  <dc:description>ESBM (short for Entity Summarization BenchMark) is a benchmark for evaluating algorithms for entity summarization, aka entity summarizers.</dc:description>
 <dcterms:license rdf:resouroce="https://opendatacommons.org/licenses/by/1-0/index.html" />
 <dcterms:modified>2019-12-08</dcterms:modified>
-<dcterms:creator rdf:resource="http://ws.nju.edu.cn/people/qxliu"/>
-<dcterms:creator rdf:resource="http://ws.nju.edu.cn/people/gcheng"/>
+<dc:creator rdf:resource="http://ws.nju.edu.cn/people/qxliu"/>
+<dc:creator rdf:resource="http://ws.nju.edu.cn/people/gcheng"/>
   <dc:publisher rdf:resource="http://ws.nju.edu.cn/" />
   <dcterms:hasVersion rdf:resource="https://w3id.org/esbm/v1.0" />
   <dcterms:hasVersion rdf:resource="https://w3id.org/esbm/v1.1" />
