@@ -503,7 +503,7 @@ You are encouraged to submit the results of your entity summarizer by contacting
 If you have any questions or suggestions, please feel free to contact [Qingxia Liu](http://ws.nju.edu.cn/people/qxliu) and [Gong Cheng](http://ws.nju.edu.cn/~gcheng). This work is also credited to Kalpa Gunaratna.
 
 # Citation
-If you use this benchmark, please kindly cite the following paper (Best Resource Track Paper Nominee of [ESWC 2020](https://2020.eswc-conferences.org)):
+If you use this benchmark, please kindly cite the following paper (Best Resource Track Paper Nominee of [ESWC 2020](https://2020.eswc-conferences.org), Video of this paper can be found [here](https://youtu.be/arLGlplC8Kk)):
 
 ```
 @inproceedings{esbm,
