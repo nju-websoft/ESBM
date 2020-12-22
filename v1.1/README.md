@@ -1,5 +1,5 @@
 # ESBM Benchmark v1.1
-https://w3id.org/esbm/
+https://w3id.org/esbm
 
 Last update: 2019-03-26
 

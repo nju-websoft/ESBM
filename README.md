@@ -1,5 +1,5 @@
 # ESBM Benchmark
-https://w3id.org/esbm/
+https://w3id.org/esbm
 
 License: [ODC Attribution License (ODC-By)](https://opendatacommons.org/licenses/by/1-0/index.html)
 
@@ -22,7 +22,7 @@ You are encouraged to submit the results of your entity summarizer by contacting
 If you have any questions or suggestions, please feel free to contact [Qingxia Liu](http://ws.nju.edu.cn/people/qxliu) and [Gong Cheng](http://ws.nju.edu.cn/~gcheng). This work is also credited to Kalpa Gunaratna.
 
 ## Citation
-If you use this benchmark, please kindly cite the following paper (Best Resource Track Paper Nominee of [ESWC 2020](https://2020.eswc-conferences.org), Video of this paper can be found [here](https://youtu.be/arLGlplC8Kk)):
+If you use this benchmark, please cite the following paper (Best Resource Track Paper Nominee of [ESWC 2020](https://2020.eswc-conferences.org), video of this paper can be found [here](https://youtu.be/arLGlplC8Kk)):
 
 ```
 @inproceedings{esbm,
